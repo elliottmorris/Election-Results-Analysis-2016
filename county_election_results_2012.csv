@@ -243,8 +243,8 @@
 "al","perry","Other",10,0.2,100,1105,2012
 "al","pickens","Barack Obama",4448,46.3,100,1107,2012
 "al","pickens","Mitt Romney",5119,53.3,100,1107,2012
-"al","pickens","Gary Johnson",16,0.2,100,1107,2012
 "al","pickens","Other",16,0.2,100,1107,2012
+"al","pickens","Gary Johnson",16,0.2,100,1107,2012
 "al","pike","Gary Johnson",76,0.5,100,1109,2012
 "al","pike","Other",33,0.2,100,1109,2012
 "al","pike","Mitt Romney",7939,56.5,100,1109,2012
@@ -289,9 +289,9 @@
 "al","washington","Other",19,0.2,100,1129,2012
 "al","washington","Mitt Romney",5749,65.6,100,1129,2012
 "al","washington","Gary Johnson",22,0.3,100,1129,2012
-"al","wilcox","Gary Johnson",2,NA,100,1131,2012
-"al","wilcox","Mitt Romney",1676,25.6,100,1131,2012
 "al","wilcox","Other",2,NA,100,1131,2012
+"al","wilcox","Mitt Romney",1676,25.6,100,1131,2012
+"al","wilcox","Gary Johnson",2,NA,100,1131,2012
 "al","wilcox","Barack Obama",4867,74.3,100,1131,2012
 "al","winston","Gary Johnson",57,0.6,100,1133,2012
 "al","winston","Barack Obama",1286,13.2,100,1133,2012
@@ -1202,9 +1202,9 @@
 "fl","alachua","Other",613,0.5,100,12001,2012
 "fl","alachua","Mitt Romney",48765,40.5,100,12001,2012
 "fl","baker","Mitt Romney",8974,79,100,12003,2012
-"fl","baker","Gary Johnson",41,0.4,100,12003,2012
-"fl","baker","Barack Obama",2310,20.3,100,12003,2012
 "fl","baker","Other",41,0.4,100,12003,2012
+"fl","baker","Barack Obama",2310,20.3,100,12003,2012
+"fl","baker","Gary Johnson",41,0.4,100,12003,2012
 "fl","bay","Mitt Romney",56863,71.2,100,12005,2012
 "fl","bay","Gary Johnson",573,0.7,100,12005,2012
 "fl","bay","Barack Obama",22037,27.6,100,12005,2012
@@ -2110,10 +2110,10 @@
 "hi","honolulu","Barack Obama",201803,68.9,100,15003,2012
 "hi","honolulu","Gary Johnson",2217,0.8,100,15003,2012
 "hi","honolulu","Other",1650,0.6,100,15003,2012
-"hi","kalawao","Gary Johnson",NA,NA,0,15005,2012
 "hi","kalawao","Other",NA,NA,0,15005,2012
 "hi","kalawao","Barack Obama",NA,NA,0,15005,2012
 "hi","kalawao","Mitt Romney",NA,NA,0,15005,2012
+"hi","kalawao","Gary Johnson",NA,NA,0,15005,2012
 "hi","kauai","Gary Johnson",272,1.1,100,15007,2012
 "hi","kauai","Mitt Romney",6121,24.1,100,15007,2012
 "hi","kauai","Other",338,1.3,100,15007,2012
@@ -2263,9 +2263,9 @@
 "ia","franklin","Barack Obama",2256,44,100,19069,2012
 "ia","franklin","Mitt Romney",2818,54.9,100,19069,2012
 "ia","fremont","Barack Obama",1636,44.8,100,19071,2012
-"ia","fremont","Gary Johnson",24,0.7,100,19071,2012
-"ia","fremont","Mitt Romney",1971,53.9,100,19071,2012
 "ia","fremont","Other",24,0.7,100,19071,2012
+"ia","fremont","Mitt Romney",1971,53.9,100,19071,2012
+"ia","fremont","Gary Johnson",24,0.7,100,19071,2012
 "ia","greene","Mitt Romney",2373,49.4,100,19073,2012
 "ia","greene","Gary Johnson",29,0.6,100,19073,2012
 "ia","greene","Barack Obama",2369,49.3,100,19073,2012
@@ -3709,10 +3709,10 @@
 "ks","mcpherson","Other",71,0.6,100,20113,2012
 "ks","mcpherson","Barack Obama",3384,28.1,100,20113,2012
 "ks","mcpherson","Gary Johnson",206,1.7,100,20113,2012
-"ks","meade","Gary Johnson",NA,NA,100,20119,2012
+"ks","meade","Other",NA,NA,100,20119,2012
 "ks","meade","Mitt Romney",1394,84.6,100,20119,2012
 "ks","meade","Barack Obama",254,15.4,100,20119,2012
-"ks","meade","Other",NA,NA,100,20119,2012
+"ks","meade","Gary Johnson",NA,NA,100,20119,2012
 "ks","miami","Barack Obama",4635,31.7,100,20121,2012
 "ks","miami","Gary Johnson",213,1.5,100,20121,2012
 "ks","miami","Other",68,0.5,100,20121,2012
@@ -4041,8 +4041,8 @@
 "ky","franklin","Mitt Romney",11345,48.6,100,21073,2012
 "ky","franklin","Gary Johnson",226,1,100,21073,2012
 "ky","franklin","Other",231,1,100,21073,2012
-"ky","fulton","Other",17,0.7,100,21075,2012
 "ky","fulton","Gary Johnson",17,0.7,100,21075,2012
+"ky","fulton","Other",17,0.7,100,21075,2012
 "ky","fulton","Mitt Romney",1425,57.4,100,21075,2012
 "ky","fulton","Barack Obama",1022,41.2,100,21075,2012
 "ky","gallatin","Barack Obama",1238,40.5,100,21077,2012
@@ -4249,9 +4249,9 @@
 "ky","muhlenberg","Mitt Romney",7762,60.9,100,21177,2012
 "ky","muhlenberg","Gary Johnson",86,0.7,100,21177,2012
 "ky","muhlenberg","Other",118,0.9,100,21177,2012
-"ky","nelson","Gary Johnson",124,0.7,100,21179,2012
-"ky","nelson","Barack Obama",7611,41.1,100,21179,2012
 "ky","nelson","Other",124,0.7,100,21179,2012
+"ky","nelson","Barack Obama",7611,41.1,100,21179,2012
+"ky","nelson","Gary Johnson",124,0.7,100,21179,2012
 "ky","nelson","Mitt Romney",10673,57.6,100,21179,2012
 "ky","nicholas","Gary Johnson",27,1,100,21181,2012
 "ky","nicholas","Other",22,0.9,100,21181,2012
@@ -6277,10 +6277,10 @@
 "ms","tishomingo","Barack Obama",1623,20.7,100,28141,2012
 "ms","tishomingo","Gary Johnson",86,1.1,100,28141,2012
 "ms","tishomingo","Mitt Romney",6070,77.3,100,28141,2012
-"ms","tunica","Other",12,0.3,100,28143,2012
+"ms","tunica","Gary Johnson",12,0.3,100,28143,2012
 "ms","tunica","Mitt Romney",867,20.3,100,28143,2012
 "ms","tunica","Barack Obama",3371,79.1,100,28143,2012
-"ms","tunica","Gary Johnson",12,0.3,100,28143,2012
+"ms","tunica","Other",12,0.3,100,28143,2012
 "ms","union","Other",47,0.5,100,28145,2012
 "ms","union","Mitt Romney",7759,74.9,100,28145,2012
 "ms","union","Gary Johnson",72,0.7,100,28145,2012
@@ -6313,10 +6313,10 @@
 "ms","winston","Mitt Romney",5147,52.7,100,28159,2012
 "ms","winston","Gary Johnson",24,0.2,100,28159,2012
 "ms","winston","Other",30,0.3,100,28159,2012
-"ms","yalobusha","Other",24,0.4,100,28161,2012
+"ms","yalobusha","Gary Johnson",24,0.4,100,28161,2012
 "ms","yalobusha","Mitt Romney",3261,51.8,100,28161,2012
 "ms","yalobusha","Barack Obama",2984,47.4,100,28161,2012
-"ms","yalobusha","Gary Johnson",24,0.4,100,28161,2012
+"ms","yalobusha","Other",24,0.4,100,28161,2012
 "ms","yazoo","Other",41,0.4,100,28163,2012
 "ms","yazoo","Mitt Romney",4560,42,100,28163,2012
 "ms","yazoo","Gary Johnson",32,0.3,100,28163,2012
@@ -7045,9 +7045,9 @@
 "nd","mchenry","Other",19,0.7,100,38049,2012
 "nd","mchenry","Barack Obama",924,34.8,100,38049,2012
 "nd","mchenry","Mitt Romney",1651,62.2,100,38049,2012
-"nd","mcintosh","Gary Johnson",13,0.9,100,38051,2012
-"nd","mcintosh","Mitt Romney",1028,68.1,100,38051,2012
 "nd","mcintosh","Other",13,0.9,100,38051,2012
+"nd","mcintosh","Mitt Romney",1028,68.1,100,38051,2012
+"nd","mcintosh","Gary Johnson",13,0.9,100,38051,2012
 "nd","mcintosh","Barack Obama",456,30.2,100,38051,2012
 "nd","mckenzie","Other",17,0.5,100,38053,2012
 "nd","mckenzie","Mitt Romney",2450,71.6,100,38053,2012
@@ -7110,9 +7110,9 @@
 "nd","sargent","Gary Johnson",22,1.1,100,38081,2012
 "nd","sargent","Mitt Romney",876,44.1,100,38081,2012
 "nd","sheridan","Barack Obama",161,19.9,100,38083,2012
-"nd","sheridan","Other",5,0.6,100,38083,2012
-"nd","sheridan","Mitt Romney",637,78.8,100,38083,2012
 "nd","sheridan","Gary Johnson",5,0.6,100,38083,2012
+"nd","sheridan","Mitt Romney",637,78.8,100,38083,2012
+"nd","sheridan","Other",5,0.6,100,38083,2012
 "nd","sioux","Gary Johnson",5,0.4,100,38085,2012
 "nd","sioux","Other",10,0.9,100,38085,2012
 "nd","sioux","Barack Obama",900,79.1,100,38085,2012
@@ -8043,8 +8043,8 @@
 "ny","schenectady","Mitt Romney",24608,41.3,100,36093,2012
 "ny","schenectady","Barack Obama",33777,56.7,100,36093,2012
 "ny","schenectady","Other",603,1,100,36093,2012
-"ny","schoharie","Gary Johnson",116,1,100,36095,2012
 "ny","schoharie","Other",116,1,100,36095,2012
+"ny","schoharie","Gary Johnson",116,1,100,36095,2012
 "ny","schoharie","Barack Obama",4862,40.7,100,36095,2012
 "ny","schoharie","Mitt Romney",6849,57.3,100,36095,2012
 "ny","schuyler","Gary Johnson",76,1,100,36097,2012
@@ -8464,24 +8464,24 @@
 "ok","adair","Other",NA,NA,100,40001,2012
 "ok","adair","Barack Obama",2110,32.6,100,40001,2012
 "ok","adair","Mitt Romney",4362,67.4,100,40001,2012
-"ok","alfalfa","Gary Johnson",NA,NA,100,40003,2012
 "ok","alfalfa","Other",NA,NA,100,40003,2012
+"ok","alfalfa","Gary Johnson",NA,NA,100,40003,2012
 "ok","alfalfa","Mitt Romney",1539,84.7,100,40003,2012
 "ok","alfalfa","Barack Obama",278,15.3,100,40003,2012
 "ok","atoka","Mitt Romney",3534,74,100,40005,2012
 "ok","atoka","Other",NA,NA,100,40005,2012
 "ok","atoka","Gary Johnson",NA,NA,100,40005,2012
 "ok","atoka","Barack Obama",1241,26,100,40005,2012
-"ok","beaver","Gary Johnson",NA,NA,100,40007,2012
+"ok","beaver","Other",NA,NA,100,40007,2012
 "ok","beaver","Barack Obama",243,10.6,100,40007,2012
 "ok","beaver","Mitt Romney",2057,89.4,100,40007,2012
-"ok","beaver","Other",NA,NA,100,40007,2012
+"ok","beaver","Gary Johnson",NA,NA,100,40007,2012
 "ok","beckham","Barack Obama",1413,20.5,100,40009,2012
-"ok","beckham","Other",NA,NA,100,40009,2012
 "ok","beckham","Gary Johnson",NA,NA,100,40009,2012
+"ok","beckham","Other",NA,NA,100,40009,2012
 "ok","beckham","Mitt Romney",5496,79.5,100,40009,2012
-"ok","blaine","Other",NA,NA,100,40011,2012
 "ok","blaine","Gary Johnson",NA,NA,100,40011,2012
+"ok","blaine","Other",NA,NA,100,40011,2012
 "ok","blaine","Mitt Romney",2824,74,100,40011,2012
 "ok","blaine","Barack Obama",991,26,100,40011,2012
 "ok","bryan","Barack Obama",3533,27.8,100,40013,2012
@@ -8490,30 +8490,30 @@
 "ok","bryan","Mitt Romney",9188,72.2,100,40013,2012
 "ok","caddo","Mitt Romney",5660,64.2,100,40015,2012
 "ok","caddo","Barack Obama",3151,35.8,100,40015,2012
-"ok","caddo","Gary Johnson",NA,NA,100,40015,2012
 "ok","caddo","Other",NA,NA,100,40015,2012
-"ok","canadian","Gary Johnson",NA,NA,100,40017,2012
-"ok","canadian","Barack Obama",10533,22.8,100,40017,2012
+"ok","caddo","Gary Johnson",NA,NA,100,40015,2012
 "ok","canadian","Other",NA,NA,100,40017,2012
+"ok","canadian","Barack Obama",10533,22.8,100,40017,2012
+"ok","canadian","Gary Johnson",NA,NA,100,40017,2012
 "ok","canadian","Mitt Romney",35615,77.2,100,40017,2012
 "ok","carter","Mitt Romney",12213,71.3,100,40019,2012
 "ok","carter","Barack Obama",4907,28.7,100,40019,2012
-"ok","carter","Gary Johnson",NA,NA,100,40019,2012
 "ok","carter","Other",NA,NA,100,40019,2012
+"ok","carter","Gary Johnson",NA,NA,100,40019,2012
 "ok","cherokee","Mitt Romney",8151,57,100,40021,2012
 "ok","cherokee","Gary Johnson",NA,NA,100,40021,2012
 "ok","cherokee","Other",NA,NA,100,40021,2012
 "ok","cherokee","Barack Obama",6137,43,100,40021,2012
 "ok","choctaw","Barack Obama",1494,29.5,100,40023,2012
 "ok","choctaw","Mitt Romney",3572,70.5,100,40023,2012
-"ok","choctaw","Other",NA,NA,100,40023,2012
 "ok","choctaw","Gary Johnson",NA,NA,100,40023,2012
+"ok","choctaw","Other",NA,NA,100,40023,2012
 "ok","cimarron","Mitt Romney",1082,90.4,100,40025,2012
-"ok","cimarron","Other",NA,NA,100,40025,2012
-"ok","cimarron","Barack Obama",115,9.6,100,40025,2012
 "ok","cimarron","Gary Johnson",NA,NA,100,40025,2012
-"ok","cleveland","Other",NA,NA,100,40027,2012
+"ok","cimarron","Barack Obama",115,9.6,100,40025,2012
+"ok","cimarron","Other",NA,NA,100,40025,2012
 "ok","cleveland","Gary Johnson",NA,NA,100,40027,2012
+"ok","cleveland","Other",NA,NA,100,40027,2012
 "ok","cleveland","Mitt Romney",59019,63,100,40027,2012
 "ok","cleveland","Barack Obama",34701,37,100,40027,2012
 "ok","coal","Barack Obama",648,27.5,100,40029,2012
@@ -8522,78 +8522,78 @@
 "ok","coal","Other",NA,NA,100,40029,2012
 "ok","comanche","Mitt Romney",17657,58.5,100,40031,2012
 "ok","comanche","Barack Obama",12517,41.5,100,40031,2012
-"ok","comanche","Other",NA,NA,100,40031,2012
 "ok","comanche","Gary Johnson",NA,NA,100,40031,2012
+"ok","comanche","Other",NA,NA,100,40031,2012
 "ok","cotton","Barack Obama",657,26.8,100,40033,2012
-"ok","cotton","Gary Johnson",NA,NA,100,40033,2012
-"ok","cotton","Mitt Romney",1796,73.2,100,40033,2012
 "ok","cotton","Other",NA,NA,100,40033,2012
+"ok","cotton","Mitt Romney",1796,73.2,100,40033,2012
+"ok","cotton","Gary Johnson",NA,NA,100,40033,2012
 "ok","craig","Barack Obama",1746,33,100,40035,2012
 "ok","craig","Mitt Romney",3552,67,100,40035,2012
-"ok","craig","Gary Johnson",NA,NA,100,40035,2012
 "ok","craig","Other",NA,NA,100,40035,2012
+"ok","craig","Gary Johnson",NA,NA,100,40035,2012
 "ok","creek","Other",NA,NA,100,40037,2012
 "ok","creek","Gary Johnson",NA,NA,100,40037,2012
 "ok","creek","Barack Obama",7114,27.3,100,40037,2012
 "ok","creek","Mitt Romney",18964,72.7,100,40037,2012
-"ok","custer","Gary Johnson",NA,NA,100,40039,2012
+"ok","custer","Other",NA,NA,100,40039,2012
 "ok","custer","Mitt Romney",7442,75.9,100,40039,2012
 "ok","custer","Barack Obama",2358,24.1,100,40039,2012
-"ok","custer","Other",NA,NA,100,40039,2012
-"ok","delaware","Gary Johnson",NA,NA,100,40041,2012
+"ok","custer","Gary Johnson",NA,NA,100,40039,2012
 "ok","delaware","Other",NA,NA,100,40041,2012
+"ok","delaware","Gary Johnson",NA,NA,100,40041,2012
 "ok","delaware","Barack Obama",4176,29.3,100,40041,2012
 "ok","delaware","Mitt Romney",10056,70.7,100,40041,2012
-"ok","dewey","Gary Johnson",NA,NA,100,40043,2012
-"ok","dewey","Barack Obama",301,14.5,100,40043,2012
 "ok","dewey","Other",NA,NA,100,40043,2012
+"ok","dewey","Barack Obama",301,14.5,100,40043,2012
+"ok","dewey","Gary Johnson",NA,NA,100,40043,2012
 "ok","dewey","Mitt Romney",1769,85.5,100,40043,2012
 "ok","ellis","Other",NA,NA,100,40045,2012
 "ok","ellis","Gary Johnson",NA,NA,100,40045,2012
 "ok","ellis","Mitt Romney",1575,87.5,100,40045,2012
 "ok","ellis","Barack Obama",226,12.5,100,40045,2012
-"ok","garfield","Other",NA,NA,100,40047,2012
-"ok","garfield","Barack Obama",4732,23.8,100,40047,2012
 "ok","garfield","Gary Johnson",NA,NA,100,40047,2012
+"ok","garfield","Barack Obama",4732,23.8,100,40047,2012
+"ok","garfield","Other",NA,NA,100,40047,2012
 "ok","garfield","Mitt Romney",15176,76.2,100,40047,2012
 "ok","garvin","Mitt Romney",6922,73,100,40049,2012
-"ok","garvin","Gary Johnson",NA,NA,100,40049,2012
-"ok","garvin","Barack Obama",2556,27,100,40049,2012
 "ok","garvin","Other",NA,NA,100,40049,2012
+"ok","garvin","Barack Obama",2556,27,100,40049,2012
+"ok","garvin","Gary Johnson",NA,NA,100,40049,2012
 "ok","grady","Barack Obama",4780,24.4,100,40051,2012
-"ok","grady","Other",NA,NA,100,40051,2012
-"ok","grady","Mitt Romney",14818,75.6,100,40051,2012
 "ok","grady","Gary Johnson",NA,NA,100,40051,2012
+"ok","grady","Mitt Romney",14818,75.6,100,40051,2012
+"ok","grady","Other",NA,NA,100,40051,2012
 "ok","grant","Barack Obama",393,19,100,40053,2012
 "ok","grant","Mitt Romney",1674,81,100,40053,2012
 "ok","grant","Other",NA,NA,100,40053,2012
 "ok","grant","Gary Johnson",NA,NA,100,40053,2012
 "ok","greer","Barack Obama",488,26.6,100,40055,2012
-"ok","greer","Other",NA,NA,100,40055,2012
 "ok","greer","Gary Johnson",NA,NA,100,40055,2012
+"ok","greer","Other",NA,NA,100,40055,2012
 "ok","greer","Mitt Romney",1344,73.4,100,40055,2012
 "ok","harmon","Barack Obama",264,28.6,100,40057,2012
-"ok","harmon","Other",NA,NA,100,40057,2012
-"ok","harmon","Mitt Romney",659,71.4,100,40057,2012
 "ok","harmon","Gary Johnson",NA,NA,100,40057,2012
+"ok","harmon","Mitt Romney",659,71.4,100,40057,2012
+"ok","harmon","Other",NA,NA,100,40057,2012
 "ok","harper","Mitt Romney",1261,87.9,100,40059,2012
-"ok","harper","Gary Johnson",NA,NA,100,40059,2012
 "ok","harper","Other",NA,NA,100,40059,2012
+"ok","harper","Gary Johnson",NA,NA,100,40059,2012
 "ok","harper","Barack Obama",173,12.1,100,40059,2012
 "ok","haskell","Other",NA,NA,100,40061,2012
 "ok","haskell","Barack Obama",1175,27.7,100,40061,2012
 "ok","haskell","Gary Johnson",NA,NA,100,40061,2012
 "ok","haskell","Mitt Romney",3069,72.3,100,40061,2012
-"ok","hughes","Other",NA,NA,100,40063,2012
-"ok","hughes","Mitt Romney",2836,67.4,100,40063,2012
 "ok","hughes","Gary Johnson",NA,NA,100,40063,2012
+"ok","hughes","Mitt Romney",2836,67.4,100,40063,2012
+"ok","hughes","Other",NA,NA,100,40063,2012
 "ok","hughes","Barack Obama",1370,32.6,100,40063,2012
 "ok","jackson","Barack Obama",1953,24.7,100,40065,2012
-"ok","jackson","Gary Johnson",NA,NA,100,40065,2012
-"ok","jackson","Mitt Romney",5962,75.3,100,40065,2012
 "ok","jackson","Other",NA,NA,100,40065,2012
-"ok","jefferson","Other",NA,NA,100,40067,2012
+"ok","jackson","Mitt Romney",5962,75.3,100,40065,2012
+"ok","jackson","Gary Johnson",NA,NA,100,40065,2012
 "ok","jefferson","Gary Johnson",NA,NA,100,40067,2012
+"ok","jefferson","Other",NA,NA,100,40067,2012
 "ok","jefferson","Barack Obama",602,26.9,100,40067,2012
 "ok","jefferson","Mitt Romney",1632,73.1,100,40067,2012
 "ok","johnston","Barack Obama",1134,30,100,40069,2012
@@ -8601,132 +8601,132 @@
 "ok","johnston","Mitt Romney",2644,70,100,40069,2012
 "ok","johnston","Other",NA,NA,100,40069,2012
 "ok","kay","Mitt Romney",11498,71.3,100,40071,2012
-"ok","kay","Other",NA,NA,100,40071,2012
-"ok","kay","Barack Obama",4624,28.7,100,40071,2012
 "ok","kay","Gary Johnson",NA,NA,100,40071,2012
-"ok","kingfisher","Other",NA,NA,100,40073,2012
-"ok","kingfisher","Mitt Romney",4510,84.2,100,40073,2012
+"ok","kay","Barack Obama",4624,28.7,100,40071,2012
+"ok","kay","Other",NA,NA,100,40071,2012
 "ok","kingfisher","Gary Johnson",NA,NA,100,40073,2012
+"ok","kingfisher","Mitt Romney",4510,84.2,100,40073,2012
+"ok","kingfisher","Other",NA,NA,100,40073,2012
 "ok","kingfisher","Barack Obama",844,15.8,100,40073,2012
 "ok","kiowa","Mitt Romney",2309,67.7,100,40075,2012
-"ok","kiowa","Gary Johnson",NA,NA,100,40075,2012
 "ok","kiowa","Other",NA,NA,100,40075,2012
+"ok","kiowa","Gary Johnson",NA,NA,100,40075,2012
 "ok","kiowa","Barack Obama",1101,32.3,100,40075,2012
 "ok","latimer","Other",NA,NA,100,40077,2012
 "ok","latimer","Mitt Romney",2620,69.1,100,40077,2012
 "ok","latimer","Gary Johnson",NA,NA,100,40077,2012
 "ok","latimer","Barack Obama",1169,30.9,100,40077,2012
-"ok","le flore","Gary Johnson",NA,NA,100,40079,2012
+"ok","le flore","Other",NA,NA,100,40079,2012
 "ok","le flore","Barack Obama",4658,29.4,100,40079,2012
 "ok","le flore","Mitt Romney",11172,70.6,100,40079,2012
-"ok","le flore","Other",NA,NA,100,40079,2012
-"ok","lincoln","Gary Johnson",NA,NA,100,40081,2012
-"ok","lincoln","Mitt Romney",9542,74.5,100,40081,2012
+"ok","le flore","Gary Johnson",NA,NA,100,40079,2012
 "ok","lincoln","Other",NA,NA,100,40081,2012
+"ok","lincoln","Mitt Romney",9542,74.5,100,40081,2012
+"ok","lincoln","Gary Johnson",NA,NA,100,40081,2012
 "ok","lincoln","Barack Obama",3265,25.5,100,40081,2012
 "ok","logan","Barack Obama",4686,27.6,100,40083,2012
-"ok","logan","Gary Johnson",NA,NA,100,40083,2012
 "ok","logan","Other",NA,NA,100,40083,2012
+"ok","logan","Gary Johnson",NA,NA,100,40083,2012
 "ok","logan","Mitt Romney",12297,72.4,100,40083,2012
 "ok","love","Barack Obama",1034,29.8,100,40085,2012
 "ok","love","Other",NA,NA,100,40085,2012
 "ok","love","Gary Johnson",NA,NA,100,40085,2012
 "ok","love","Mitt Romney",2436,70.2,100,40085,2012
 "ok","major","Barack Obama",446,14.2,100,40093,2012
-"ok","major","Other",NA,NA,100,40093,2012
 "ok","major","Gary Johnson",NA,NA,100,40093,2012
+"ok","major","Other",NA,NA,100,40093,2012
 "ok","major","Mitt Romney",2700,85.8,100,40093,2012
 "ok","marshall","Mitt Romney",3744,72.8,100,40095,2012
 "ok","marshall","Gary Johnson",NA,NA,100,40095,2012
 "ok","marshall","Barack Obama",1396,27.2,100,40095,2012
 "ok","marshall","Other",NA,NA,100,40095,2012
 "ok","mayes","Barack Obama",4822,33.4,100,40097,2012
-"ok","mayes","Gary Johnson",NA,NA,100,40097,2012
-"ok","mayes","Mitt Romney",9634,66.6,100,40097,2012
 "ok","mayes","Other",NA,NA,100,40097,2012
-"ok","mcclain","Gary Johnson",NA,NA,100,40087,2012
-"ok","mcclain","Mitt Romney",11108,77.7,100,40087,2012
+"ok","mayes","Mitt Romney",9634,66.6,100,40097,2012
+"ok","mayes","Gary Johnson",NA,NA,100,40097,2012
 "ok","mcclain","Other",NA,NA,100,40087,2012
+"ok","mcclain","Mitt Romney",11108,77.7,100,40087,2012
+"ok","mcclain","Gary Johnson",NA,NA,100,40087,2012
 "ok","mcclain","Barack Obama",3191,22.3,100,40087,2012
 "ok","mccurtain","Mitt Romney",7633,75.8,100,40089,2012
-"ok","mccurtain","Other",NA,NA,100,40089,2012
 "ok","mccurtain","Gary Johnson",NA,NA,100,40089,2012
+"ok","mccurtain","Other",NA,NA,100,40089,2012
 "ok","mccurtain","Barack Obama",2440,24.2,100,40089,2012
 "ok","mcintosh","Barack Obama",2767,38.1,100,40091,2012
-"ok","mcintosh","Other",NA,NA,100,40091,2012
 "ok","mcintosh","Gary Johnson",NA,NA,100,40091,2012
+"ok","mcintosh","Other",NA,NA,100,40091,2012
 "ok","mcintosh","Mitt Romney",4498,61.9,100,40091,2012
-"ok","murray","Gary Johnson",NA,NA,100,40099,2012
 "ok","murray","Other",NA,NA,100,40099,2012
+"ok","murray","Gary Johnson",NA,NA,100,40099,2012
 "ok","murray","Barack Obama",1540,29.9,100,40099,2012
 "ok","murray","Mitt Romney",3606,70.1,100,40099,2012
 "ok","muskogee","Barack Obama",9943,42.6,100,40101,2012
-"ok","muskogee","Gary Johnson",NA,NA,100,40101,2012
-"ok","muskogee","Mitt Romney",13392,57.4,100,40101,2012
 "ok","muskogee","Other",NA,NA,100,40101,2012
+"ok","muskogee","Mitt Romney",13392,57.4,100,40101,2012
+"ok","muskogee","Gary Johnson",NA,NA,100,40101,2012
 "ok","noble","Barack Obama",1142,24.7,100,40103,2012
 "ok","noble","Other",NA,NA,100,40103,2012
 "ok","noble","Mitt Romney",3484,75.3,100,40103,2012
 "ok","noble","Gary Johnson",NA,NA,100,40103,2012
-"ok","nowata","Other",NA,NA,100,40105,2012
-"ok","nowata","Mitt Romney",2832,69.5,100,40105,2012
 "ok","nowata","Gary Johnson",NA,NA,100,40105,2012
+"ok","nowata","Mitt Romney",2832,69.5,100,40105,2012
+"ok","nowata","Other",NA,NA,100,40105,2012
 "ok","nowata","Barack Obama",1244,30.5,100,40105,2012
-"ok","okfuskee","Gary Johnson",NA,NA,100,40107,2012
+"ok","okfuskee","Other",NA,NA,100,40107,2012
 "ok","okfuskee","Barack Obama",1251,35,100,40107,2012
 "ok","okfuskee","Mitt Romney",2328,65,100,40107,2012
-"ok","okfuskee","Other",NA,NA,100,40107,2012
+"ok","okfuskee","Gary Johnson",NA,NA,100,40107,2012
 "ok","oklahoma","Mitt Romney",149525,58.3,100,40109,2012
-"ok","oklahoma","Other",NA,NA,100,40109,2012
-"ok","oklahoma","Barack Obama",106812,41.7,100,40109,2012
 "ok","oklahoma","Gary Johnson",NA,NA,100,40109,2012
+"ok","oklahoma","Barack Obama",106812,41.7,100,40109,2012
+"ok","oklahoma","Other",NA,NA,100,40109,2012
 "ok","okmulgee","Mitt Romney",7712,58.7,100,40111,2012
 "ok","okmulgee","Other",NA,NA,100,40111,2012
 "ok","okmulgee","Gary Johnson",NA,NA,100,40111,2012
 "ok","okmulgee","Barack Obama",5416,41.3,100,40111,2012
-"ok","osage","Other",NA,NA,100,40113,2012
-"ok","osage","Mitt Romney",11218,62.6,100,40113,2012
 "ok","osage","Gary Johnson",NA,NA,100,40113,2012
+"ok","osage","Mitt Romney",11218,62.6,100,40113,2012
+"ok","osage","Other",NA,NA,100,40113,2012
 "ok","osage","Barack Obama",6695,37.4,100,40113,2012
 "ok","ottawa","Barack Obama",3508,35.2,100,40115,2012
 "ok","ottawa","Mitt Romney",6465,64.8,100,40115,2012
-"ok","ottawa","Gary Johnson",NA,NA,100,40115,2012
 "ok","ottawa","Other",NA,NA,100,40115,2012
-"ok","pawnee","Other",NA,NA,100,40117,2012
+"ok","ottawa","Gary Johnson",NA,NA,100,40115,2012
 "ok","pawnee","Gary Johnson",NA,NA,100,40117,2012
+"ok","pawnee","Other",NA,NA,100,40117,2012
 "ok","pawnee","Barack Obama",1813,30,100,40117,2012
 "ok","pawnee","Mitt Romney",4228,70,100,40117,2012
 "ok","payne","Other",NA,NA,100,40119,2012
 "ok","payne","Gary Johnson",NA,NA,100,40119,2012
 "ok","payne","Barack Obama",9193,35.8,100,40119,2012
 "ok","payne","Mitt Romney",16467,64.2,100,40119,2012
-"ok","pittsburg","Gary Johnson",NA,NA,100,40121,2012
+"ok","pittsburg","Other",NA,NA,100,40121,2012
 "ok","pittsburg","Barack Obama",4813,30.9,100,40121,2012
 "ok","pittsburg","Mitt Romney",10785,69.1,100,40121,2012
-"ok","pittsburg","Other",NA,NA,100,40121,2012
-"ok","pontotoc","Gary Johnson",NA,NA,100,40123,2012
+"ok","pittsburg","Gary Johnson",NA,NA,100,40121,2012
+"ok","pontotoc","Other",NA,NA,100,40123,2012
 "ok","pontotoc","Barack Obama",3934,30.6,100,40123,2012
 "ok","pontotoc","Mitt Romney",8921,69.4,100,40123,2012
-"ok","pontotoc","Other",NA,NA,100,40123,2012
+"ok","pontotoc","Gary Johnson",NA,NA,100,40123,2012
 "ok","pottawatomie","Barack Obama",7182,30.7,100,40125,2012
-"ok","pottawatomie","Gary Johnson",NA,NA,100,40125,2012
 "ok","pottawatomie","Other",NA,NA,100,40125,2012
+"ok","pottawatomie","Gary Johnson",NA,NA,100,40125,2012
 "ok","pottawatomie","Mitt Romney",16240,69.3,100,40125,2012
 "ok","pushmataha","Gary Johnson",NA,NA,100,40127,2012
 "ok","pushmataha","Barack Obama",1043,25.3,100,40127,2012
 "ok","pushmataha","Mitt Romney",3087,74.7,100,40127,2012
 "ok","pushmataha","Other",NA,NA,100,40127,2012
 "ok","roger mills","Barack Obama",272,16.2,100,40129,2012
-"ok","roger mills","Other",NA,NA,100,40129,2012
-"ok","roger mills","Mitt Romney",1402,83.8,100,40129,2012
 "ok","roger mills","Gary Johnson",NA,NA,100,40129,2012
+"ok","roger mills","Mitt Romney",1402,83.8,100,40129,2012
+"ok","roger mills","Other",NA,NA,100,40129,2012
 "ok","rogers","Mitt Romney",27531,75.1,100,40131,2012
-"ok","rogers","Gary Johnson",NA,NA,100,40131,2012
 "ok","rogers","Other",NA,NA,100,40131,2012
+"ok","rogers","Gary Johnson",NA,NA,100,40131,2012
 "ok","rogers","Barack Obama",9146,24.9,100,40131,2012
-"ok","seminole","Gary Johnson",NA,NA,100,40133,2012
-"ok","seminole","Mitt Romney",4852,65.1,100,40133,2012
 "ok","seminole","Other",NA,NA,100,40133,2012
+"ok","seminole","Mitt Romney",4852,65.1,100,40133,2012
+"ok","seminole","Gary Johnson",NA,NA,100,40133,2012
 "ok","seminole","Barack Obama",2597,34.9,100,40133,2012
 "ok","sequoyah","Mitt Romney",9573,69.5,100,40135,2012
 "ok","sequoyah","Barack Obama",4193,30.5,100,40135,2012
@@ -8734,39 +8734,39 @@
 "ok","sequoyah","Other",NA,NA,100,40135,2012
 "ok","stephens","Mitt Romney",12907,76.6,100,40137,2012
 "ok","stephens","Barack Obama",3939,23.4,100,40137,2012
-"ok","stephens","Other",NA,NA,100,40137,2012
 "ok","stephens","Gary Johnson",NA,NA,100,40137,2012
+"ok","stephens","Other",NA,NA,100,40137,2012
 "ok","texas","Mitt Romney",4908,85.2,100,40139,2012
-"ok","texas","Other",NA,NA,100,40139,2012
 "ok","texas","Gary Johnson",NA,NA,100,40139,2012
+"ok","texas","Other",NA,NA,100,40139,2012
 "ok","texas","Barack Obama",854,14.8,100,40139,2012
-"ok","tillman","Gary Johnson",NA,NA,100,40141,2012
-"ok","tillman","Mitt Romney",1813,66.7,100,40141,2012
 "ok","tillman","Other",NA,NA,100,40141,2012
+"ok","tillman","Mitt Romney",1813,66.7,100,40141,2012
+"ok","tillman","Gary Johnson",NA,NA,100,40141,2012
 "ok","tillman","Barack Obama",906,33.3,100,40141,2012
 "ok","tulsa","Mitt Romney",144908,63.7,100,40143,2012
 "ok","tulsa","Gary Johnson",NA,NA,100,40143,2012
 "ok","tulsa","Other",NA,NA,100,40143,2012
 "ok","tulsa","Barack Obama",82633,36.3,100,40143,2012
-"ok","wagoner","Gary Johnson",NA,NA,100,40145,2012
+"ok","wagoner","Other",NA,NA,100,40145,2012
 "ok","wagoner","Mitt Romney",20848,72.8,100,40145,2012
 "ok","wagoner","Barack Obama",7773,27.2,100,40145,2012
-"ok","wagoner","Other",NA,NA,100,40145,2012
-"ok","washington","Gary Johnson",NA,NA,100,40147,2012
+"ok","wagoner","Gary Johnson",NA,NA,100,40145,2012
 "ok","washington","Other",NA,NA,100,40147,2012
+"ok","washington","Gary Johnson",NA,NA,100,40147,2012
 "ok","washington","Barack Obama",5532,26.1,100,40147,2012
 "ok","washington","Mitt Romney",15667,73.9,100,40147,2012
 "ok","washita","Barack Obama",821,19.1,100,40149,2012
-"ok","washita","Gary Johnson",NA,NA,100,40149,2012
 "ok","washita","Other",NA,NA,100,40149,2012
+"ok","washita","Gary Johnson",NA,NA,100,40149,2012
 "ok","washita","Mitt Romney",3482,80.9,100,40149,2012
 "ok","woods","Gary Johnson",NA,NA,100,40151,2012
 "ok","woods","Barack Obama",670,19.7,100,40151,2012
 "ok","woods","Mitt Romney",2725,80.3,100,40151,2012
 "ok","woods","Other",NA,NA,100,40151,2012
-"ok","woodward","Other",NA,NA,100,40153,2012
-"ok","woodward","Mitt Romney",5936,84,100,40153,2012
 "ok","woodward","Gary Johnson",NA,NA,100,40153,2012
+"ok","woodward","Mitt Romney",5936,84,100,40153,2012
+"ok","woodward","Other",NA,NA,100,40153,2012
 "ok","woodward","Barack Obama",1129,16,100,40153,2012
 "or","baker","Gary Johnson",141,1.7,100,41001,2012
 "or","baker","Other",154,1.8,100,41001,2012
@@ -9421,9 +9421,9 @@
 "sc","mccormick","Mitt Romney",2460,47.9,100,45065,2012
 "sc","mccormick","Barack Obama",2637,51.3,100,45065,2012
 "sc","mccormick","Gary Johnson",21,0.4,100,45065,2012
-"sc","newberry","Gary Johnson",89,0.5,100,45071,2012
-"sc","newberry","Barack Obama",6891,42.3,100,45071,2012
 "sc","newberry","Other",89,0.5,100,45071,2012
+"sc","newberry","Barack Obama",6891,42.3,100,45071,2012
+"sc","newberry","Gary Johnson",89,0.5,100,45071,2012
 "sc","newberry","Mitt Romney",9218,56.6,100,45071,2012
 "sc","oconee","Mitt Romney",21573,70.5,100,45073,2012
 "sc","oconee","Gary Johnson",294,1,100,45073,2012
@@ -9794,9 +9794,9 @@
 "tn","coffee","Gary Johnson",186,1,100,47031,2012
 "tn","coffee","Other",178,0.9,100,47031,2012
 "tn","crockett","Mitt Romney",3782,68.8,100,47033,2012
-"tn","crockett","Gary Johnson",23,0.4,100,47033,2012
-"tn","crockett","Barack Obama",1669,30.4,100,47033,2012
 "tn","crockett","Other",23,0.4,100,47033,2012
+"tn","crockett","Barack Obama",1669,30.4,100,47033,2012
+"tn","crockett","Gary Johnson",23,0.4,100,47033,2012
 "tn","cumberland","Barack Obama",6260,24.8,100,47035,2012
 "tn","cumberland","Other",192,0.8,100,47035,2012
 "tn","cumberland","Gary Johnson",141,0.6,100,47035,2012
@@ -9907,8 +9907,8 @@
 "tn","jackson","Other",35,0.8,100,47087,2012
 "tn","jefferson","Barack Obama",4230,24.1,100,47089,2012
 "tn","jefferson","Mitt Romney",13037,74.2,100,47089,2012
-"tn","jefferson","Other",149,0.8,100,47089,2012
 "tn","jefferson","Gary Johnson",149,0.8,100,47089,2012
+"tn","jefferson","Other",149,0.8,100,47089,2012
 "tn","johnson","Barack Obama",1483,23.9,100,47091,2012
 "tn","johnson","Mitt Romney",4611,74.4,100,47091,2012
 "tn","johnson","Other",61,1,100,47091,2012
@@ -10175,8 +10175,8 @@
 "tx","blanco","Barack Obama",1220,24.5,100,48031,2012
 "tx","borden","Mitt Romney",324,89.5,100,48033,2012
 "tx","borden","Barack Obama",32,8.8,100,48033,2012
-"tx","borden","Other",3,0.8,100,48033,2012
 "tx","borden","Gary Johnson",3,0.8,100,48033,2012
+"tx","borden","Other",3,0.8,100,48033,2012
 "tx","bosque","Other",13,0.2,100,48035,2012
 "tx","bosque","Barack Obama",1366,18.6,100,48035,2012
 "tx","bosque","Mitt Romney",5873,80.1,100,48035,2012

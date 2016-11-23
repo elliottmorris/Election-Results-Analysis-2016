@@ -546,8 +546,8 @@
 "ar","montgomery","Donald Trump",2573,74.7,100,5097,2016
 "ar","montgomery","Jill Stein",32,0.9,100,5097,2016
 "ar","montgomery","Hillary Clinton",735,21.3,100,5097,2016
-"ar","nevada","Other",35,1.1,100,5099,2016
 "ar","nevada","Gary Johnson",35,1.1,100,5099,2016
+"ar","nevada","Other",35,1.1,100,5099,2016
 "ar","nevada","Hillary Clinton",1156,35.8,100,5099,2016
 "ar","nevada","Donald Trump",2001,61.9,100,5099,2016
 "ar","nevada","Jill Stein",6,0.2,100,5099,2016
@@ -761,21 +761,21 @@
 "ca","butte","Jill Stein",2325,2.6,100,6007,2016
 "ca","butte","Donald Trump",42193,48,100,6007,2016
 "ca","butte","Other",463,0.5,100,6007,2016
-"ca","calaveras","Other",45,0.2,100,6009,2016
-"ca","calaveras","Donald Trump",11064,58.1,100,6009,2016
-"ca","calaveras","Hillary Clinton",6740,35.4,100,6009,2016
-"ca","calaveras","Jill Stein",309,1.6,100,6009,2016
-"ca","calaveras","Gary Johnson",871,4.6,100,6009,2016
-"ca","colusa","Hillary Clinton",2518,39.7,100,6011,2016
-"ca","colusa","Gary Johnson",245,3.9,100,6011,2016
-"ca","colusa","Donald Trump",3464,54.6,100,6011,2016
-"ca","colusa","Jill Stein",81,1.3,100,6011,2016
-"ca","colusa","Other",38,0.6,100,6011,2016
-"ca","contra costa","Other",1290,0.3,100,6013,2016
-"ca","contra costa","Donald Trump",101395,25.6,100,6013,2016
-"ca","contra costa","Hillary Clinton",272085,68.8,100,6013,2016
-"ca","contra costa","Jill Stein",7063,1.8,100,6013,2016
-"ca","contra costa","Gary Johnson",13868,3.5,100,6013,2016
+"ca","calaveras","Other",53,0.2,100,6009,2016
+"ca","calaveras","Donald Trump",13072,58.5,100,6009,2016
+"ca","calaveras","Hillary Clinton",7738,34.6,100,6009,2016
+"ca","calaveras","Jill Stein",405,1.8,100,6009,2016
+"ca","calaveras","Gary Johnson",1066,4.8,100,6009,2016
+"ca","colusa","Hillary Clinton",2659,40.3,100,6011,2016
+"ca","colusa","Gary Johnson",260,3.9,100,6011,2016
+"ca","colusa","Donald Trump",3551,53.9,100,6011,2016
+"ca","colusa","Jill Stein",85,1.3,100,6011,2016
+"ca","colusa","Other",39,0.6,100,6011,2016
+"ca","contra costa","Other",1356,0.3,100,6013,2016
+"ca","contra costa","Donald Trump",105819,25.4,100,6013,2016
+"ca","contra costa","Hillary Clinton",286658,68.9,100,6013,2016
+"ca","contra costa","Jill Stein",7524,1.8,100,6013,2016
+"ca","contra costa","Gary Johnson",14615,3.5,100,6013,2016
 "ca","del norte","Hillary Clinton",3485,37.2,100,6015,2016
 "ca","del norte","Jill Stein",245,2.6,100,6015,2016
 "ca","del norte","Donald Trump",5134,54.8,100,6015,2016
@@ -786,30 +786,30 @@
 "ca","el dorado","Gary Johnson",4824,5.4,100,6017,2016
 "ca","el dorado","Hillary Clinton",35243,39.5,100,6017,2016
 "ca","el dorado","Jill Stein",1345,1.5,100,6017,2016
-"ca","fresno","Jill Stein",3658,1.5,100,6019,2016
-"ca","fresno","Hillary Clinton",121777,49.3,100,6019,2016
-"ca","fresno","Gary Johnson",8116,3.3,100,6019,2016
-"ca","fresno","Donald Trump",112944,45.7,100,6019,2016
-"ca","fresno","Other",733,0.3,100,6019,2016
-"ca","glenn","Donald Trump",5695,62.1,100,6021,2016
-"ca","glenn","Gary Johnson",364,4,100,6021,2016
-"ca","glenn","Jill Stein",96,1,100,6021,2016
-"ca","glenn","Other",49,0.5,100,6021,2016
-"ca","glenn","Hillary Clinton",2966,32.3,100,6021,2016
+"ca","fresno","Jill Stein",3719,1.5,100,6019,2016
+"ca","fresno","Hillary Clinton",123660,49.4,100,6019,2016
+"ca","fresno","Gary Johnson",8193,3.3,100,6019,2016
+"ca","fresno","Donald Trump",113949,45.5,100,6019,2016
+"ca","fresno","Other",743,0.3,100,6019,2016
+"ca","glenn","Donald Trump",5788,61.7,100,6021,2016
+"ca","glenn","Gary Johnson",375,4,100,6021,2016
+"ca","glenn","Jill Stein",97,1,100,6021,2016
+"ca","glenn","Other",54,0.6,100,6021,2016
+"ca","glenn","Hillary Clinton",3065,32.7,100,6021,2016
 "ca","humboldt","Donald Trump",10883,32.4,100,6023,2016
 "ca","humboldt","Jill Stein",1800,5.4,100,6023,2016
 "ca","humboldt","Hillary Clinton",19596,58.3,100,6023,2016
 "ca","humboldt","Gary Johnson",1167,3.5,100,6023,2016
 "ca","humboldt","Other",190,0.6,100,6023,2016
-"ca","imperial","Hillary Clinton",20169,68.4,100,6025,2016
-"ca","imperial","Jill Stein",424,1.4,100,6025,2016
-"ca","imperial","Donald Trump",7987,27.1,100,6025,2016
-"ca","imperial","Gary Johnson",701,2.4,100,6025,2016
-"ca","imperial","Other",195,0.7,100,6025,2016
-"ca","inyo","Hillary Clinton",3155,39.3,100,6027,2016
+"ca","imperial","Hillary Clinton",28467,68.2,100,6025,2016
+"ca","imperial","Jill Stein",635,1.5,100,6025,2016
+"ca","imperial","Donald Trump",11295,27.1,100,6025,2016
+"ca","imperial","Gary Johnson",1063,2.5,100,6025,2016
+"ca","imperial","Other",291,0.7,100,6025,2016
+"ca","inyo","Hillary Clinton",3155,39.5,100,6027,2016
 "ca","inyo","Jill Stein",214,2.7,100,6027,2016
 "ca","inyo","Gary Johnson",328,4.1,100,6027,2016
-"ca","inyo","Donald Trump",4278,53.3,100,6027,2016
+"ca","inyo","Donald Trump",4248,53.1,100,6027,2016
 "ca","inyo","Other",51,0.6,100,6027,2016
 "ca","kern","Gary Johnson",8360,3.8,100,6029,2016
 "ca","kern","Hillary Clinton",86481,39.7,100,6029,2016
@@ -831,26 +831,26 @@
 "ca","lassen","Jill Stein",105,1,100,6035,2016
 "ca","lassen","Other",46,0.4,100,6035,2016
 "ca","lassen","Gary Johnson",473,4.5,100,6035,2016
-"ca","los angeles","Jill Stein",49688,2,100,6037,2016
-"ca","los angeles","Donald Trump",578457,23.5,100,6037,2016
-"ca","los angeles","Other",14412,0.6,100,6037,2016
-"ca","los angeles","Hillary Clinton",1760729,71.4,100,6037,2016
-"ca","los angeles","Gary Johnson",61133,2.5,100,6037,2016
+"ca","los angeles","Jill Stein",54864,2.1,100,6037,2016
+"ca","los angeles","Donald Trump",620285,23.4,100,6037,2016
+"ca","los angeles","Other",15737,0.6,100,6037,2016
+"ca","los angeles","Hillary Clinton",1893770,71.4,100,6037,2016
+"ca","los angeles","Gary Johnson",67416,2.5,100,6037,2016
 "ca","madera","Donald Trump",19221,56.1,100,6039,2016
 "ca","madera","Hillary Clinton",13283,38.8,100,6039,2016
 "ca","madera","Gary Johnson",1161,3.4,100,6039,2016
 "ca","madera","Other",128,0.4,100,6039,2016
 "ca","madera","Jill Stein",470,1.4,100,6039,2016
-"ca","marin","Gary Johnson",2425,2.8,100,6041,2016
-"ca","marin","Hillary Clinton",69518,78.9,100,6041,2016
-"ca","marin","Jill Stein",1748,2,100,6041,2016
-"ca","marin","Other",210,0.2,100,6041,2016
-"ca","marin","Donald Trump",14214,16.1,100,6041,2016
+"ca","marin","Gary Johnson",3242,2.9,100,6041,2016
+"ca","marin","Hillary Clinton",86650,78.8,100,6041,2016
+"ca","marin","Jill Stein",2257,2.1,100,6041,2016
+"ca","marin","Other",261,0.2,100,6041,2016
+"ca","marin","Donald Trump",17531,15.9,100,6041,2016
 "ca","mariposa","Other",55,0.6,100,6043,2016
-"ca","mariposa","Hillary Clinton",3042,35.3,100,6043,2016
-"ca","mariposa","Gary Johnson",316,3.7,100,6043,2016
-"ca","mariposa","Jill Stein",180,2.1,100,6043,2016
-"ca","mariposa","Donald Trump",5030,58.3,100,6043,2016
+"ca","mariposa","Hillary Clinton",3122,35.2,100,6043,2016
+"ca","mariposa","Gary Johnson",326,3.7,100,6043,2016
+"ca","mariposa","Jill Stein",189,2.1,100,6043,2016
+"ca","mariposa","Donald Trump",5185,58.4,100,6043,2016
 "ca","mendocino","Other",34,0.3,100,6045,2016
 "ca","mendocino","Hillary Clinton",6905,60.4,100,6045,2016
 "ca","mendocino","Jill Stein",525,4.6,100,6045,2016
@@ -871,11 +871,11 @@
 "ca","mono","Gary Johnson",217,4.2,100,6051,2016
 "ca","mono","Donald Trump",2080,40.4,100,6051,2016
 "ca","mono","Other",23,0.4,100,6051,2016
-"ca","monterey","Jill Stein",1509,1.8,100,6053,2016
-"ca","monterey","Gary Johnson",2684,3.2,100,6053,2016
-"ca","monterey","Donald Trump",23103,27.8,100,6053,2016
-"ca","monterey","Hillary Clinton",55282,66.6,100,6053,2016
-"ca","monterey","Other",385,0.5,100,6053,2016
+"ca","monterey","Jill Stein",1885,1.9,100,6053,2016
+"ca","monterey","Gary Johnson",3226,3.3,100,6053,2016
+"ca","monterey","Donald Trump",26378,27.3,100,6053,2016
+"ca","monterey","Hillary Clinton",64733,67,100,6053,2016
+"ca","monterey","Other",454,0.5,100,6053,2016
 "ca","napa","Jill Stein",646,1.6,100,6055,2016
 "ca","napa","Donald Trump",11946,29.6,100,6055,2016
 "ca","napa","Hillary Clinton",26161,64.8,100,6055,2016
@@ -886,81 +886,81 @@
 "ca","nevada","Jill Stein",992,3,100,6057,2016
 "ca","nevada","Gary Johnson",1338,4,100,6057,2016
 "ca","nevada","Other",43,0.1,100,6057,2016
-"ca","orange","Hillary Clinton",538554,51,100,6059,2016
-"ca","orange","Jill Stein",15321,1.4,100,6059,2016
-"ca","orange","Donald Trump",457861,43.3,100,6059,2016
-"ca","orange","Other",4142,0.4,100,6059,2016
-"ca","orange","Gary Johnson",41135,3.9,100,6059,2016
-"ca","placer","Other",155,0.1,100,6061,2016
-"ca","placer","Gary Johnson",6009,4.7,100,6061,2016
-"ca","placer","Hillary Clinton",52936,41.4,100,6061,2016
-"ca","placer","Jill Stein",1553,1.2,100,6061,2016
-"ca","placer","Donald Trump",67355,52.6,100,6061,2016
+"ca","orange","Hillary Clinton",556544,51,100,6059,2016
+"ca","orange","Jill Stein",16096,1.5,100,6059,2016
+"ca","orange","Donald Trump",472669,43.3,100,6059,2016
+"ca","orange","Other",4327,0.4,100,6059,2016
+"ca","orange","Gary Johnson",42480,3.9,100,6059,2016
+"ca","placer","Other",194,0.1,100,6061,2016
+"ca","placer","Gary Johnson",7436,4.9,100,6061,2016
+"ca","placer","Hillary Clinton",61969,41.2,100,6061,2016
+"ca","placer","Jill Stein",1956,1.3,100,6061,2016
+"ca","placer","Donald Trump",78977,52.5,100,6061,2016
 "ca","plumas","Other",23,0.3,100,6063,2016
 "ca","plumas","Gary Johnson",351,4,100,6063,2016
 "ca","plumas","Donald Trump",5079,57.5,100,6063,2016
 "ca","plumas","Hillary Clinton",3224,36.5,100,6063,2016
 "ca","plumas","Jill Stein",153,1.7,100,6063,2016
-"ca","riverside","Jill Stein",8356,1.4,100,6065,2016
-"ca","riverside","Donald Trump",279072,45.8,100,6065,2016
-"ca","riverside","Hillary Clinton",300686,49.3,100,6065,2016
-"ca","riverside","Gary Johnson",19186,3.1,100,6065,2016
-"ca","riverside","Other",2569,0.4,100,6065,2016
-"ca","sacramento","Hillary Clinton",251281,58.4,100,6067,2016
-"ca","sacramento","Jill Stein",6948,1.6,100,6067,2016
-"ca","sacramento","Gary Johnson",18193,4.2,100,6067,2016
-"ca","sacramento","Other",1856,0.4,100,6067,2016
-"ca","sacramento","Donald Trump",151793,35.3,100,6067,2016
-"ca","san benito","Gary Johnson",543,3.7,100,6069,2016
-"ca","san benito","Other",91,0.6,100,6069,2016
-"ca","san benito","Hillary Clinton",8309,56.6,100,6069,2016
-"ca","san benito","Donald Trump",5530,37.6,100,6069,2016
-"ca","san benito","Jill Stein",215,1.5,100,6069,2016
-"ca","san bernardino","Jill Stein",9271,1.6,100,6071,2016
-"ca","san bernardino","Other",3301,0.6,100,6071,2016
-"ca","san bernardino","Gary Johnson",18924,3.3,100,6071,2016
-"ca","san bernardino","Hillary Clinton",302366,52,100,6071,2016
-"ca","san bernardino","Donald Trump",247854,42.6,100,6071,2016
-"ca","san diego","Donald Trump",372568,38.3,100,6073,2016
-"ca","san diego","Gary Johnson",37101,3.8,100,6073,2016
-"ca","san diego","Hillary Clinton",545083,56.1,100,6073,2016
-"ca","san diego","Other",2291,0.2,100,6073,2016
-"ca","san diego","Jill Stein",15032,1.5,100,6073,2016
+"ca","riverside","Jill Stein",10055,1.5,100,6065,2016
+"ca","riverside","Donald Trump",309514,45.3,100,6065,2016
+"ca","riverside","Hillary Clinton",339145,49.6,100,6065,2016
+"ca","riverside","Gary Johnson",21879,3.2,100,6065,2016
+"ca","riverside","Other",3019,0.4,100,6065,2016
+"ca","sacramento","Hillary Clinton",273768,58.6,100,6067,2016
+"ca","sacramento","Jill Stein",7788,1.7,100,6067,2016
+"ca","sacramento","Gary Johnson",20903,4.5,100,6067,2016
+"ca","sacramento","Other",2043,0.4,100,6067,2016
+"ca","sacramento","Donald Trump",163024,34.9,100,6067,2016
+"ca","san benito","Gary Johnson",666,3.8,100,6069,2016
+"ca","san benito","Other",112,0.6,100,6069,2016
+"ca","san benito","Hillary Clinton",10050,57.2,100,6069,2016
+"ca","san benito","Donald Trump",6471,36.8,100,6069,2016
+"ca","san benito","Jill Stein",273,1.6,100,6069,2016
+"ca","san bernardino","Jill Stein",9541,1.6,100,6071,2016
+"ca","san bernardino","Other",3396,0.6,100,6071,2016
+"ca","san bernardino","Gary Johnson",19367,3.2,100,6071,2016
+"ca","san bernardino","Hillary Clinton",312517,52.2,100,6071,2016
+"ca","san bernardino","Donald Trump",253962,42.4,100,6071,2016
+"ca","san diego","Donald Trump",386807,38.2,100,6073,2016
+"ca","san diego","Gary Johnson",39132,3.9,100,6073,2016
+"ca","san diego","Hillary Clinton",567243,56.1,100,6073,2016
+"ca","san diego","Other",2397,0.2,100,6073,2016
+"ca","san diego","Jill Stein",16072,1.6,100,6073,2016
 "ca","san francisco","Gary Johnson",8015,2.2,100,6075,2016
 "ca","san francisco","Donald Trump",34493,9.4,100,6075,2016
 "ca","san francisco","Hillary Clinton",312443,85.5,100,6075,2016
 "ca","san francisco","Jill Stein",8775,2.4,100,6075,2016
 "ca","san francisco","Other",1569,0.4,100,6075,2016
-"ca","san joaquin","Jill Stein",1583,1.2,100,6077,2016
-"ca","san joaquin","Gary Johnson",4483,3.3,100,6077,2016
-"ca","san joaquin","Other",467,0.3,100,6077,2016
-"ca","san joaquin","Hillary Clinton",71349,53.2,100,6077,2016
-"ca","san joaquin","Donald Trump",56194,41.9,100,6077,2016
-"ca","san luis obispo","Other",367,0.3,100,6079,2016
-"ca","san luis obispo","Gary Johnson",5694,4.7,100,6079,2016
-"ca","san luis obispo","Donald Trump",50755,42.2,100,6079,2016
-"ca","san luis obispo","Jill Stein",2459,2,100,6079,2016
-"ca","san luis obispo","Hillary Clinton",61021,50.7,100,6079,2016
-"ca","san mateo","Jill Stein",3796,1.5,100,6081,2016
-"ca","san mateo","Gary Johnson",7389,2.9,100,6081,2016
-"ca","san mateo","Hillary Clinton",192035,76.3,100,6081,2016
-"ca","san mateo","Other",799,0.3,100,6081,2016
-"ca","san mateo","Donald Trump",47627,18.9,100,6081,2016
+"ca","san joaquin","Jill Stein",2122,1.3,100,6077,2016
+"ca","san joaquin","Gary Johnson",5793,3.5,100,6077,2016
+"ca","san joaquin","Other",625,0.4,100,6077,2016
+"ca","san joaquin","Hillary Clinton",89791,53.9,100,6077,2016
+"ca","san joaquin","Donald Trump",68316,41,100,6077,2016
+"ca","san luis obispo","Other",392,0.3,100,6079,2016
+"ca","san luis obispo","Gary Johnson",5921,4.8,100,6079,2016
+"ca","san luis obispo","Donald Trump",52672,42.3,100,6079,2016
+"ca","san luis obispo","Jill Stein",2589,2.1,100,6079,2016
+"ca","san luis obispo","Hillary Clinton",63001,50.6,100,6079,2016
+"ca","san mateo","Jill Stein",4579,1.6,100,6081,2016
+"ca","san mateo","Gary Johnson",8685,3,100,6081,2016
+"ca","san mateo","Hillary Clinton",219580,76.4,100,6081,2016
+"ca","san mateo","Other",924,0.3,100,6081,2016
+"ca","san mateo","Donald Trump",53731,18.7,100,6081,2016
 "ca","santa barbara","Other",639,0.4,100,6083,2016
 "ca","santa barbara","Gary Johnson",6329,3.9,100,6083,2016
 "ca","santa barbara","Jill Stein",3396,2.1,100,6083,2016
 "ca","santa barbara","Donald Trump",53740,32.7,100,6083,2016
 "ca","santa barbara","Hillary Clinton",100120,61,100,6083,2016
-"ca","santa clara","Hillary Clinton",480413,73.3,100,6085,2016
-"ca","santa clara","Donald Trump",136721,20.9,100,6085,2016
-"ca","santa clara","Jill Stein",11620,1.8,100,6085,2016
-"ca","santa clara","Gary Johnson",23834,3.6,100,6085,2016
-"ca","santa clara","Other",2511,0.4,100,6085,2016
-"ca","santa cruz","Other",338,0.4,100,6087,2016
-"ca","santa cruz","Jill Stein",2371,3,100,6087,2016
-"ca","santa cruz","Hillary Clinton",60529,75.4,100,6087,2016
-"ca","santa cruz","Gary Johnson",2512,3.1,100,6087,2016
-"ca","santa cruz","Donald Trump",14523,18.1,100,6087,2016
+"ca","santa clara","Hillary Clinton",483472,73.3,100,6085,2016
+"ca","santa clara","Donald Trump",137452,20.9,100,6085,2016
+"ca","santa clara","Jill Stein",11723,1.8,100,6085,2016
+"ca","santa clara","Gary Johnson",23974,3.6,100,6085,2016
+"ca","santa clara","Other",2527,0.4,100,6085,2016
+"ca","santa cruz","Other",527,0.5,100,6087,2016
+"ca","santa cruz","Jill Stein",3817,3.4,100,6087,2016
+"ca","santa cruz","Hillary Clinton",85185,75,100,6087,2016
+"ca","santa cruz","Gary Johnson",3822,3.4,100,6087,2016
+"ca","santa cruz","Donald Trump",20158,17.8,100,6087,2016
 "ca","shasta","Jill Stein",1157,1.6,100,6089,2016
 "ca","shasta","Donald Trump",47587,65.6,100,6089,2016
 "ca","shasta","Other",288,0.4,100,6089,2016
@@ -976,11 +976,11 @@
 "ca","siskiyou","Gary Johnson",866,4.4,100,6093,2016
 "ca","siskiyou","Other",85,0.4,100,6093,2016
 "ca","siskiyou","Jill Stein",567,2.9,100,6093,2016
-"ca","solano","Gary Johnson",5820,3.8,100,6095,2016
-"ca","solano","Donald Trump",48712,32,100,6095,2016
-"ca","solano","Jill Stein",2527,1.7,100,6095,2016
-"ca","solano","Hillary Clinton",94622,62.1,100,6095,2016
-"ca","solano","Other",717,0.5,100,6095,2016
+"ca","solano","Gary Johnson",5959,3.8,100,6095,2016
+"ca","solano","Donald Trump",49595,31.8,100,6095,2016
+"ca","solano","Jill Stein",2618,1.7,100,6095,2016
+"ca","solano","Hillary Clinton",97159,62.3,100,6095,2016
+"ca","solano","Other",736,0.5,100,6095,2016
 "ca","sonoma","Jill Stein",4321,2.6,100,6097,2016
 "ca","sonoma","Hillary Clinton",116027,70.7,100,6097,2016
 "ca","sonoma","Donald Trump",37421,22.8,100,6097,2016
@@ -1006,21 +1006,21 @@
 "ca","trinity","Gary Johnson",240,5.1,100,6105,2016
 "ca","trinity","Jill Stein",173,3.7,100,6105,2016
 "ca","trinity","Other",18,0.4,100,6105,2016
-"ca","tulare","Gary Johnson",2172,3.1,100,6107,2016
-"ca","tulare","Other",353,0.5,100,6107,2016
-"ca","tulare","Jill Stein",846,1.2,100,6107,2016
-"ca","tulare","Hillary Clinton",27975,40.3,100,6107,2016
-"ca","tulare","Donald Trump",38062,54.8,100,6107,2016
+"ca","tulare","Gary Johnson",3153,3.3,100,6107,2016
+"ca","tulare","Other",520,0.5,100,6107,2016
+"ca","tulare","Jill Stein",1311,1.4,100,6107,2016
+"ca","tulare","Hillary Clinton",39099,41.3,100,6107,2016
+"ca","tulare","Donald Trump",50488,53.4,100,6107,2016
 "ca","tuolumne","Hillary Clinton",8580,36.6,100,6109,2016
 "ca","tuolumne","Donald Trump",13486,57.5,100,6109,2016
 "ca","tuolumne","Jill Stein",345,1.5,100,6109,2016
 "ca","tuolumne","Gary Johnson",1005,4.3,100,6109,2016
 "ca","tuolumne","Other",56,0.2,100,6109,2016
-"ca","ventura","Jill Stein",4693,1.7,100,6111,2016
-"ca","ventura","Gary Johnson",10654,3.8,100,6111,2016
-"ca","ventura","Hillary Clinton",154298,55.5,100,6111,2016
-"ca","ventura","Other",1123,0.4,100,6111,2016
-"ca","ventura","Donald Trump",107249,38.6,100,6111,2016
+"ca","ventura","Jill Stein",5345,1.7,100,6111,2016
+"ca","ventura","Gary Johnson",12022,3.9,100,6111,2016
+"ca","ventura","Hillary Clinton",170489,55.4,100,6111,2016
+"ca","ventura","Other",1261,0.4,100,6111,2016
+"ca","ventura","Donald Trump",118764,38.6,100,6111,2016
 "ca","yolo","Jill Stein",925,1.8,100,6113,2016
 "ca","yolo","Gary Johnson",1864,3.7,100,6113,2016
 "ca","yolo","Hillary Clinton",34460,68.1,100,6113,2016
@@ -1319,11 +1319,11 @@
 "co","park","Evan McMullin",70,0.7,100,8093,2016
 "co","park","Donald Trump",6053,59.1,100,8093,2016
 "co","park","Gary Johnson",496,4.8,100,8093,2016
-"co","phillips","Jill Stein",9,0.4,100,8095,2016
+"co","phillips","Evan McMullin",9,0.4,100,8095,2016
 "co","phillips","Hillary Clinton",436,18.7,100,8095,2016
 "co","phillips","Other",27,1.2,100,8095,2016
 "co","phillips","Gary Johnson",60,2.6,100,8095,2016
-"co","phillips","Evan McMullin",9,0.4,100,8095,2016
+"co","phillips","Jill Stein",9,0.4,100,8095,2016
 "co","phillips","Donald Trump",1791,76.8,100,8095,2016
 "co","pitkin","Evan McMullin",41,0.4,100,8097,2016
 "co","pitkin","Other",38,0.4,100,8097,2016
@@ -1576,8 +1576,8 @@
 "fl","gulf","Gary Johnson",195,2.7,100,12045,2016
 "fl","hamilton","Donald Trump",3439,63.1,100,12047,2016
 "fl","hamilton","Gary Johnson",79,1.4,100,12047,2016
-"fl","hamilton","Jill Stein",17,0.3,100,12047,2016
 "fl","hamilton","Other",17,0.3,100,12047,2016
+"fl","hamilton","Jill Stein",17,0.3,100,12047,2016
 "fl","hamilton","Hillary Clinton",1899,34.8,100,12047,2016
 "fl","hardee","Jill Stein",24,0.3,100,12049,2016
 "fl","hardee","Hillary Clinton",2147,28.3,100,12049,2016
@@ -2340,10 +2340,10 @@
 "ia","black hawk","Donald Trump",27382,43.3,100,19013,2016
 "ia","black hawk","Evan McMullin",483,0.8,100,19013,2016
 "ia","black hawk","Hillary Clinton",32006,50.6,100,19013,2016
-"ia","boone","Jill Stein",104,0.7,100,19015,2016
+"ia","boone","Other",104,0.7,100,19015,2016
 "ia","boone","Donald Trump",7458,53.3,100,19015,2016
 "ia","boone","Evan McMullin",158,1.1,100,19015,2016
-"ia","boone","Other",104,0.7,100,19015,2016
+"ia","boone","Jill Stein",104,0.7,100,19015,2016
 "ia","boone","Hillary Clinton",5517,39.5,100,19015,2016
 "ia","boone","Gary Johnson",643,4.6,100,19015,2016
 "ia","bremer","Other",91,0.7,100,19017,2016
@@ -5135,8 +5135,8 @@
 "la","st. helena","Hillary Clinton",3353,56.2,100,22091,2016
 "la","st. helena","Donald Trump",2497,41.9,100,22091,2016
 "la","st. helena","Other",35,0.6,100,22091,2016
-"la","st. helena","Evan McMullin",18,0.3,100,22091,2016
 "la","st. helena","Jill Stein",18,0.3,100,22091,2016
+"la","st. helena","Evan McMullin",18,0.3,100,22091,2016
 "la","st. helena","Gary Johnson",43,0.7,100,22091,2016
 "la","st. james","Donald Trump",5456,45.1,100,22093,2016
 "la","st. james","Gary Johnson",98,0.8,100,22093,2016
@@ -7081,10 +7081,10 @@
 "ms","george","Other",57,0.6,100,28039,2016
 "ms","george","Jill Stein",20,0.2,100,28039,2016
 "ms","greene","Donald Trump",4309,80.9,100,28041,2016
-"ms","greene","Gary Johnson",28,0.5,100,28041,2016
+"ms","greene","Other",28,0.5,100,28041,2016
 "ms","greene","Hillary Clinton",956,18,100,28041,2016
 "ms","greene","Jill Stein",4,0.1,100,28041,2016
-"ms","greene","Other",28,0.5,100,28041,2016
+"ms","greene","Gary Johnson",28,0.5,100,28041,2016
 "ms","grenada","Donald Trump",5940,56.9,100,28043,2016
 "ms","grenada","Other",28,0.3,100,28043,2016
 "ms","grenada","Hillary Clinton",4386,42,100,28043,2016
@@ -7984,10 +7984,10 @@
 "nd","eddy","Donald Trump",790,64.8,100,38027,2016
 "nd","eddy","Other",7,0.6,100,38027,2016
 "nd","eddy","Gary Johnson",53,4.3,100,38027,2016
-"nd","emmons","Jill Stein",10,0.5,100,38029,2016
+"nd","emmons","Other",10,0.5,100,38029,2016
 "nd","emmons","Gary Johnson",52,2.7,100,38029,2016
 "nd","emmons","Donald Trump",1672,85.3,100,38029,2016
-"nd","emmons","Other",10,0.5,100,38029,2016
+"nd","emmons","Jill Stein",10,0.5,100,38029,2016
 "nd","emmons","Hillary Clinton",215,11,100,38029,2016
 "nd","foster","Donald Trump",1237,72.8,100,38031,2016
 "nd","foster","Jill Stein",10,0.6,100,38031,2016
@@ -11990,8 +11990,8 @@
 "tx","kimble","Donald Trump",1697,87.2,100,48267,2016
 "tx","kimble","Hillary Clinton",206,10.6,100,48267,2016
 "tx","kimble","Gary Johnson",37,1.9,100,48267,2016
-"tx","king","Gary Johnson",5,3.1,100,48269,2016
 "tx","king","Hillary Clinton",5,3.1,100,48269,2016
+"tx","king","Gary Johnson",5,3.1,100,48269,2016
 "tx","king","Jill Stein",NA,NA,100,48269,2016
 "tx","king","Donald Trump",149,93.7,100,48269,2016
 "tx","kinney","Donald Trump",936,65.7,100,48271,2016
