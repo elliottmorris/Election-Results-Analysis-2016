@@ -1,0 +1,6084 @@
+"region","abbr_state","county.name","Clinton Pct","Trump Pct"
+NA,"ak","alaska.",37.7,52.9
+NA,"ak","alaska.",37.7,37.9
+NA,"ak","alaska.",37.7,21.4
+NA,"ak","alaska.",37.7,57.7
+NA,"ak","alaska.",37.7,10.9
+NA,"ak","alaska.",37.7,73.4
+NA,"ak","alaska.",37.7,40.8
+NA,"ak","alaska.",37.7,32.2
+NA,"ak","alaska.",37.7,20.7
+NA,"ak","alaska.",37.7,22.6
+NA,"ak","alaska.",37.7,37.8
+NA,"ak","alaska.",37.7,45.4
+NA,"ak","alaska.",37.7,10
+NA,"ak","alaska.",37.7,22.1
+NA,"ak","alaska.",37.7,32.1
+NA,"ak","alaska.",37.7,17.6
+NA,"ak","alaska.",37.7,37.4
+NA,"ak","alaska.",37.7,15.5
+NA,"ak","alaska.",37.7,8.3
+NA,"ak","alaska.",37.7,57.7
+NA,"ak","alaska.",37.7,46.4
+NA,"ak","alaska.",37.7,44.9
+NA,"ak","alaska.",37.7,79.8
+NA,"ak","alaska.",37.7,65.3
+NA,"ak","alaska.",37.7,32.6
+NA,"ak","alaska.",37.7,77.7
+NA,"ak","alaska.",37.7,51.3
+NA,"ak","alaska.",37.7,72.5
+NA,"ak","alaska.",37.7,34.6
+NA,"ak","alaska.",37.7,37.3
+NA,"ak","alaska.",37.7,67.1
+NA,"ak","alaska.",37.7,59
+NA,"ak","alaska.",37.7,47.6
+NA,"ak","alaska.",37.7,46.3
+NA,"ak","alaska.",37.7,52.9
+NA,"ak","alaska.",37.7,55.2
+NA,"ak","alaska.",37.7,65.4
+NA,"ak","alaska.",37.7,29.8
+NA,"ak","alaska.",37.7,21.7
+NA,"ak","alaska.",37.7,39.4
+NA,"ak","alaska.",37.7,53.7
+NA,"ak","alaska.",37.7,54.7
+NA,"ak","alaska.",37.7,65.1
+NA,"ak","alaska.",37.7,48.8
+NA,"ak","alaska.",37.7,57.9
+NA,"ak","alaska.",37.7,42.2
+NA,"ak","alaska.",37.7,25
+NA,"ak","alaska.",37.7,44.4
+NA,"ak","alaska.",37.7,37.6
+NA,"ak","alaska.",37.7,67.3
+NA,"ak","alaska.",37.7,37.8
+NA,"ak","alaska.",37.7,54.6
+NA,"ak","alaska.",37.7,37.2
+NA,"ak","alaska.",37.7,45
+NA,"ak","alaska.",37.7,54.8
+1001,"al","autauga",24,73.4
+1003,"al","baldwin",19.6,77.4
+1005,"al","barbour",46.7,52.3
+1007,"al","bibb",21.4,77
+1009,"al","blount",8.5,89.9
+1011,"al","bullock",75.1,24.2
+1013,"al","butler",42.8,56.3
+1015,"al","calhoun",27.9,69.2
+1017,"al","chambers",41.8,56.6
+1019,"al","cherokee",14.5,83.9
+1021,"al","chilton",15.9,82.5
+1023,"al","choctaw",42.8,56.4
+1025,"al","clarke",44.2,55
+1027,"al","clay",18.8,79.6
+1029,"al","cleburne",10.5,87.8
+1031,"al","coffee",20.4,77.1
+1033,"al","colbert",29.6,67.9
+1035,"al","conecuh",46.9,52.2
+1037,"al","coosa",34.1,64.6
+1039,"al","covington",15,83.6
+1041,"al","crenshaw",26.6,72.2
+1043,"al","cullman",10,87.8
+1045,"al","dale",23.7,74.1
+1047,"al","dallas",68.5,30.9
+1049,"al","dekalb",14.1,83.5
+1051,"al","elmore",22.9,74.8
+1053,"al","escambia",30.9,67.6
+1055,"al","etowah",23.8,73.9
+1057,"al","fayette",16.6,81.8
+1059,"al","franklin",18.4,79.2
+1061,"al","geneva",13.1,85.5
+1063,"al","greene",82.4,17.2
+1065,"al","hale",59.6,39.6
+1067,"al","henry",28.5,70.1
+1069,"al","houston",25.1,72.7
+1071,"al","jackson",17.6,80.1
+1073,"al","jefferson",52.2,45
+1075,"al","lamar",14.9,84
+1077,"al","lauderdale",25.4,71.5
+1079,"al","lawrence",24.7,73.4
+1081,"al","lee",36.4,59.5
+1083,"al","limestone",23.7,73.2
+1085,"al","lowndes",73.1,26.2
+1087,"al","macon",82.7,15.9
+1089,"al","madison",39.2,55.9
+1091,"al","marengo",51.2,47.7
+1093,"al","marion",11.1,87.3
+1095,"al","marshall",14.1,83.6
+1097,"al","mobile",41.9,55.7
+1099,"al","monroe",42.3,56.7
+1101,"al","montgomery",62,35.9
+1103,"al","morgan",22.4,74.8
+1105,"al","perry",72.7,26.7
+1107,"al","pickens",41.8,57.4
+1109,"al","pike",38.7,59
+1111,"al","randolph",22.6,76
+1113,"al","russell",50,48.1
+1117,"al","shelby",23.1,73.4
+1115,"al","st. clair",14.6,83.2
+1119,"al","sumter",74.2,24.7
+1121,"al","talladega",36.5,62
+1123,"al","tallapoosa",28.5,70.1
+1125,"al","tuscaloosa",38.9,58.4
+1127,"al","walker",15.3,82.8
+1129,"al","washington",27.9,71
+1131,"al","wilcox",71,28.5
+1133,"al","winston",8.5,90
+5001,"ar","arkansas",31.4,62
+5003,"ar","ashley",30,66.5
+5005,"ar","baxter",21.3,74.9
+5007,"ar","benton",29.6,64.4
+5009,"ar","boone",18.4,76.8
+5011,"ar","bradley",36.4,59.8
+5013,"ar","calhoun",28.3,69.1
+5015,"ar","carroll",31.3,63.6
+5017,"ar","chicot",56.6,41.4
+5019,"ar","clark",43.1,52.6
+5021,"ar","clay",33.4,63.2
+5023,"ar","cleburne",17.6,79
+5025,"ar","cleveland",21.9,74.6
+5027,"ar","columbia",35.5,61.7
+5029,"ar","conway",33.9,61.8
+5031,"ar","craighead",30,65.2
+5033,"ar","crawford",20.2,75.2
+5035,"ar","crittenden",53,44
+5037,"ar","cross",29.2,67
+5039,"ar","dallas",42.5,55
+5041,"ar","desha",52.7,45.3
+5043,"ar","drew",36.1,60.5
+5045,"ar","faulkner",31.3,62.9
+5047,"ar","franklin",20.5,75.2
+5049,"ar","fulton",22.5,73.1
+5051,"ar","garland",30.5,64.6
+5053,"ar","grant",20.5,75.3
+5055,"ar","greene",21.2,74.2
+5057,"ar","hempstead",33.9,62.9
+5059,"ar","hot spring",26.6,69
+5061,"ar","howard",29.1,68.1
+5063,"ar","independence",21.4,73.8
+5065,"ar","izard",20.6,74.9
+5067,"ar","jackson",31.1,64
+5069,"ar","jefferson",61.2,35.9
+5071,"ar","johnson",26.9,67.5
+5073,"ar","lafayette",36.3,61.7
+5075,"ar","lawrence",22.4,72.2
+5077,"ar","lee",57.8,40.9
+5079,"ar","lincoln",32.8,64.4
+5081,"ar","little river",26.9,69.4
+5083,"ar","logan",21.8,73.2
+5085,"ar","lonoke",21.1,74.4
+5087,"ar","madison",23.4,72.5
+5089,"ar","marion",20.5,75.6
+5091,"ar","miller",26.7,70.5
+5093,"ar","mississippi",43.3,53.8
+5095,"ar","monroe",46.9,50.6
+5097,"ar","montgomery",21.3,74.7
+5099,"ar","nevada",35.8,61.9
+5101,"ar","newton",18.7,77.1
+5103,"ar","ouachita",43.7,54.1
+5105,"ar","perry",24.6,70.7
+5107,"ar","phillips",62.3,35.4
+5109,"ar","pike",17.3,79.6
+5111,"ar","poinsett",35.5,59.6
+5113,"ar","polk",14.9,81.3
+5115,"ar","pope",22.4,72.8
+5117,"ar","prairie",23.9,73.5
+5119,"ar","pulaski",56.7,38.8
+5121,"ar","randolph",22.6,71.4
+5125,"ar","saline",25.5,69
+5127,"ar","scott",16.8,78.8
+5129,"ar","searcy",16.3,79.9
+5131,"ar","sebastian",28,66
+5133,"ar","sevier",23.8,72.6
+5135,"ar","sharp",20.5,75.2
+5123,"ar","st. francis",54.4,43.1
+5137,"ar","stone",21.5,73.8
+5139,"ar","union",34.7,62.4
+5141,"ar","van buren",21.8,75.7
+5143,"ar","washington",41.3,51.7
+5145,"ar","white",18.8,76.6
+5147,"ar","woodruff",43.8,52.7
+5149,"ar","yell",23,72
+4001,"az","apache",65.4,28.5
+4003,"az","cochise",35.4,58
+4005,"az","coconino",56.3,36.9
+4007,"az","gila",31.5,63.9
+4009,"az","graham",27.6,67.2
+4011,"az","greenlee",33.7,58.3
+4012,"az","la paz",26.7,68.6
+4013,"az","maricopa",45.7,49.1
+4015,"az","mohave",22.2,73.7
+4017,"az","navajo",43.4,51.3
+4019,"az","pima",54.2,40.8
+4021,"az","pinal",38.1,57.4
+4023,"az","santa cruz",71.6,24.5
+4025,"az","yavapai",32,63.4
+4027,"az","yuma",45,50.5
+6001,"ca","alameda",79.3,14.9
+6003,"ca","alpine",55.3,36.7
+6005,"ca","amador",34.4,59.6
+6007,"ca","butte",44,48
+6009,"ca","calaveras",35.4,58.1
+6011,"ca","colusa",39.7,54.6
+6013,"ca","contra costa",68.8,25.6
+6015,"ca","del norte",37.2,54.8
+6017,"ca","el dorado",39.5,53.4
+6019,"ca","fresno",49.3,45.7
+6021,"ca","glenn",32.3,62.1
+6023,"ca","humboldt",58.3,32.4
+6025,"ca","imperial",68.4,27.1
+6027,"ca","inyo",39.3,53.3
+6029,"ca","kern",39.7,54.7
+6031,"ca","kings",40,54.1
+6033,"ca","lake",47.8,44.1
+6035,"ca","lassen",21.3,72.7
+6037,"ca","los angeles",71.4,23.5
+6039,"ca","madera",38.8,56.1
+6041,"ca","marin",78.9,16.1
+6043,"ca","mariposa",35.3,58.3
+6045,"ca","mendocino",60.4,31.2
+6047,"ca","merced",51.4,43.5
+6049,"ca","modoc",23.8,71.8
+6051,"ca","mono",52.3,40.4
+6053,"ca","monterey",66.6,27.8
+6055,"ca","napa",64.8,29.6
+6057,"ca","nevada",48.7,44.2
+6059,"ca","orange",51,43.3
+6061,"ca","placer",41.4,52.6
+6063,"ca","plumas",36.5,57.5
+6065,"ca","riverside",49.3,45.8
+6067,"ca","sacramento",58.4,35.3
+6069,"ca","san benito",56.6,37.6
+6071,"ca","san bernardino",52,42.6
+6073,"ca","san diego",56.1,38.3
+6075,"ca","san francisco",85.5,9.4
+6077,"ca","san joaquin",53.2,41.9
+6079,"ca","san luis obispo",50.7,42.2
+6081,"ca","san mateo",76.3,18.9
+6083,"ca","santa barbara",61,32.7
+6085,"ca","santa clara",73.3,20.9
+6087,"ca","santa cruz",75.4,18.1
+6089,"ca","shasta",28.2,65.6
+6091,"ca","sierra",33.3,58.1
+6093,"ca","siskiyou",35.8,56.5
+6095,"ca","solano",62.1,32
+6097,"ca","sonoma",70.7,22.8
+6099,"ca","stanislaus",47.4,46.7
+6101,"ca","sutter",38.9,55.1
+6103,"ca","tehama",28.7,65.5
+6105,"ca","trinity",39.8,51.1
+6107,"ca","tulare",40.3,54.8
+6109,"ca","tuolumne",36.6,57.5
+6111,"ca","ventura",55.5,38.6
+6113,"ca","yolo",68.1,26
+6115,"ca","yuba",34.4,58.5
+8001,"co","adams",49.4,42.1
+8003,"co","alamosa",45.9,43.9
+8005,"co","arapahoe",52.7,38.9
+8007,"co","archuleta",34.1,58.1
+8009,"co","baca",13.2,81.4
+8011,"co","bent",30.7,61.6
+8013,"co","boulder",70.6,21.9
+8014,"co","broomfield",52.3,38.2
+8015,"co","chaffee",43.4,48
+8017,"co","cheyenne",11.8,84.1
+8019,"co","clear creek",46.7,43.9
+8021,"co","conejos",44.2,47.5
+8023,"co","costilla",60.9,31.9
+8025,"co","crowley",22.2,70.7
+8027,"co","custer",26,67.2
+8029,"co","delta",24.3,69.5
+8031,"co","denver",75.2,18.8
+8033,"co","dolores",18.5,76.1
+8035,"co","douglas",36.7,54.8
+8037,"co","eagle",56,36.1
+8041,"co","el paso",33.8,56.3
+8039,"co","elbert",19.5,73.5
+8043,"co","fremont",24.1,68.9
+8045,"co","garfield",42.6,49.6
+8047,"co","gilpin",45.7,43.8
+8049,"co","grand",39,52.5
+8051,"co","gunnison",54.5,34.9
+8053,"co","hinsdale",33.4,57.6
+8055,"co","huerfano",43.2,49.7
+8057,"co","jackson",19.8,72.9
+8059,"co","jefferson",49.1,42.1
+8061,"co","kiowa",10.7,85.1
+8063,"co","kit carson",14.6,80.1
+8067,"co","la plata",49.8,40.6
+8065,"co","lake",50.4,39.8
+8069,"co","larimer",47.5,42.6
+8071,"co","las animas",39.1,54.6
+8073,"co","lincoln",16.6,78
+8075,"co","logan",19,75
+8077,"co","mesa",28,64.3
+8079,"co","mineral",36.3,52.8
+8081,"co","moffat",13.4,81.3
+8083,"co","montezuma",30.9,61.2
+8085,"co","montrose",25.8,67.9
+8087,"co","morgan",26.3,68.2
+8089,"co","otero",34.1,59.3
+8091,"co","ouray",51.4,40.7
+8093,"co","park",32.7,59.1
+8095,"co","phillips",18.7,76.8
+8097,"co","pitkin",69.7,24.3
+8099,"co","prowers",23.6,70.5
+8101,"co","pueblo",46.5,46.2
+8103,"co","rio blanco",12.6,81
+8105,"co","rio grande",36.2,55.8
+8107,"co","routt",54.4,37.4
+8109,"co","saguache",49.7,41
+8111,"co","san juan",52.4,42.5
+8113,"co","san miguel",68.7,23.9
+8115,"co","sedgwick",19.6,74.4
+8117,"co","summit",59.2,31.5
+8119,"co","teller",25,67.5
+8121,"co","washington",10.7,84.3
+8123,"co","weld",34.3,56.7
+8125,"co","yuma",15,80.5
+NA,"ct","fairfield.",58.2,52.9
+NA,"ct","fairfield.",58.2,37.9
+NA,"ct","fairfield.",58.2,21.4
+NA,"ct","fairfield.",58.2,57.7
+NA,"ct","fairfield.",58.2,10.9
+NA,"ct","fairfield.",58.2,73.4
+NA,"ct","fairfield.",58.2,40.8
+NA,"ct","fairfield.",58.2,32.2
+NA,"ct","fairfield.",58.2,20.7
+NA,"ct","fairfield.",58.2,22.6
+NA,"ct","fairfield.",58.2,37.8
+NA,"ct","fairfield.",58.2,45.4
+NA,"ct","fairfield.",58.2,10
+NA,"ct","fairfield.",58.2,22.1
+NA,"ct","fairfield.",58.2,32.1
+NA,"ct","fairfield.",58.2,17.6
+NA,"ct","fairfield.",58.2,37.4
+NA,"ct","fairfield.",58.2,15.5
+NA,"ct","fairfield.",58.2,8.3
+NA,"ct","fairfield.",58.2,57.7
+NA,"ct","fairfield.",58.2,46.4
+NA,"ct","fairfield.",58.2,44.9
+NA,"ct","fairfield.",58.2,79.8
+NA,"ct","fairfield.",58.2,65.3
+NA,"ct","fairfield.",58.2,32.6
+NA,"ct","fairfield.",58.2,77.7
+NA,"ct","fairfield.",58.2,51.3
+NA,"ct","fairfield.",58.2,72.5
+NA,"ct","fairfield.",58.2,34.6
+NA,"ct","fairfield.",58.2,37.3
+NA,"ct","fairfield.",58.2,67.1
+NA,"ct","fairfield.",58.2,59
+NA,"ct","fairfield.",58.2,47.6
+NA,"ct","fairfield.",58.2,46.3
+NA,"ct","fairfield.",58.2,52.9
+NA,"ct","fairfield.",58.2,55.2
+NA,"ct","fairfield.",58.2,65.4
+NA,"ct","fairfield.",58.2,29.8
+NA,"ct","fairfield.",58.2,21.7
+NA,"ct","fairfield.",58.2,39.4
+NA,"ct","fairfield.",58.2,53.7
+NA,"ct","fairfield.",58.2,54.7
+NA,"ct","fairfield.",58.2,65.1
+NA,"ct","fairfield.",58.2,48.8
+NA,"ct","fairfield.",58.2,57.9
+NA,"ct","fairfield.",58.2,42.2
+NA,"ct","fairfield.",58.2,25
+NA,"ct","fairfield.",58.2,44.4
+NA,"ct","fairfield.",58.2,37.6
+NA,"ct","fairfield.",58.2,67.3
+NA,"ct","fairfield.",58.2,37.8
+NA,"ct","fairfield.",58.2,54.6
+NA,"ct","fairfield.",58.2,37.2
+NA,"ct","fairfield.",58.2,45
+NA,"ct","fairfield.",58.2,54.8
+9003,"ct","hartford",58.6,37.1
+9005,"ct","litchfield",40.9,54.8
+9007,"ct","middlesex",51.2,43.9
+9009,"ct","new haven",54.2,42.1
+9011,"ct","new london",50.6,43.8
+9013,"ct","tolland",49.9,44.1
+9015,"ct","windham",42.9,50.8
+11001,"dc","washington",92.8,4.1
+10001,"de","kent",44.9,49.8
+10003,"de","new castle",62.3,32.7
+10005,"de","sussex",37.2,59.2
+12001,"fl","alachua",59,36.4
+12003,"fl","baker",16.7,81.5
+12005,"fl","bay",24.9,71.2
+12007,"fl","bradford",24.2,73.7
+12009,"fl","brevard",38,57.8
+12011,"fl","broward",66.5,31.4
+12013,"fl","calhoun",20.4,76.6
+12015,"fl","charlotte",34.7,62.5
+12017,"fl","citrus",28.6,68.3
+12019,"fl","clay",26.1,70.4
+12021,"fl","collier",35.7,61.8
+12023,"fl","columbia",26.5,70.9
+12027,"fl","desoto",35,62.7
+12029,"fl","dixie",17.6,80.8
+12031,"fl","duval",47.5,49
+12033,"fl","escambia",37.7,58.3
+12035,"fl","flagler",38.3,58.9
+12037,"fl","franklin",29,68.6
+12039,"fl","gadsden",67.9,30.4
+12041,"fl","gilchrist",17.3,80.1
+12043,"fl","glades",29.2,68.8
+12045,"fl","gulf",23.6,73.1
+12047,"fl","hamilton",34.8,63.1
+12049,"fl","hardee",28.3,69.1
+12051,"fl","hendry",41.5,55.8
+12053,"fl","hernando",33.9,62.9
+12055,"fl","highlands",32.7,64.7
+12057,"fl","hillsborough",51.5,44.7
+12059,"fl","holmes",10,87.9
+12061,"fl","indian river",36.3,60.8
+12063,"fl","jackson",30.4,67.8
+12065,"fl","jefferson",46.3,51.4
+12067,"fl","lafayette",15.3,82.8
+12069,"fl","lake",36.8,60
+12071,"fl","lee",38.3,58.7
+12073,"fl","leon",60.5,35.4
+12075,"fl","levy",26.3,71
+12077,"fl","liberty",19.8,77.1
+12079,"fl","madison",41.5,57
+12081,"fl","manatee",39.8,57
+12083,"fl","marion",35.5,61.7
+12085,"fl","martin",35.2,62
+12086,"fl","miami-dade",63.7,34.1
+12087,"fl","monroe",44.7,51.6
+12089,"fl","nassau",23.3,73.5
+12091,"fl","okaloosa",23.6,71.3
+12093,"fl","okeechobee",29,68.5
+12095,"fl","orange",60.4,35.7
+12097,"fl","osceola",60.9,35.9
+12099,"fl","palm beach",56.5,41.2
+12101,"fl","pasco",37.4,58.9
+12103,"fl","pinellas",47.5,48.6
+12105,"fl","polk",41.3,55.4
+12107,"fl","putnam",30.4,67
+12113,"fl","santa rosa",21,74.5
+12115,"fl","sarasota",42.7,54.3
+12117,"fl","seminole",47.1,48.7
+12109,"fl","st. johns",31.6,65
+12111,"fl","st. lucie",47.5,49.9
+12119,"fl","sumter",29.5,68.8
+12121,"fl","suwannee",21.2,76.5
+12123,"fl","taylor",23.2,74.6
+12125,"fl","union",17.8,80.2
+12127,"fl","volusia",41.8,54.8
+12129,"fl","wakulla",28.3,68.5
+12131,"fl","walton",20.4,76.6
+12133,"fl","washington",20.3,77.4
+13001,"ga","appling",20.5,78.4
+13003,"ga","atkinson",26.7,71.9
+13005,"ga","bacon",15.1,83.7
+13007,"ga","baker",45.1,53.8
+13009,"ga","baldwin",49.5,47.8
+13011,"ga","banks",9.8,88.3
+13013,"ga","barrow",22.8,73.2
+13015,"ga","bartow",20.9,76.1
+13017,"ga","ben hill",35.4,63
+13019,"ga","berrien",15.9,82.4
+13021,"ga","bibb",58.9,38.7
+13023,"ga","bleckley",22.2,75.3
+13025,"ga","brantley",9.8,88.5
+13027,"ga","brooks",39.9,58.7
+13029,"ga","bryan",26.6,69.8
+13031,"ga","bulloch",36.5,59.9
+13033,"ga","burke",50.6,48
+13035,"ga","butts",27.1,70.9
+13037,"ga","calhoun",58.2,41
+13039,"ga","camden",31.4,65.3
+13043,"ga","candler",27.2,70.8
+13045,"ga","carroll",28.4,68.5
+13047,"ga","catoosa",18,78.7
+13049,"ga","charlton",25,73.6
+13051,"ga","chatham",55.7,41.2
+13053,"ga","chattahoochee",42.8,53.9
+13055,"ga","chattooga",19.5,78.3
+13057,"ga","cherokee",22.7,72.7
+13059,"ga","clarke",66.7,28.7
+13061,"ga","clay",54.8,44.5
+13063,"ga","clayton",85.1,13.2
+13065,"ga","clinch",28,70.6
+13067,"ga","cobb",48.8,46.7
+13069,"ga","coffee",29.4,68.9
+13071,"ga","colquitt",25.5,72.8
+13073,"ga","columbia",29.4,67.1
+13075,"ga","cook",29,69.1
+13077,"ga","coweta",27,69.3
+13079,"ga","crawford",27.5,70.4
+13081,"ga","crisp",37.8,60.5
+13083,"ga","dade",15.5,80.9
+13085,"ga","dawson",12.4,84.6
+13087,"ga","decatur",40.1,58.7
+13089,"ga","dekalb",80.8,16.1
+13091,"ga","dodge",26.2,71.8
+13093,"ga","dooly",48.5,50.6
+13095,"ga","dougherty",68.5,30.1
+13097,"ga","douglas",54,43.2
+13099,"ga","early",45.3,53.4
+13101,"ga","echols",13.3,85.6
+13103,"ga","effingham",20.7,76.4
+13105,"ga","elbert",31.7,66.6
+13107,"ga","emanuel",31,68
+13109,"ga","evans",31.4,66.7
+13111,"ga","fannin",16.3,81.8
+13113,"ga","fayette",38.5,58
+13115,"ga","floyd",26.6,70.2
+13117,"ga","forsyth",24.1,71.7
+13119,"ga","franklin",14.7,83.2
+13121,"ga","fulton",69.2,27.1
+13123,"ga","gilmer",15.4,82.3
+13125,"ga","glascock",9.9,88.8
+13127,"ga","glynn",34.5,63.1
+13129,"ga","gordon",16.8,80.5
+13131,"ga","grady",32.7,65.8
+13133,"ga","greene",36.2,62.1
+13135,"ga","gwinnett",51,45.2
+13137,"ga","habersham",15.4,81.7
+13139,"ga","hall",23,73.7
+13141,"ga","hancock",75.4,23.5
+13143,"ga","haralson",13,84.6
+13145,"ga","harris",24.9,72.8
+13147,"ga","hart",25.6,72.3
+13149,"ga","heard",17.7,80.1
+13151,"ga","henry",50.9,46.6
+13153,"ga","houston",37.7,59.4
+13155,"ga","irwin",24.3,74.1
+13157,"ga","jackson",16.5,80.4
+13159,"ga","jasper",25.7,72.4
+13161,"ga","jeff davis",17.7,80.6
+13163,"ga","jefferson",54.9,44.1
+13165,"ga","jenkins",36.5,62.4
+13167,"ga","johnson",30.9,68.4
+13169,"ga","jones",31.6,66.3
+13171,"ga","lamar",29.9,68.4
+13173,"ga","lanier",28.1,69.3
+13175,"ga","laurens",34.6,63.8
+13177,"ga","lee",22.4,75.4
+13179,"ga","liberty",59.3,38.1
+13181,"ga","lincoln",31,67.3
+13183,"ga","long",33,63.8
+13185,"ga","lowndes",39.7,57.9
+13187,"ga","lumpkin",18,78
+13193,"ga","macon",63.1,35.9
+13195,"ga","madison",20.3,77
+13197,"ga","marion",38.1,60.4
+13189,"ga","mcduffie",39.9,58.6
+13191,"ga","mcintosh",39,59.1
+13199,"ga","meriwether",41.4,56.8
+13201,"ga","miller",24.5,74.3
+13205,"ga","mitchell",44.4,54.4
+13207,"ga","monroe",28.2,69.6
+13209,"ga","montgomery",23.8,74.9
+13211,"ga","morgan",28.2,69.5
+13213,"ga","murray",14.5,83.2
+13215,"ga","muscogee",58,39.4
+13217,"ga","newton",50.1,47.7
+13219,"ga","oconee",27.6,67.7
+13221,"ga","oglethorpe",27.5,69.5
+13223,"ga","paulding",27.9,69.1
+13225,"ga","peach",47.5,50.5
+13227,"ga","pickens",14.1,83.3
+13229,"ga","pierce",12.4,86.4
+13231,"ga","pike",14.3,83.8
+13233,"ga","polk",20.2,77.7
+13235,"ga","pulaski",30.7,67.7
+13237,"ga","putnam",29.1,69.1
+13239,"ga","quitman",44.2,55.1
+13241,"ga","rabun",18.2,79.1
+13243,"ga","randolph",55.2,43.9
+13245,"ga","richmond",65,32.6
+13247,"ga","rockdale",61.7,35.8
+13249,"ga","schley",21,77.1
+13251,"ga","screven",40.4,58
+13253,"ga","seminole",33.2,65.5
+13255,"ga","spalding",36,60.3
+13257,"ga","stephens",18.8,78.7
+13259,"ga","stewart",59.4,39.2
+13261,"ga","sumter",50.3,48.1
+13263,"ga","talbot",61.7,36.9
+13265,"ga","taliaferro",60.8,38.9
+13267,"ga","tattnall",24.4,74
+13269,"ga","taylor",38.1,60.6
+13271,"ga","telfair",34.6,64.5
+13273,"ga","terrell",54.2,44.8
+13275,"ga","thomas",38.1,59.9
+13277,"ga","tift",30.4,67.8
+13279,"ga","toombs",25.7,72.6
+13281,"ga","towns",17.9,79.9
+13283,"ga","treutlen",31.9,67
+13285,"ga","troup",37.2,60.6
+13287,"ga","turner",36.7,61.8
+13289,"ga","twiggs",48.6,50.2
+13291,"ga","union",16.3,81.8
+13293,"ga","upson",31.8,66.7
+13295,"ga","walker",17.6,79.1
+13297,"ga","walton",20.5,76.9
+13299,"ga","ware",28.3,70
+13301,"ga","warren",56.3,42.5
+13303,"ga","washington",49.7,49.1
+13305,"ga","wayne",19.7,78.5
+13307,"ga","webster",42.3,56.6
+13309,"ga","wheeler",30.7,67.6
+13311,"ga","white",14.2,82.8
+13313,"ga","whitfield",26.1,70.9
+13315,"ga","wilcox",28.7,70.5
+13317,"ga","wilkes",41.3,57.5
+13319,"ga","wilkinson",44.3,54.5
+13321,"ga","worth",24.4,74.3
+15001,"hi","hawaii",63.6,27
+15003,"hi","honolulu",61.5,31.6
+15007,"hi","kauai",62.5,28.8
+15009,"hi","maui",64.5,25.9
+19001,"ia","adair",30,65.3
+19003,"ia","adams",27.1,66.9
+19005,"ia","allamakee",35.2,59.6
+19007,"ia","appanoose",29.7,66.1
+19009,"ia","audubon",31.9,63.2
+19011,"ia","benton",34.1,60.1
+19013,"ia","black hawk",50.6,43.3
+19015,"ia","boone",39.5,53.3
+19017,"ia","bremer",40.1,53.9
+19019,"ia","buchanan",39.1,54.3
+19021,"ia","buena vista",34.9,59.8
+19023,"ia","butler",29,66
+19025,"ia","calhoun",27.3,67.9
+19027,"ia","carroll",31.7,63.5
+19029,"ia","cass",27.6,67.4
+19031,"ia","cedar",38.1,56.2
+19033,"ia","cerro gordo",43.5,51.2
+19035,"ia","cherokee",27.1,67.7
+19037,"ia","chickasaw",35.6,58.7
+19039,"ia","clarke",33.2,61.4
+19041,"ia","clay",26.3,68.7
+19043,"ia","clayton",35.6,58.4
+19045,"ia","clinton",44.3,49.5
+19047,"ia","crawford",28.9,67.2
+19049,"ia","dallas",41.6,51.3
+19051,"ia","davis",25.3,70.5
+19053,"ia","decatur",32.4,62
+19055,"ia","delaware",32.3,62.1
+19057,"ia","des moines",43.7,50.7
+19059,"ia","dickinson",29.8,65.8
+19061,"ia","dubuque",46.4,47.7
+19063,"ia","emmet",28.8,66.3
+19065,"ia","fayette",37.4,57
+19067,"ia","floyd",39.8,54.7
+19069,"ia","franklin",30.3,64.2
+19071,"ia","fremont",27,67.6
+19073,"ia","greene",35.4,59.2
+19075,"ia","grundy",27.3,66.7
+19077,"ia","guthrie",30.4,63.7
+19079,"ia","hamilton",35.8,58.6
+19081,"ia","hancock",27.2,68.3
+19083,"ia","hardin",32.9,62.1
+19085,"ia","harrison",28.8,66.3
+19087,"ia","henry",31.2,62.1
+19089,"ia","howard",37.1,57.9
+19091,"ia","humboldt",24.9,70.8
+19093,"ia","ida",22.1,74
+19095,"ia","iowa",34.9,59.1
+19097,"ia","jackson",37.6,57
+19099,"ia","jasper",37.9,56.2
+19101,"ia","jefferson",46.3,46.7
+19103,"ia","johnson",66,27.8
+19105,"ia","jones",37.7,57.1
+19107,"ia","keokuk",26,69.7
+19109,"ia","kossuth",29.7,66.3
+19111,"ia","lee",39,55.1
+19113,"ia","linn",51,42
+19115,"ia","louisa",33.2,61.9
+19117,"ia","lucas",28.8,66.9
+19119,"ia","lyon",14.5,81.9
+19121,"ia","madison",31.3,62.6
+19123,"ia","mahaska",24.8,70.6
+19125,"ia","marion",31.2,62.3
+19127,"ia","marshall",43.1,51.6
+19129,"ia","mills",27.3,66.4
+19131,"ia","mitchell",35.1,59.3
+19133,"ia","monona",27.5,68.8
+19135,"ia","monroe",27.4,68.5
+19137,"ia","montgomery",26.3,68.6
+19139,"ia","muscatine",43.4,50
+19141,"ia","o'brien",17.9,78
+19143,"ia","osceola",17.3,79.1
+19145,"ia","page",25.8,70
+19147,"ia","palo alto",29.8,65.9
+19149,"ia","plymouth",22,74
+19151,"ia","pocahontas",25.1,70.3
+19153,"ia","polk",52.4,40.9
+19155,"ia","pottawattamie",36.3,57.9
+19157,"ia","poweshiek",44.1,50.9
+19159,"ia","ringgold",28.1,67.8
+19161,"ia","sac",24.6,71.6
+19163,"ia","scott",47.5,46
+19165,"ia","shelby",26.3,69.2
+19167,"ia","sioux",12.7,82.1
+19169,"ia","story",51.3,39.1
+19171,"ia","tama",37,57.5
+19173,"ia","taylor",25.1,70.2
+19175,"ia","union",33.3,61
+19177,"ia","van buren",23.9,71.6
+19179,"ia","wapello",37.3,58.1
+19181,"ia","warren",38.5,54.9
+19183,"ia","washington",36.4,57
+19185,"ia","wayne",24.6,70.8
+19187,"ia","webster",36.5,58.3
+19189,"ia","winnebago",33.6,60.1
+19191,"ia","winneshiek",46.7,47.5
+19193,"ia","woodbury",37.5,57.4
+19195,"ia","worth",36.1,57.9
+19197,"ia","wright",31.8,63.7
+16001,"id","ada",38.7,47.9
+16003,"id","adams",19,71.3
+16005,"id","bannock",31,51.4
+16007,"id","bear lake",8.7,75.2
+16009,"id","benewah",18.6,74
+16011,"id","bingham",17.6,65.6
+16013,"id","blaine",59.8,31.1
+16015,"id","boise",20.4,70.1
+16017,"id","bonner",30.6,60.8
+16019,"id","bonneville",20.2,60.4
+16021,"id","boundary",18.1,73.6
+16023,"id","butte",13,74.3
+16025,"id","camas",18.4,68.4
+16027,"id","canyon",23.2,64.9
+16029,"id","caribou",8.9,75
+16031,"id","cassia",12.7,72.7
+16033,"id","clark",15.5,71.7
+16035,"id","clearwater",18.5,75
+16037,"id","custer",17.7,73.6
+16039,"id","elmore",21.3,68.3
+16041,"id","franklin",7,70.9
+16043,"id","fremont",11.4,71.6
+16045,"id","gem",15.5,75.2
+16047,"id","gooding",17.9,72.1
+16049,"id","idaho",14.5,78.3
+16051,"id","jefferson",8.5,73.5
+16053,"id","jerome",19.8,68.9
+16055,"id","kootenai",24.5,67.1
+16057,"id","latah",44.6,40
+16059,"id","lemhi",18,74
+16061,"id","lewis",17,75.6
+16063,"id","lincoln",20.6,67.7
+16065,"id","madison",7.7,57
+16067,"id","minidoka",17,71.1
+16069,"id","nez perce",28.1,62.2
+16071,"id","oneida",8.9,74
+16073,"id","owyhee",15.1,77.9
+16075,"id","payette",15.6,75.5
+16077,"id","power",25.3,60.4
+16079,"id","shoshone",27,64.4
+16081,"id","teton",43.4,43.5
+16083,"id","twin falls",21.5,66
+16085,"id","valley",35.8,54.3
+16087,"id","washington",17.4,73.7
+17001,"il","adams",24,71.6
+17003,"il","alexander",44.8,53
+17005,"il","bond",27.7,65.5
+17007,"il","boone",39.6,54.2
+17009,"il","brown",20.3,76
+17011,"il","bureau",36.9,56.8
+17013,"il","calhoun",28.9,67.3
+17015,"il","carroll",33.1,60.2
+17017,"il","cass",32,63.6
+17019,"il","champaign",55.7,37.3
+17021,"il","christian",26,68.7
+17023,"il","clark",24,71.9
+17025,"il","clay",16.2,79.8
+17027,"il","clinton",22.8,71.8
+17029,"il","coles",33.8,60.2
+NA,"il","cook.",74.4,52.9
+NA,"il","cook.",74.4,37.9
+NA,"il","cook.",74.4,21.4
+NA,"il","cook.",74.4,57.7
+NA,"il","cook.",74.4,10.9
+NA,"il","cook.",74.4,73.4
+NA,"il","cook.",74.4,40.8
+NA,"il","cook.",74.4,32.2
+NA,"il","cook.",74.4,20.7
+NA,"il","cook.",74.4,22.6
+NA,"il","cook.",74.4,37.8
+NA,"il","cook.",74.4,45.4
+NA,"il","cook.",74.4,10
+NA,"il","cook.",74.4,22.1
+NA,"il","cook.",74.4,32.1
+NA,"il","cook.",74.4,17.6
+NA,"il","cook.",74.4,37.4
+NA,"il","cook.",74.4,15.5
+NA,"il","cook.",74.4,8.3
+NA,"il","cook.",74.4,57.7
+NA,"il","cook.",74.4,46.4
+NA,"il","cook.",74.4,44.9
+NA,"il","cook.",74.4,79.8
+NA,"il","cook.",74.4,65.3
+NA,"il","cook.",74.4,32.6
+NA,"il","cook.",74.4,77.7
+NA,"il","cook.",74.4,51.3
+NA,"il","cook.",74.4,72.5
+NA,"il","cook.",74.4,34.6
+NA,"il","cook.",74.4,37.3
+NA,"il","cook.",74.4,67.1
+NA,"il","cook.",74.4,59
+NA,"il","cook.",74.4,47.6
+NA,"il","cook.",74.4,46.3
+NA,"il","cook.",74.4,52.9
+NA,"il","cook.",74.4,55.2
+NA,"il","cook.",74.4,65.4
+NA,"il","cook.",74.4,29.8
+NA,"il","cook.",74.4,21.7
+NA,"il","cook.",74.4,39.4
+NA,"il","cook.",74.4,53.7
+NA,"il","cook.",74.4,54.7
+NA,"il","cook.",74.4,65.1
+NA,"il","cook.",74.4,48.8
+NA,"il","cook.",74.4,57.9
+NA,"il","cook.",74.4,42.2
+NA,"il","cook.",74.4,25
+NA,"il","cook.",74.4,44.4
+NA,"il","cook.",74.4,37.6
+NA,"il","cook.",74.4,67.3
+NA,"il","cook.",74.4,37.8
+NA,"il","cook.",74.4,54.6
+NA,"il","cook.",74.4,37.2
+NA,"il","cook.",74.4,45
+NA,"il","cook.",74.4,54.8
+17033,"il","crawford",23.1,72.2
+17035,"il","cumberland",18.6,76.2
+17039,"il","de witt",25.5,67.9
+17037,"il","dekalb",47.8,44.7
+17041,"il","douglas",24.1,70.4
+17043,"il","dupage",53.9,39.8
+17045,"il","edgar",22.8,72.4
+17047,"il","edwards",13,83.8
+17049,"il","effingham",17.6,78.1
+17051,"il","fayette",19.1,77.4
+17053,"il","ford",22.4,71.1
+17055,"il","franklin",25.4,70.7
+17057,"il","fulton",39.2,54.3
+17059,"il","gallatin",24.4,72.2
+17061,"il","greene",21.7,74.7
+17063,"il","grundy",35,58.6
+17065,"il","hamilton",19.3,77.4
+17067,"il","hancock",22.3,73.1
+17069,"il","hardin",19.6,77.4
+17071,"il","henderson",33.1,61.9
+17073,"il","henry",36.5,57.6
+17075,"il","iroquois",19.3,75.3
+17077,"il","jackson",47.4,44.4
+17079,"il","jasper",18.1,77.8
+17081,"il","jefferson",26.2,69.5
+17083,"il","jersey",24.5,70.9
+17085,"il","jo daviess",39.8,54.7
+17087,"il","johnson",18.9,77.2
+17089,"il","kane",51.4,42.4
+17091,"il","kankakee",40.6,53.9
+17093,"il","kendall",46,47.5
+17095,"il","knox",45.3,48.5
+17099,"il","la salle",39.8,54.2
+17097,"il","lake",57.3,37
+17101,"il","lawrence",21.3,74.8
+17103,"il","lee",36.1,56.5
+17105,"il","livingston",26.5,67.5
+17107,"il","logan",27.2,67.3
+17115,"il","macon",38.5,56.6
+17117,"il","macoupin",29.9,64.9
+17119,"il","madison",39.4,55
+17121,"il","marion",25.5,70.3
+17123,"il","marshall",30.2,64
+17125,"il","mason",31.2,63
+17127,"il","massac",23.4,73
+17109,"il","mcdonough",40.9,52.6
+17111,"il","mchenry",42.7,50.7
+17113,"il","mclean",45.5,46.9
+17129,"il","menard",28.1,65.9
+17131,"il","mercer",36.4,57
+17133,"il","monroe",29,66.1
+17135,"il","montgomery",27.2,67.2
+17137,"il","morgan",32.1,62
+17139,"il","moultrie",23.8,71.7
+17141,"il","ogle",33.7,60.3
+17143,"il","peoria",48.3,45.6
+17145,"il","perry",25.1,70.2
+17147,"il","piatt",29.6,63.2
+17149,"il","pike",18.9,77.1
+17151,"il","pope",17.5,78.7
+17153,"il","pulaski",33,64
+17155,"il","putnam",37.2,57.3
+17157,"il","randolph",24.4,71.2
+17159,"il","richland",20.7,75.2
+17161,"il","rock island",51.2,42.8
+17165,"il","saline",22.7,73.4
+17167,"il","sangamon",42.2,51.6
+17169,"il","schuyler",28.3,66.5
+17171,"il","scott",20.4,76.1
+17173,"il","shelby",20.9,75.2
+17163,"il","st. clair",50.5,44.9
+17175,"il","stark",27.6,65.6
+17177,"il","stephenson",38.6,55.5
+17179,"il","tazewell",32.5,61
+17181,"il","union",28.1,67.9
+17183,"il","vermilion",33.1,62.4
+17185,"il","wabash",21.2,74.8
+17187,"il","warren",38.7,55.4
+17189,"il","washington",19.6,75.5
+17191,"il","wayne",12.7,84.3
+17193,"il","white",19.4,77.4
+17195,"il","whiteside",43.7,50
+17197,"il","will",50.2,44.6
+17199,"il","williamson",27.2,68.4
+17201,"il","winnebago",46.5,47.7
+17203,"il","woodford",26.1,68
+18001,"in","adams",21.5,73.9
+18003,"in","allen",37.9,57.5
+18005,"in","bartholomew",30.4,63.7
+18007,"in","benton",23.5,70.6
+18009,"in","blackford",25.8,69.5
+18011,"in","boone",31.8,61.3
+18013,"in","brown",31.8,63.4
+18015,"in","carroll",22,72.9
+18017,"in","cass",26.6,68.6
+18019,"in","clark",36.8,58.7
+18021,"in","clay",20.5,75.7
+18023,"in","clinton",23.7,71.7
+18025,"in","crawford",28.8,65.6
+18027,"in","daviess",16.8,79.6
+18029,"in","dearborn",20.4,75.7
+18031,"in","decatur",19.1,76.5
+18033,"in","dekalb",23.4,71.7
+18035,"in","delaware",40.5,54.2
+18037,"in","dubois",27.1,67.1
+18039,"in","elkhart",31.7,64.1
+18041,"in","fayette",23.6,71.8
+18043,"in","floyd",37.4,57.6
+18045,"in","fountain",19.7,75.7
+18047,"in","franklin",17.9,78.8
+18049,"in","fulton",23.4,71.8
+18051,"in","gibson",24,71.6
+18053,"in","grant",27.8,67.4
+18055,"in","greene",21.3,74.7
+18057,"in","hamilton",37.2,56.8
+18059,"in","hancock",24.7,69.5
+18061,"in","harrison",25.8,70.1
+18063,"in","hendricks",30,64.2
+18065,"in","henry",25.5,69.2
+18067,"in","howard",30.5,64.4
+18069,"in","huntington",21.9,72.9
+18071,"in","jackson",21.9,73.3
+18073,"in","jasper",25,70.4
+18075,"in","jay",23.7,71.6
+18077,"in","jefferson",32.1,63.4
+18079,"in","jennings",21.3,74
+18081,"in","johnson",26.1,68.6
+18083,"in","knox",24.4,71.5
+18085,"in","kosciusko",19.8,74.9
+18087,"in","lagrange",21.8,73.5
+18089,"in","lake",58.4,37.7
+18091,"in","laporte",44,50.4
+18093,"in","lawrence",22.1,73.6
+18095,"in","madison",34.7,60.3
+18097,"in","marion",58.9,36.1
+18099,"in","marshall",26.6,68.2
+18101,"in","martin",18.3,76.9
+18103,"in","miami",20.6,74.2
+18105,"in","monroe",59.3,35.6
+18107,"in","montgomery",22.3,73.2
+18109,"in","morgan",19.4,75.9
+18111,"in","newton",24.2,70.4
+18113,"in","noble",23.1,72.2
+18115,"in","ohio",23.5,72.6
+18117,"in","orange",25,70.8
+18119,"in","owen",22.8,72.2
+18121,"in","parke",21.9,74
+18123,"in","perry",38.2,56.8
+18125,"in","pike",21.7,73.6
+18127,"in","porter",43.8,50.6
+18129,"in","posey",28.2,67.4
+18131,"in","pulaski",24.4,70.9
+18133,"in","putnam",22.9,72.5
+18135,"in","randolph",23.4,71.9
+18137,"in","ripley",19.3,76.7
+18139,"in","rush",21.1,73.4
+18143,"in","scott",29.2,67
+18145,"in","shelby",23.7,70.9
+18147,"in","spencer",28.7,66
+18141,"in","st. joseph",47.7,47.5
+18149,"in","starke",27,69
+18151,"in","steuben",25.7,69.7
+18153,"in","sullivan",24.7,71.7
+18155,"in","switzerland",25.6,70.3
+18157,"in","tippecanoe",43.9,49.6
+18159,"in","tipton",21.1,74.4
+18161,"in","union",21.8,74.4
+18163,"in","vanderburgh",39.3,56.2
+18165,"in","vermillion",30.1,65.3
+18167,"in","vigo",40.2,55.4
+18169,"in","wabash",22.5,73.2
+18171,"in","warren",21.4,73.9
+18173,"in","warrick",30.7,64.6
+18175,"in","washington",23.3,72.4
+18177,"in","wayne",32.5,62.7
+18179,"in","wells",19.7,76.2
+18181,"in","white",25.9,68.8
+18183,"in","whitley",21.8,73.1
+20001,"ks","allen",26.3,67.3
+20003,"ks","anderson",20.3,72.8
+20005,"ks","atchison",30.4,62.2
+20007,"ks","barber",12.7,82.5
+20009,"ks","barton",18.1,77
+20011,"ks","bourbon",22.1,72.9
+20013,"ks","brown",21.5,72.2
+20015,"ks","butler",24,69.4
+20017,"ks","chase",23.3,71.8
+20019,"ks","chautauqua",12.8,84.1
+20021,"ks","cherokee",23.4,71.8
+20023,"ks","cheyenne",13.3,83.2
+20025,"ks","clark",12,82.7
+20027,"ks","clay",17.8,76
+20029,"ks","cloud",19.4,74.5
+20031,"ks","coffey",18.1,75.5
+20033,"ks","comanche",11.9,82.3
+20035,"ks","cowley",28.2,65.9
+20037,"ks","crawford",35.2,58.3
+20039,"ks","decatur",12.2,83.6
+20041,"ks","dickinson",19.8,73.7
+20043,"ks","doniphan",17.3,77.3
+20045,"ks","douglas",62.4,29.7
+20047,"ks","edwards",15.9,79
+20049,"ks","elk",12.7,83.2
+20051,"ks","ellis",22.9,71.3
+20053,"ks","ellsworth",19.6,73.6
+20055,"ks","finney",30.9,63.3
+20057,"ks","ford",27.4,67.3
+20059,"ks","franklin",26.5,65.9
+NA,"ks","geary.",36,52.9
+NA,"ks","geary.",36,37.9
+NA,"ks","geary.",36,21.4
+NA,"ks","geary.",36,57.7
+NA,"ks","geary.",36,10.9
+NA,"ks","geary.",36,73.4
+NA,"ks","geary.",36,40.8
+NA,"ks","geary.",36,32.2
+NA,"ks","geary.",36,20.7
+NA,"ks","geary.",36,22.6
+NA,"ks","geary.",36,37.8
+NA,"ks","geary.",36,45.4
+NA,"ks","geary.",36,10
+NA,"ks","geary.",36,22.1
+NA,"ks","geary.",36,32.1
+NA,"ks","geary.",36,17.6
+NA,"ks","geary.",36,37.4
+NA,"ks","geary.",36,15.5
+NA,"ks","geary.",36,8.3
+NA,"ks","geary.",36,57.7
+NA,"ks","geary.",36,46.4
+NA,"ks","geary.",36,44.9
+NA,"ks","geary.",36,79.8
+NA,"ks","geary.",36,65.3
+NA,"ks","geary.",36,32.6
+NA,"ks","geary.",36,77.7
+NA,"ks","geary.",36,51.3
+NA,"ks","geary.",36,72.5
+NA,"ks","geary.",36,34.6
+NA,"ks","geary.",36,37.3
+NA,"ks","geary.",36,67.1
+NA,"ks","geary.",36,59
+NA,"ks","geary.",36,47.6
+NA,"ks","geary.",36,46.3
+NA,"ks","geary.",36,52.9
+NA,"ks","geary.",36,55.2
+NA,"ks","geary.",36,65.4
+NA,"ks","geary.",36,29.8
+NA,"ks","geary.",36,21.7
+NA,"ks","geary.",36,39.4
+NA,"ks","geary.",36,53.7
+NA,"ks","geary.",36,54.7
+NA,"ks","geary.",36,65.1
+NA,"ks","geary.",36,48.8
+NA,"ks","geary.",36,57.9
+NA,"ks","geary.",36,42.2
+NA,"ks","geary.",36,25
+NA,"ks","geary.",36,44.4
+NA,"ks","geary.",36,37.6
+NA,"ks","geary.",36,67.3
+NA,"ks","geary.",36,37.8
+NA,"ks","geary.",36,54.6
+NA,"ks","geary.",36,37.2
+NA,"ks","geary.",36,45
+NA,"ks","geary.",36,54.8
+20063,"ks","gove",11.2,84.9
+20065,"ks","graham",14.6,80.1
+20067,"ks","grant",18.5,75.9
+20069,"ks","gray",12.8,82.1
+20071,"ks","greeley",13,81.8
+20073,"ks","greenwood",17.2,76.3
+20075,"ks","hamilton",13.5,81.5
+20077,"ks","harper",15.4,77.6
+20079,"ks","harvey",34.4,58.5
+20081,"ks","haskell",17.5,77.8
+20083,"ks","hodgeman",12.3,84
+20085,"ks","jackson",26,67.9
+20087,"ks","jefferson",30.5,62.7
+20089,"ks","jewell",12.1,81.2
+20091,"ks","johnson",45.2,47.9
+20093,"ks","kearny",16.9,79.1
+20095,"ks","kingman",18.1,76.4
+20097,"ks","kiowa",10.9,83.6
+20099,"ks","labette",28.2,66.1
+20101,"ks","lane",12.5,82.3
+20103,"ks","leavenworth",33.9,58.6
+20105,"ks","lincoln",14.8,80.7
+20107,"ks","linn",16.8,78.9
+20109,"ks","logan",11.1,83.4
+20111,"ks","lyon",37.9,54.1
+20115,"ks","marion",21.5,71.9
+20117,"ks","marshall",23.2,71
+20113,"ks","mcpherson",25.6,67.6
+20119,"ks","meade",12.3,83
+20121,"ks","miami",26.8,66.9
+20123,"ks","mitchell",16.6,78.5
+20125,"ks","montgomery",22,72.8
+20127,"ks","morris",22.8,69.7
+20129,"ks","morton",12.5,83.6
+20131,"ks","nemaha",14.2,80.9
+20133,"ks","neosho",23.8,70.6
+20135,"ks","ness",11.1,84.7
+20137,"ks","norton",12.6,82.6
+20139,"ks","osage",25.1,68.4
+20141,"ks","osborne",13.2,82
+20143,"ks","ottawa",14.8,78.9
+20145,"ks","pawnee",21.8,71.9
+20147,"ks","phillips",11.3,84.3
+20149,"ks","pottawatomie",21.2,71.9
+20151,"ks","pratt",20.2,74.2
+20153,"ks","rawlins",11,83.5
+20155,"ks","reno",28.4,64.4
+20157,"ks","republic",14.9,80.2
+20159,"ks","rice",18.7,74.3
+20161,"ks","riley",43.4,47.9
+20163,"ks","rooks",11.5,84.1
+20165,"ks","rush",15.4,79.9
+20167,"ks","russell",14.4,80.8
+20169,"ks","saline",28.7,63
+20171,"ks","scott",10.7,84.9
+20173,"ks","sedgwick",36.9,56.1
+20175,"ks","seward",31.4,63.8
+20177,"ks","shawnee",45.2,48
+20179,"ks","sheridan",9.3,87.1
+20181,"ks","sherman",13.4,80.5
+20183,"ks","smith",14.6,81.2
+20185,"ks","stafford",16.1,78.8
+20187,"ks","stanton",17.8,78.2
+20189,"ks","stevens",11.6,84.4
+20191,"ks","sumner",21.5,72.1
+20193,"ks","thomas",13.4,81.3
+20195,"ks","trego",13.2,83
+20197,"ks","wabaunsee",23.1,70.6
+20199,"ks","wallace",5.8,91.3
+20201,"ks","washington",14.1,79.8
+20203,"ks","wichita",14.9,81.9
+20205,"ks","wilson",15.8,78.9
+20207,"ks","woodson",19,74.9
+20209,"ks","wyandotte",61.8,32.7
+21001,"ky","adair",16.1,80.7
+21003,"ky","allen",16.7,80
+21005,"ky","anderson",23.1,72.2
+21007,"ky","ballard",19.9,77.2
+21009,"ky","barren",23.1,73
+21011,"ky","bath",29.7,67.3
+21013,"ky","bell",17.7,79.9
+21015,"ky","boone",26.1,67.9
+21017,"ky","bourbon",31.7,63.3
+21019,"ky","boyd",29.5,66.5
+21021,"ky","boyle",33.1,62.2
+21023,"ky","bracken",20,77
+21025,"ky","breathitt",26.8,69.7
+21027,"ky","breckinridge",22.4,74
+21029,"ky","bullitt",22.9,72.7
+21031,"ky","butler",17,79.4
+21033,"ky","caldwell",21.1,75.5
+21035,"ky","calloway",29.6,64.6
+21037,"ky","campbell",34.5,59
+21039,"ky","carlisle",16.6,80.6
+21041,"ky","carroll",28.7,67.2
+21043,"ky","carter",22.2,73.9
+21045,"ky","casey",11.9,85.2
+21047,"ky","christian",32.6,63.9
+21049,"ky","clark",29.1,66.1
+21051,"ky","clay",11.1,86.7
+21053,"ky","clinton",12.3,85.5
+21055,"ky","crittenden",15.3,81.5
+21057,"ky","cumberland",15,81.7
+21059,"ky","daviess",31,63.2
+21061,"ky","edmonson",18.7,78.9
+21063,"ky","elliott",26,70.2
+21065,"ky","estill",20,76.5
+21067,"ky","fayette",51.3,41.8
+21069,"ky","fleming",21.6,75.6
+21071,"ky","floyd",24.3,72.6
+21073,"ky","franklin",45,49.6
+21075,"ky","fulton",32.5,65.1
+21077,"ky","gallatin",22.5,73.3
+21079,"ky","garrard",19.1,77.6
+21081,"ky","grant",20,76.1
+21083,"ky","graves",19.9,76.4
+21085,"ky","grayson",18.5,77.8
+21087,"ky","green",15.6,82
+21089,"ky","greenup",25.5,71
+21091,"ky","hancock",29,65
+21093,"ky","hardin",32.3,62.6
+21095,"ky","harlan",12.8,85
+21097,"ky","harrison",26.1,69.9
+21099,"ky","hart",23.8,73.3
+21101,"ky","henderson",34.1,61.7
+21103,"ky","henry",25.6,69.2
+21105,"ky","hickman",20.8,76.8
+21107,"ky","hopkins",21.2,75.2
+21109,"ky","jackson",8.8,88.9
+21111,"ky","jefferson",54.1,40.8
+21113,"ky","jessamine",26.4,66.4
+21115,"ky","johnson",13.1,84.1
+21117,"ky","kenton",33.7,59.7
+21119,"ky","knott",21.6,75.7
+21121,"ky","knox",14.7,82.4
+21123,"ky","larue",20.1,75.5
+21125,"ky","laurel",13.9,83
+21127,"ky","lawrence",17.3,79.8
+21129,"ky","lee",16.7,80.8
+21131,"ky","leslie",8.9,89.5
+21133,"ky","letcher",16.9,79.9
+21135,"ky","lewis",14.8,82.4
+21137,"ky","lincoln",19.5,76.8
+21139,"ky","livingston",19.1,76.9
+21141,"ky","logan",25.3,71.4
+21143,"ky","lyon",26.4,70.4
+21151,"ky","madison",31.6,62.8
+21153,"ky","magoffin",22.9,74.8
+21155,"ky","marion",33,63.2
+21157,"ky","marshall",22,73.9
+21159,"ky","martin",9.2,88.7
+21161,"ky","mason",27.3,68.6
+21145,"ky","mccracken",29.2,66.4
+21147,"ky","mccreary",11.5,86.8
+21149,"ky","mclean",21.6,74.1
+21163,"ky","meade",24.8,70.9
+21165,"ky","menifee",25.2,72.3
+21167,"ky","mercer",22.6,73.2
+21169,"ky","metcalfe",21.1,75.6
+21171,"ky","monroe",12,85.7
+21173,"ky","montgomery",27.6,68.7
+21175,"ky","morgan",21.1,76.1
+21177,"ky","muhlenberg",25.1,72
+21179,"ky","nelson",31,64.7
+21181,"ky","nicholas",27.7,69
+21183,"ky","ohio",20,76.4
+21185,"ky","oldham",31.3,62.3
+21187,"ky","owen",21.3,74.9
+21189,"ky","owsley",14.6,83.9
+21191,"ky","pendleton",19.4,76.7
+21193,"ky","perry",20.2,77.2
+21195,"ky","pike",17.4,80.1
+21197,"ky","powell",25.7,70.9
+21199,"ky","pulaski",15,81.7
+21201,"ky","robertson",21.9,74.9
+21203,"ky","rockcastle",13.7,83.9
+21205,"ky","rowan",37.3,58.6
+21207,"ky","russell",13.4,84
+21209,"ky","scott",31.9,62.3
+21211,"ky","shelby",30.5,64.2
+21213,"ky","simpson",28.5,67.5
+21215,"ky","spencer",20.2,75.7
+21217,"ky","taylor",22.6,73.6
+21219,"ky","todd",21.8,75.7
+21221,"ky","trigg",23.5,73.1
+21223,"ky","trimble",23.2,73.2
+21225,"ky","union",21.4,75.7
+21227,"ky","warren",35,59.2
+21229,"ky","washington",25.3,71.4
+21231,"ky","wayne",17.9,79.7
+21233,"ky","webster",21.4,75.8
+21235,"ky","whitley",15,82.2
+21237,"ky","wolfe",28.6,68.5
+21239,"ky","woodford",36.6,56.8
+22001,"la","acadia",20.6,77.3
+22003,"la","allen",22.8,74.3
+22005,"la","ascension",30.1,66.1
+22007,"la","assumption",36.1,61.6
+22009,"la","avoyelles",30.3,67.3
+22011,"la","beauregard",15.9,81.2
+22013,"la","bienville",44.7,53.6
+22015,"la","bossier",25.4,71.2
+22017,"la","caddo",50.5,46.3
+22019,"la","calcasieu",31.4,64.7
+22021,"la","caldwell",16.8,81.5
+22023,"la","cameron",8.7,88.2
+22025,"la","catahoula",27.2,71.6
+22027,"la","claiborne",42.3,55.8
+22029,"la","concordia",36.9,61.7
+22031,"la","de soto",38.3,59.8
+22033,"la","east baton rouge",52.3,43.1
+22035,"la","east carroll",62.5,36
+22037,"la","east feliciana",42.2,55.5
+22039,"la","evangeline",28.3,69.6
+22041,"la","franklin",27.4,71.1
+22043,"la","grant",13.4,84
+22045,"la","iberia",33,64.4
+22047,"la","iberville",51.9,45.6
+22049,"la","jackson",28.7,69.3
+22051,"la","jefferson",40.5,55.3
+22053,"la","jefferson davis",21.6,75.5
+22059,"la","la salle",9.2,88.8
+22055,"la","lafayette",31,64.6
+22057,"la","lafourche",20.2,76.7
+22061,"la","lincoln",38.1,57.7
+22063,"la","livingston",12,84.6
+22065,"la","madison",58,40.7
+22067,"la","morehouse",43.5,54.9
+22069,"la","natchitoches",43,54
+22071,"la","orleans",80.8,14.7
+22073,"la","ouachita",35.9,61.4
+22075,"la","plaquemines",31.7,65.3
+22077,"la","pointe coupee",40.5,57.7
+22079,"la","rapides",32.2,64.8
+22081,"la","red river",43.8,54.1
+22083,"la","richland",32.9,65.5
+22085,"la","sabine",17.4,80.5
+22087,"la","st. bernard",31.4,64.7
+22089,"la","st. charles",32.7,63.5
+22091,"la","st. helena",56.2,41.9
+22093,"la","st. james",53.1,45.1
+22095,"la","st. john the baptist",61,36.5
+22097,"la","st. landry",43.1,55
+22099,"la","st. martin",32.1,65.5
+22101,"la","st. mary",35.2,62.8
+22103,"la","st. tammany",22.3,73.1
+22105,"la","tangipahoa",32.2,64.8
+22107,"la","tensas",52.3,46.4
+22109,"la","terrebonne",24.3,72.7
+22111,"la","union",24.7,73.2
+22113,"la","vermilion",18.8,78.4
+22115,"la","vernon",16,81
+22117,"la","washington",30.6,67.4
+22119,"la","webster",34.5,63.6
+22121,"la","west baton rouge",42.3,54.5
+22123,"la","west carroll",15,83.4
+22125,"la","west feliciana",38.8,58.5
+22127,"la","winn",25.8,72.3
+25001,"ma","barnstable",54,40.6
+25003,"ma","berkshire",67.5,26
+25005,"ma","bristol",51.9,42.6
+25007,"ma","dukes",72.9,21.6
+25009,"ma","essex",58.5,36
+25011,"ma","franklin",64.2,27.2
+25013,"ma","hampden",55.1,39.1
+25015,"ma","hampshire",66.3,26.8
+25017,"ma","middlesex",66.3,28.2
+25019,"ma","nantucket",64.7,29.5
+25021,"ma","norfolk",61.2,33.3
+25023,"ma","plymouth",50.7,43.4
+25025,"ma","suffolk",79.5,16.5
+25027,"ma","worcester",51.7,41.2
+24001,"md","allegany",24,72
+24003,"md","anne arundel",47.8,47.1
+NA,"md","baltimore city.",85.4,52.9
+NA,"md","baltimore city.",85.4,37.9
+NA,"md","baltimore city.",85.4,21.4
+NA,"md","baltimore city.",85.4,57.7
+NA,"md","baltimore city.",85.4,10.9
+NA,"md","baltimore city.",85.4,73.4
+NA,"md","baltimore city.",85.4,40.8
+NA,"md","baltimore city.",85.4,32.2
+NA,"md","baltimore city.",85.4,20.7
+NA,"md","baltimore city.",85.4,22.6
+NA,"md","baltimore city.",85.4,37.8
+NA,"md","baltimore city.",85.4,45.4
+NA,"md","baltimore city.",85.4,10
+NA,"md","baltimore city.",85.4,22.1
+NA,"md","baltimore city.",85.4,32.1
+NA,"md","baltimore city.",85.4,17.6
+NA,"md","baltimore city.",85.4,37.4
+NA,"md","baltimore city.",85.4,15.5
+NA,"md","baltimore city.",85.4,8.3
+NA,"md","baltimore city.",85.4,57.7
+NA,"md","baltimore city.",85.4,46.4
+NA,"md","baltimore city.",85.4,44.9
+NA,"md","baltimore city.",85.4,79.8
+NA,"md","baltimore city.",85.4,65.3
+NA,"md","baltimore city.",85.4,32.6
+NA,"md","baltimore city.",85.4,77.7
+NA,"md","baltimore city.",85.4,51.3
+NA,"md","baltimore city.",85.4,72.5
+NA,"md","baltimore city.",85.4,34.6
+NA,"md","baltimore city.",85.4,37.3
+NA,"md","baltimore city.",85.4,67.1
+NA,"md","baltimore city.",85.4,59
+NA,"md","baltimore city.",85.4,47.6
+NA,"md","baltimore city.",85.4,46.3
+NA,"md","baltimore city.",85.4,52.9
+NA,"md","baltimore city.",85.4,55.2
+NA,"md","baltimore city.",85.4,65.4
+NA,"md","baltimore city.",85.4,29.8
+NA,"md","baltimore city.",85.4,21.7
+NA,"md","baltimore city.",85.4,39.4
+NA,"md","baltimore city.",85.4,53.7
+NA,"md","baltimore city.",85.4,54.7
+NA,"md","baltimore city.",85.4,65.1
+NA,"md","baltimore city.",85.4,48.8
+NA,"md","baltimore city.",85.4,57.9
+NA,"md","baltimore city.",85.4,42.2
+NA,"md","baltimore city.",85.4,25
+NA,"md","baltimore city.",85.4,44.4
+NA,"md","baltimore city.",85.4,37.6
+NA,"md","baltimore city.",85.4,67.3
+NA,"md","baltimore city.",85.4,37.8
+NA,"md","baltimore city.",85.4,54.6
+NA,"md","baltimore city.",85.4,37.2
+NA,"md","baltimore city.",85.4,45
+NA,"md","baltimore city.",85.4,54.8
+24005,"md","baltimore county",56.5,39.1
+24009,"md","calvert",38.4,56.8
+24011,"md","caroline",28.2,67.8
+24013,"md","carroll",28.6,65.5
+24015,"md","cecil",29.9,65.2
+24017,"md","charles",63.6,33.3
+24019,"md","dorchester",40.6,56.6
+24021,"md","frederick",45.1,49.1
+24023,"md","garrett",17.5,79
+24025,"md","harford",35.3,59.8
+24027,"md","howard",64.1,30.6
+24029,"md","kent",45.6,50.2
+24031,"md","montgomery",75.9,20.3
+24033,"md","prince george's",89.3,8.3
+24035,"md","queen anne's",29.7,65.8
+24039,"md","somerset",39.7,57.7
+24037,"md","st. mary's",34.9,59.5
+24041,"md","talbot",42,53.9
+24043,"md","washington",31.6,64
+24045,"md","wicomico",42.2,53.8
+24047,"md","worcester",34.3,62.2
+23001,"me","androscoggin",41.5,50.9
+23003,"me","aroostook",38.3,55.5
+23005,"me","cumberland",60.1,33.7
+23007,"me","franklin",42.7,48.2
+23009,"me","hancock",50.4,42.8
+23011,"me","kennebec",44.4,48.1
+23013,"me","knox",54,39.7
+23015,"me","lincoln",47.8,45.4
+23017,"me","oxford",39.1,52.1
+23019,"me","penobscot",40.9,51.9
+23021,"me","piscataquis",33.9,59.1
+23023,"me","sagadahoc",49.4,43.1
+23025,"me","somerset",35,57.8
+23027,"me","waldo",46.1,45.9
+23029,"me","washington",38.4,54.6
+23031,"me","york",49,44.2
+26001,"mi","alcona",28,68
+26003,"mi","alger",36.8,57.3
+26005,"mi","allegan",32.5,61.3
+26007,"mi","alpena",33.2,61.9
+26009,"mi","antrim",32.8,62.4
+26011,"mi","arenac",30,63.1
+26013,"mi","baraga",33.2,61.9
+26015,"mi","barry",30.1,63.4
+26017,"mi","bay",40.9,53.5
+26019,"mi","benzie",40.2,54.2
+26021,"mi","berrien",41,53.8
+26023,"mi","branch",28.7,66.9
+26025,"mi","calhoun",41.1,53.6
+26027,"mi","cass",31.2,61.2
+26029,"mi","charlevoix",35.3,59.5
+26031,"mi","cheboygan",31.5,63.6
+26033,"mi","chippewa",34.8,59.1
+26035,"mi","clare",31.8,63.6
+26037,"mi","clinton",40.7,53.3
+26039,"mi","crawford",30.9,63.7
+26041,"mi","delta",34.8,60.2
+26043,"mi","dickinson",29.9,65.3
+26045,"mi","eaton",44.1,49.6
+26047,"mi","emmet",37.1,56.5
+26049,"mi","genesee",52.4,42.9
+26051,"mi","gladwin",30.4,65.1
+26053,"mi","gogebic",40,55
+26055,"mi","grand traverse",40.7,53.3
+26057,"mi","gratiot",34.5,60.1
+26059,"mi","hillsdale",24.1,70.9
+26061,"mi","houghton",38.5,54.2
+26063,"mi","huron",28.9,67.1
+26065,"mi","ingham",60.9,33.2
+26067,"mi","ionia",31.1,62.1
+26069,"mi","iosco",32.5,62.5
+26071,"mi","iron",33.9,62.2
+26073,"mi","isabella",45,48.7
+26075,"mi","jackson",37.1,57.2
+26077,"mi","kalamazoo",53.3,40.5
+26079,"mi","kalkaska",25.5,69.7
+26081,"mi","kent",45.2,48.3
+26083,"mi","keweenaw",36.9,57
+26085,"mi","lake",36.4,59.3
+26087,"mi","lapeer",28.2,66.6
+26089,"mi","leelanau",45.9,49.1
+26091,"mi","lenawee",36.5,57.6
+26093,"mi","livingston",32.6,62.2
+26095,"mi","luce",26.4,68.2
+26097,"mi","mackinac",34.2,61.4
+26099,"mi","macomb",42.1,53.6
+26101,"mi","manistee",39.5,54.9
+26103,"mi","marquette",48.8,44.5
+26105,"mi","mason",36,58
+26107,"mi","mecosta",34,60.1
+26109,"mi","menominee",32.9,62.3
+26111,"mi","midland",36.9,56.3
+26113,"mi","missaukee",21.4,73.8
+26115,"mi","monroe",36.2,58.4
+26117,"mi","montcalm",29.7,63.7
+26119,"mi","montmorency",25.7,69.8
+26121,"mi","muskegon",47.5,46.6
+26123,"mi","newaygo",27.5,67.1
+26125,"mi","oakland",51.7,43.6
+26127,"mi","oceana",33.4,60.7
+26129,"mi","ogemaw",29.2,65.7
+26131,"mi","ontonagon",34.4,60.5
+26133,"mi","osceola",25.5,69.2
+26135,"mi","oscoda",25.7,70
+26137,"mi","otsego",28.4,66
+26139,"mi","ottawa",31.8,62.2
+26141,"mi","presque isle",33.3,62.2
+26143,"mi","roscommon",32.9,62.5
+26145,"mi","saginaw",47.1,48.3
+26151,"mi","sanilac",25.3,69.9
+26153,"mi","schoolcraft",33,61.6
+26155,"mi","shiawassee",36.9,56.5
+26147,"mi","st. clair",31.5,62.9
+26149,"mi","st. joseph",31.7,62.6
+26157,"mi","tuscola",28.6,66.6
+26159,"mi","van buren",39.9,53.9
+26161,"mi","washtenaw",68.4,26.9
+26163,"mi","wayne",66.8,29.5
+26165,"mi","wexford",29,65.4
+27001,"mn","aitkin",34.1,60.1
+27003,"mn","anoka",41,50.7
+27005,"mn","becker",30.5,63.7
+27007,"mn","beltrami",40.8,50.6
+27009,"mn","benton",28.3,64.6
+27011,"mn","big stone",33.7,58.9
+27013,"mn","blue earth",43.4,47.1
+27015,"mn","brown",27.5,63.7
+27017,"mn","carlton",46.8,45.2
+27019,"mn","carver",39,52.7
+27021,"mn","cass",31.2,62.8
+27023,"mn","chippewa",32,60.9
+27025,"mn","chisago",30.9,61.5
+27027,"mn","clay",44.6,46.5
+27029,"mn","clearwater",26,69.2
+27031,"mn","cook",56.9,34.4
+27033,"mn","cottonwood",29.5,64.6
+27035,"mn","crow wing",30.9,62.7
+27037,"mn","dakota",48.2,43.6
+27039,"mn","dodge",29.4,61.8
+27041,"mn","douglas",28.8,64.6
+27043,"mn","faribault",29.3,63.3
+27045,"mn","fillmore",35.3,57.1
+27047,"mn","freeborn",37.9,55.3
+27049,"mn","goodhue",37,55
+27051,"mn","grant",32,59.7
+27053,"mn","hennepin",63.8,28.5
+27055,"mn","houston",39.4,53.4
+27057,"mn","hubbard",30,63.6
+27059,"mn","isanti",27.1,65.3
+27061,"mn","itasca",38.1,54.6
+27063,"mn","jackson",27.4,66.2
+27065,"mn","kanabec",28.6,64.4
+27067,"mn","kandiyohi",33.6,59.1
+27069,"mn","kittson",34.8,57.1
+27071,"mn","koochiching",36.5,56.5
+27073,"mn","lac qui parle",33.9,59.8
+27075,"mn","lake",47.5,45.3
+27077,"mn","lake of the woods",24.8,69.1
+27079,"mn","le sueur",31.1,61.8
+27081,"mn","lincoln",28.6,64.3
+27083,"mn","lyon",31.5,59.8
+27087,"mn","mahnomen",44.8,47.8
+27089,"mn","marshall",25.6,66.9
+27091,"mn","martin",26.1,67.5
+27085,"mn","mcleod",26.6,65.1
+27093,"mn","meeker",26.2,66.4
+27095,"mn","mille lacs",28.6,64.4
+27097,"mn","morrison",20.7,73.7
+27099,"mn","mower",42.3,50.2
+27101,"mn","murray",27.9,64.1
+27103,"mn","nicollet",44,47.1
+27105,"mn","nobles",31.8,61.7
+27107,"mn","norman",39.1,52.6
+27109,"mn","olmsted",45.7,45
+27111,"mn","otter tail",28.9,64.9
+27113,"mn","pennington",32.2,60
+27115,"mn","pine",33.4,59.7
+27117,"mn","pipestone",23.6,69.8
+27119,"mn","polk",32.1,61.1
+27121,"mn","pope",33.5,60.3
+27123,"mn","ramsey",65.7,26.3
+27125,"mn","red lake",28.9,61
+27127,"mn","redwood",24.9,67.9
+27129,"mn","renville",28,64.7
+27131,"mn","rice",44.8,47.9
+27133,"mn","rock",28.6,64.3
+27135,"mn","roseau",23.9,70.2
+27139,"mn","scott",38.3,53.7
+27141,"mn","sherburne",27.7,64.8
+27143,"mn","sibley",25.3,67.2
+27137,"mn","st. louis",51.9,40.1
+27145,"mn","stearns",32.4,60.3
+27147,"mn","steele",32.8,58.8
+27149,"mn","stevens",39.6,52.3
+27151,"mn","swift",33.8,59.6
+27153,"mn","todd",23.3,71
+27155,"mn","traverse",35.2,58.6
+27157,"mn","wabasha",32.9,59.4
+27159,"mn","wadena",24.4,70.2
+27161,"mn","waseca",29.6,62.3
+27163,"mn","washington",47,45.1
+27165,"mn","watonwan",36.5,55.7
+27167,"mn","wilkin",27.2,64.9
+27169,"mn","winona",44,46.9
+27171,"mn","wright",29.4,62.6
+27173,"mn","yellow medicine",29,64.4
+29001,"mo","adair",34.5,59.4
+29003,"mo","andrew",22.4,72.9
+29005,"mo","atchison",19.9,75.6
+29007,"mo","audrain",25.6,69.5
+29009,"mo","barry",18.6,78.2
+29011,"mo","barton",13.4,83.6
+29013,"mo","bates",20.2,74.8
+29015,"mo","benton",21.1,75.3
+29017,"mo","bollinger",12.4,85.1
+29019,"mo","boone",49.3,43.4
+29021,"mo","buchanan",33.8,59.9
+29023,"mo","butler",17.6,79.2
+29025,"mo","caldwell",19.4,75
+29027,"mo","callaway",26.1,68.2
+29029,"mo","camden",21.2,75.4
+29031,"mo","cape girardeau",23,73.1
+29033,"mo","carroll",17.1,79.8
+29035,"mo","carter",15.3,81.7
+29037,"mo","cass",29.2,65.1
+29039,"mo","cedar",16.1,79.9
+29041,"mo","chariton",22.4,74.4
+29043,"mo","christian",20.5,74.7
+29045,"mo","clark",21.8,74.1
+29047,"mo","clay",41.4,52.5
+29049,"mo","clinton",25.2,69.2
+29051,"mo","cole",29.3,66
+29053,"mo","cooper",24.2,70.5
+29055,"mo","crawford",18.4,77.9
+29057,"mo","dade",16.1,80.6
+29059,"mo","dallas",17.1,79.2
+29061,"mo","daviess",19.8,74.9
+29063,"mo","dekalb",18,77.1
+29065,"mo","dent",14.4,82.6
+29067,"mo","douglas",14.8,82.3
+29069,"mo","dunklin",22.3,75.9
+29071,"mo","franklin",24.7,70.8
+29073,"mo","gasconade",20.4,76.2
+29075,"mo","gentry",19.9,76
+29077,"mo","greene",33.2,60.6
+29079,"mo","grundy",17.7,78.5
+29081,"mo","harrison",15.6,80.5
+29083,"mo","henry",23.9,71.8
+29085,"mo","hickory",21.5,75
+29087,"mo","holt",14.7,82
+29089,"mo","howard",26.4,67.6
+29091,"mo","howell",16.5,79.7
+29093,"mo","iron",21.9,74.5
+29095,"mo","jackson",55.7,39
+29097,"mo","jasper",21.9,72.8
+29099,"mo","jefferson",29.8,65.1
+29101,"mo","johnson",28.1,65
+29103,"mo","knox",20.3,75.7
+29105,"mo","laclede",15.9,80.4
+29107,"mo","lafayette",25.6,69.4
+29109,"mo","lawrence",17.4,78.5
+29111,"mo","lewis",21,75.1
+29113,"mo","lincoln",22.4,72.9
+29115,"mo","linn",22.2,73.3
+29117,"mo","livingston",19.7,76.1
+29121,"mo","macon",20,76.4
+29123,"mo","madison",18.9,77.1
+29125,"mo","maries",17.7,79.1
+29127,"mo","marion",23.2,73
+29119,"mo","mcdonald",16.1,80.2
+29129,"mo","mercer",12.4,85.5
+29131,"mo","miller",15.3,81.3
+29133,"mo","mississippi",28.2,69.7
+29135,"mo","moniteau",18.2,78.5
+29137,"mo","monroe",20.6,76.2
+29139,"mo","montgomery",20.6,76
+29141,"mo","morgan",20.1,76.7
+29143,"mo","new madrid",26.3,71.7
+29145,"mo","newton",18.8,77.5
+29147,"mo","nodaway",26.8,67.6
+29149,"mo","oregon",18.5,78.6
+29151,"mo","osage",14.1,82.6
+29153,"mo","ozark",16.1,80.8
+29155,"mo","pemiscot",32.3,65.8
+29157,"mo","perry",17.4,79.1
+29159,"mo","pettis",24,70.9
+29161,"mo","phelps",25.7,68.6
+29163,"mo","pike",24.5,71.5
+29165,"mo","platte",40.6,53.5
+29167,"mo","polk",19.2,76.1
+NA,"mo","pulaski.",21.7,52.9
+NA,"mo","pulaski.",21.7,37.9
+NA,"mo","pulaski.",21.7,21.4
+NA,"mo","pulaski.",21.7,57.7
+NA,"mo","pulaski.",21.7,10.9
+NA,"mo","pulaski.",21.7,73.4
+NA,"mo","pulaski.",21.7,40.8
+NA,"mo","pulaski.",21.7,32.2
+NA,"mo","pulaski.",21.7,20.7
+NA,"mo","pulaski.",21.7,22.6
+NA,"mo","pulaski.",21.7,37.8
+NA,"mo","pulaski.",21.7,45.4
+NA,"mo","pulaski.",21.7,10
+NA,"mo","pulaski.",21.7,22.1
+NA,"mo","pulaski.",21.7,32.1
+NA,"mo","pulaski.",21.7,17.6
+NA,"mo","pulaski.",21.7,37.4
+NA,"mo","pulaski.",21.7,15.5
+NA,"mo","pulaski.",21.7,8.3
+NA,"mo","pulaski.",21.7,57.7
+NA,"mo","pulaski.",21.7,46.4
+NA,"mo","pulaski.",21.7,44.9
+NA,"mo","pulaski.",21.7,79.8
+NA,"mo","pulaski.",21.7,65.3
+NA,"mo","pulaski.",21.7,32.6
+NA,"mo","pulaski.",21.7,77.7
+NA,"mo","pulaski.",21.7,51.3
+NA,"mo","pulaski.",21.7,72.5
+NA,"mo","pulaski.",21.7,34.6
+NA,"mo","pulaski.",21.7,37.3
+NA,"mo","pulaski.",21.7,67.1
+NA,"mo","pulaski.",21.7,59
+NA,"mo","pulaski.",21.7,47.6
+NA,"mo","pulaski.",21.7,46.3
+NA,"mo","pulaski.",21.7,52.9
+NA,"mo","pulaski.",21.7,55.2
+NA,"mo","pulaski.",21.7,65.4
+NA,"mo","pulaski.",21.7,29.8
+NA,"mo","pulaski.",21.7,21.7
+NA,"mo","pulaski.",21.7,39.4
+NA,"mo","pulaski.",21.7,53.7
+NA,"mo","pulaski.",21.7,54.7
+NA,"mo","pulaski.",21.7,65.1
+NA,"mo","pulaski.",21.7,48.8
+NA,"mo","pulaski.",21.7,57.9
+NA,"mo","pulaski.",21.7,42.2
+NA,"mo","pulaski.",21.7,25
+NA,"mo","pulaski.",21.7,44.4
+NA,"mo","pulaski.",21.7,37.6
+NA,"mo","pulaski.",21.7,67.3
+NA,"mo","pulaski.",21.7,37.8
+NA,"mo","pulaski.",21.7,54.6
+NA,"mo","pulaski.",21.7,37.2
+NA,"mo","pulaski.",21.7,45
+NA,"mo","pulaski.",21.7,54.8
+29171,"mo","putnam",15,82.7
+29173,"mo","ralls",21.6,75.4
+29175,"mo","randolph",22.1,73
+29177,"mo","ray",28.5,65.6
+29179,"mo","reynolds",17.8,79.2
+29181,"mo","ripley",15,81.9
+29186,"mo","sainte genevieve",30,65
+29195,"mo","saline",30.1,64.7
+29197,"mo","schuyler",18.3,77.9
+29199,"mo","scotland",18.5,77.5
+29201,"mo","scott",20.7,76.4
+29203,"mo","shannon",19.9,76
+29205,"mo","shelby",18.6,77.6
+29183,"mo","st. charles",34.2,60.6
+29185,"mo","st. clair",20.2,75.6
+29187,"mo","st. francois",25.3,70.7
+29510,"mo","st. louis",79.7,15.9
+29189,"mo","st. louis co.",55.8,39.5
+29207,"mo","stoddard",14.1,83.4
+29209,"mo","stone",17.5,79.5
+29211,"mo","sullivan",21.2,75.8
+29213,"mo","taney",18.7,78
+29215,"mo","texas",15.8,81.2
+29217,"mo","vernon",19.9,76.1
+29219,"mo","warren",24.8,70.5
+29221,"mo","washington",20.8,75.9
+29223,"mo","wayne",16.5,80.9
+29225,"mo","webster",19,76.9
+29227,"mo","worth",18.6,77.2
+29229,"mo","wright",14.4,82.9
+28001,"ms","adams",56.7,42
+28003,"ms","alcorn",18.2,79.9
+28005,"ms","amite",38.2,60.9
+28007,"ms","attala",39.3,59.2
+28009,"ms","benton",42.9,56.1
+28011,"ms","bolivar",65.5,33.1
+28013,"ms","calhoun",29.7,68.8
+28015,"ms","carroll",30.1,69
+28017,"ms","chickasaw",46.2,52.3
+28019,"ms","choctaw",29.8,68.7
+28021,"ms","claiborne",85.4,14
+28023,"ms","clarke",33.1,66
+28025,"ms","clay",57.2,41.5
+28027,"ms","coahoma",71.6,27.2
+28029,"ms","copiah",52.1,46.8
+28031,"ms","covington",37.2,61.7
+28033,"ms","desoto",31.1,65.8
+28035,"ms","forrest",41.3,55.5
+28037,"ms","franklin",34.9,63.6
+28039,"ms","george",10.3,88
+28041,"ms","greene",18,80.9
+28043,"ms","grenada",42,56.9
+28045,"ms","hancock",19,78.3
+28047,"ms","harrison",33.3,64
+28049,"ms","hinds",70.9,27.2
+28051,"ms","holmes",82.6,16.3
+28053,"ms","humphreys",73.7,25.7
+28055,"ms","issaquena",56.5,42.6
+28057,"ms","itawamba",11.4,87
+28059,"ms","jackson",28.8,68.6
+28061,"ms","jasper",51.6,47.6
+28063,"ms","jefferson",86.5,12.7
+28065,"ms","jefferson davis",59.6,39.5
+28067,"ms","jones",27.4,71.1
+28069,"ms","kemper",60.9,38.3
+28071,"ms","lafayette",40.6,55.4
+28073,"ms","lamar",20.9,76.5
+28075,"ms","lauderdale",37.7,60.7
+28077,"ms","lawrence",34.5,64.3
+28079,"ms","leake",42.4,56.6
+28081,"ms","lee",30.1,67.9
+28083,"ms","leflore",69.8,28.8
+28085,"ms","lincoln",29.3,69.4
+28087,"ms","lowndes",45.9,52.2
+28089,"ms","madison",40.8,56.8
+28091,"ms","marion",31.2,67.3
+28093,"ms","marshall",54,44.4
+28095,"ms","monroe",34.8,64
+28097,"ms","montgomery",42.6,56.1
+28099,"ms","neshoba",25.6,72.9
+28101,"ms","newton",29.7,69
+28103,"ms","noxubee",78.2,21.3
+28105,"ms","oktibbeha",48.6,47.5
+28107,"ms","panola",49.1,49.6
+28109,"ms","pearl river",15.5,82.2
+28111,"ms","perry",22.5,76.1
+28113,"ms","pike",48.8,49.6
+28115,"ms","pontotoc",18,79.9
+28117,"ms","prentiss",20.9,77.5
+28119,"ms","quitman",68.7,29.8
+28121,"ms","rankin",22.4,75.2
+28123,"ms","scott",40.5,58.2
+28125,"ms","sharkey",67,32.1
+28127,"ms","simpson",33.9,64.8
+28129,"ms","smith",21.1,77.8
+28131,"ms","stone",22,75.5
+28133,"ms","sunflower",69.7,29.4
+28135,"ms","tallahatchie",56.8,41.9
+28137,"ms","tate",33.4,64.8
+28139,"ms","tippah",19.8,78.6
+28141,"ms","tishomingo",11.9,85.6
+28143,"ms","tunica",74.4,24.3
+28145,"ms","union",17.3,80.5
+28147,"ms","walthall",41.9,57.1
+28149,"ms","warren",46.6,51.5
+28151,"ms","washington",67.6,31.2
+28153,"ms","wayne",36.6,62.5
+28155,"ms","webster",19.9,78.6
+28157,"ms","wilkinson",67.7,31.3
+28159,"ms","winston",43.1,55.6
+28161,"ms","yalobusha",42.5,55.6
+28163,"ms","yazoo",52.8,46.2
+30001,"mt","beaverhead",23.8,69.4
+30003,"mt","big horn",49.7,44.2
+30005,"mt","blaine",45.3,48
+30007,"mt","broadwater",18.3,75.2
+30009,"mt","carbon",30.8,63
+30011,"mt","carter",9,87.1
+30013,"mt","cascade",35.7,57.2
+30015,"mt","chouteau",28.4,65.2
+30017,"mt","custer",22.8,70.7
+30019,"mt","daniels",17.5,76.6
+30021,"mt","dawson",18.3,76.8
+30023,"mt","deer lodge",49.2,42.4
+30025,"mt","fallon",10.4,86.6
+30027,"mt","fergus",20.7,73.2
+30029,"mt","flathead",28.7,65.2
+30031,"mt","gallatin",45.8,44.8
+30033,"mt","garfield",4.8,91.3
+30035,"mt","glacier",61.9,32.2
+30037,"mt","golden valley",15.2,78
+30039,"mt","granite",26.6,67.3
+30041,"mt","hill",37,54.3
+30043,"mt","jefferson",30.2,62.7
+30045,"mt","judith basin",19.5,72.9
+30047,"mt","lake",36.5,57.8
+30049,"mt","lewis and clark",42.5,49.5
+30051,"mt","liberty",21.6,73.2
+30053,"mt","lincoln",22.1,72.6
+30057,"mt","madison",25,69.7
+30055,"mt","mccone",14.6,81.3
+30059,"mt","meagher",19.7,75.1
+30061,"mt","mineral",26.1,67
+30063,"mt","missoula",53.7,37.9
+30065,"mt","musselshell",13.8,81.6
+30067,"mt","park",38.9,53.8
+30069,"mt","petroleum",9.4,86.5
+30071,"mt","phillips",14.7,79.9
+30073,"mt","pondera",27.4,66.3
+30075,"mt","powder river",12.1,84
+30077,"mt","powell",19.8,72.9
+30079,"mt","prairie",14.6,80.9
+30081,"mt","ravalli",27.9,66.5
+30083,"mt","richland",13.9,80.7
+30085,"mt","roosevelt",43.1,49.4
+30087,"mt","rosebud",28.9,65.9
+30089,"mt","sanders",20.6,72.7
+30091,"mt","sheridan",26.1,67.8
+30093,"mt","silver bow",53,38.8
+30095,"mt","stillwater",18.8,75.4
+30097,"mt","sweet grass",19.2,76.1
+30099,"mt","teton",25.5,68.5
+30101,"mt","toole",19.8,74.1
+30103,"mt","treasure",13.4,79.4
+30105,"mt","valley",23,69.9
+30107,"mt","wheatland",19.2,74.9
+30109,"mt","wibaux",10.3,86.3
+30111,"mt","yellowstone",32.7,59.8
+37001,"nc","alamance",42.3,55.2
+37003,"nc","alexander",20.8,76.8
+37005,"nc","alleghany",24.9,72.7
+37007,"nc","anson",55.7,43.1
+37009,"nc","ashe",26.4,71.1
+37011,"nc","avery",20.7,77.2
+37013,"nc","beaufort",36.9,61.4
+37015,"nc","bertie",62.2,37.1
+37017,"nc","bladen",44.6,54.1
+37019,"nc","brunswick",34.4,63.1
+37021,"nc","buncombe",55.7,41.1
+37023,"nc","burke",29,68.4
+37025,"nc","cabarrus",38.5,58.5
+37027,"nc","caldwell",23.5,74.1
+37029,"nc","camden",25.6,71.4
+37031,"nc","carteret",26.6,71
+37033,"nc","caswell",43.3,54.8
+37035,"nc","catawba",29.6,67.6
+37037,"nc","chatham",53.6,43.5
+37039,"nc","cherokee",20.3,77.3
+37041,"nc","chowan",41.7,56
+37043,"nc","clay",23,74.7
+37045,"nc","cleveland",33.7,64.3
+37047,"nc","columbus",38.3,60.4
+37049,"nc","craven",37.8,59.6
+37051,"nc","cumberland",56.7,40.7
+37053,"nc","currituck",23.2,73
+37055,"nc","dare",37.2,59.4
+37057,"nc","davidson",24.1,73.4
+37059,"nc","davie",24.5,72.6
+37061,"nc","duplin",39.8,59
+37063,"nc","durham",78.9,18.5
+37065,"nc","edgecombe",65.5,33.3
+37067,"nc","forsyth",53.6,43.4
+37069,"nc","franklin",42.8,54.6
+37071,"nc","gaston",32.7,64.8
+37073,"nc","gates",44.5,53.5
+37075,"nc","graham",18.6,79.6
+37077,"nc","granville",47.6,50.1
+37079,"nc","greene",44.6,54.4
+37081,"nc","guilford",58.7,38.7
+37083,"nc","halifax",62.9,36
+37085,"nc","harnett",36.6,60.7
+37087,"nc","haywood",34.5,62.5
+37089,"nc","henderson",34.6,62.6
+37091,"nc","hertford",68.2,30.5
+37093,"nc","hoke",53.8,43
+37095,"nc","hyde",42.1,56.1
+37097,"nc","iredell",30.3,67.1
+37099,"nc","jackson",42,53.9
+37101,"nc","johnston",33.3,64
+37103,"nc","jones",40.5,58.4
+37105,"nc","lee",42.1,55.2
+37107,"nc","lenoir",46.1,52.4
+37109,"nc","lincoln",24.9,72.6
+37113,"nc","macon",27.9,69.4
+37115,"nc","madison",35.6,61.4
+37117,"nc","martin",49.1,49.6
+37111,"nc","mcdowell",23.8,74.2
+37119,"nc","mecklenburg",63.3,33.4
+37121,"nc","mitchell",19.9,78.3
+37123,"nc","montgomery",35.9,61.8
+37125,"nc","moore",33.8,63.4
+37127,"nc","nash",49.1,49.3
+37129,"nc","new hanover",46.2,50.3
+37131,"nc","northampton",62.6,36.4
+37133,"nc","onslow",31,65.6
+37135,"nc","orange",74,23
+37137,"nc","pamlico",35.8,62.4
+37139,"nc","pasquotank",49.8,47.6
+37141,"nc","pender",33.6,64
+37143,"nc","perquimans",34.7,62.8
+37145,"nc","person",40.3,57.6
+37147,"nc","pitt",52.3,45
+37149,"nc","polk",34.6,62.8
+37151,"nc","randolph",20.6,77.3
+37153,"nc","richmond",44.1,54.2
+37155,"nc","robeson",46.6,51.4
+37157,"nc","rockingham",34,64
+37159,"nc","rowan",30.5,67.2
+37161,"nc","rutherford",25,72.9
+37163,"nc","sampson",40.9,57.6
+37165,"nc","scotland",53,45.2
+37167,"nc","stanly",23.8,74
+37169,"nc","stokes",20.9,76.5
+37171,"nc","surry",23.5,74.2
+37173,"nc","swain",36.5,59.5
+37175,"nc","transylvania",37.4,59.9
+37177,"nc","tyrrell",41.5,56.9
+37179,"nc","union",32.9,64
+37181,"nc","vance",61.6,37
+37183,"nc","wake",58.4,37.9
+37185,"nc","warren",65.9,32.6
+37187,"nc","washington",57.1,41.9
+37189,"nc","watauga",48.5,47
+37191,"nc","wayne",43.2,54.9
+37193,"nc","wilkes",21.4,76.6
+37195,"nc","wilson",51.9,46.3
+37197,"nc","yadkin",18.1,79.6
+37199,"nc","yancey",32.4,64.9
+38001,"nd","adams",17.9,75
+38003,"nd","barnes",30.4,60.1
+38005,"nd","benson",43.4,47.8
+38007,"nd","billings",9.8,83.1
+38009,"nd","bottineau",21.4,72.2
+38011,"nd","bowman",12.8,81.7
+38013,"nd","burke",11.4,85.3
+38015,"nd","burleigh",23.2,69.3
+38017,"nd","cass",39.7,50.4
+38019,"nd","cavalier",24.2,68.9
+38021,"nd","dickey",23.2,69.8
+38023,"nd","divide",20.5,72.5
+38025,"nd","dunn",16.2,79.7
+38027,"nd","eddy",29,64.8
+38029,"nd","emmons",11,85.3
+38031,"nd","foster",20.4,72.8
+38033,"nd","golden valley",10.5,84.2
+38035,"nd","grand forks",36.4,54.9
+38037,"nd","grant",13.7,80.7
+38039,"nd","griggs",23.9,67.9
+38041,"nd","hettinger",13.3,81.8
+38043,"nd","kidder",13.2,81.4
+38045,"nd","lamoure",23.6,69.7
+38047,"nd","logan",10.9,84.2
+38049,"nd","mchenry",17.6,74.1
+38051,"nd","mcintosh",16.4,77
+38053,"nd","mckenzie",15.2,79.7
+38055,"nd","mclean",20.6,73.5
+38057,"nd","mercer",13.5,81.4
+38059,"nd","morton",19.8,72.8
+38061,"nd","mountrail",30.2,63.6
+38063,"nd","nelson",31.6,60.5
+38065,"nd","oliver",11.9,82.5
+38067,"nd","pembina",22,71.3
+38069,"nd","pierce",21.3,70.9
+38071,"nd","ramsey",28.8,61.6
+38073,"nd","ransom",36.1,52.2
+38075,"nd","renville",15.9,77.9
+38077,"nd","richland",27.7,63.8
+38079,"nd","rolette",57.3,33
+38081,"nd","sargent",35,55
+38083,"nd","sheridan",12.1,83.2
+38085,"nd","sioux",64.4,21.8
+38087,"nd","slope",9.8,84.5
+38089,"nd","stark",14.4,80.2
+38091,"nd","steele",36.7,54.6
+38093,"nd","stutsman",25,67.5
+38095,"nd","towner",26.8,64.5
+38097,"nd","traill",32.1,58.6
+38099,"nd","walsh",25.7,65.8
+38101,"nd","ward",21.6,69.2
+38103,"nd","wells",17.8,76.2
+38105,"nd","williams",13.7,80.1
+31001,"ne","adams",24.8,69.9
+31003,"ne","antelope",11.8,84.4
+31005,"ne","arthur",6.1,90.1
+31007,"ne","banner",4.6,91
+31009,"ne","blaine",9.6,87.2
+31011,"ne","boone",14.4,80.2
+31013,"ne","box butte",20,74.6
+31015,"ne","boyd",11.2,85.6
+31017,"ne","brown",9.7,87.4
+31019,"ne","buffalo",22.9,70.4
+31021,"ne","burt",26.3,67
+31023,"ne","butler",17.6,78.4
+31025,"ne","cass",27.4,66.5
+31027,"ne","cedar",13.1,81
+31029,"ne","chase",9.2,87.6
+31031,"ne","cherry",10.3,85.1
+31033,"ne","cheyenne",15.4,79
+31035,"ne","clay",15.8,79.8
+31037,"ne","colfax",27,68.4
+31039,"ne","cuming",17.9,77.6
+31041,"ne","custer",11.6,84.1
+31043,"ne","dakota",40,55.5
+31045,"ne","dawes",21.9,71.5
+31047,"ne","dawson",24.9,69.9
+31049,"ne","deuel",12.3,82.8
+31051,"ne","dixon",20.3,74.4
+31053,"ne","dodge",29.8,65.1
+31055,"ne","douglas",47.9,46.5
+31057,"ne","dundy",9.4,86.7
+31059,"ne","fillmore",21.2,72.9
+31061,"ne","franklin",15.1,81.2
+31063,"ne","frontier",12.3,84.4
+31065,"ne","furnas",13.1,82.7
+31067,"ne","gage",29.7,64.3
+31069,"ne","garden",14.4,81.7
+31071,"ne","garfield",12.5,84.6
+31073,"ne","gosper",16.5,79.2
+31075,"ne","grant",5.1,93.1
+31077,"ne","greeley",18,78.2
+31079,"ne","hall",28.8,66.3
+31081,"ne","hamilton",17.8,76.8
+31083,"ne","harlan",13.8,82.3
+31085,"ne","hayes",5.9,92.4
+31087,"ne","hitchcock",11,84.4
+31089,"ne","holt",10.5,85.9
+31091,"ne","hooker",9.7,85.7
+31093,"ne","howard",18.4,77.2
+31095,"ne","jefferson",24.2,69.6
+31097,"ne","johnson",27.3,65.7
+31099,"ne","kearney",17,77.7
+31101,"ne","keith",14.2,81.2
+31103,"ne","keya paha",7.6,89.1
+31105,"ne","kimball",13.9,80.5
+31107,"ne","knox",17.6,78.3
+31109,"ne","lancaster",46.6,46.6
+31111,"ne","lincoln",18.4,76.5
+31113,"ne","logan",7.1,88.7
+31115,"ne","loup",12.6,84.6
+31119,"ne","madison",19.1,75.4
+31117,"ne","mcpherson",4.9,89.9
+31121,"ne","merrick",16.2,78.6
+31123,"ne","morrill",13,82.5
+31125,"ne","nance",17.5,78.6
+31127,"ne","nemaha",25.2,68.1
+31129,"ne","nuckolls",16.2,79.4
+31131,"ne","otoe",27.7,66.4
+31133,"ne","pawnee",21.2,73.8
+31135,"ne","perkins",11.3,84.8
+31137,"ne","phelps",12.4,83.1
+31139,"ne","pierce",10.7,85.3
+31141,"ne","platte",18.6,77.3
+31143,"ne","polk",16.2,79.6
+31145,"ne","red willow",12.6,83.2
+31147,"ne","richardson",21.8,73.2
+31149,"ne","rock",8.8,86.6
+31151,"ne","saline",34,59.4
+31153,"ne","sarpy",35.6,57.4
+31155,"ne","saunders",23.7,70.6
+31157,"ne","scotts bluff",22.7,71.6
+31159,"ne","seward",24.3,70.3
+31161,"ne","sheridan",11.2,85.5
+31163,"ne","sherman",21.8,73.6
+31165,"ne","sioux",10.9,84.9
+31167,"ne","stanton",15.2,79.1
+31169,"ne","thayer",18.8,76.3
+31171,"ne","thomas",7.8,88.9
+31173,"ne","thurston",44.9,49.9
+31175,"ne","valley",15.5,81.5
+31177,"ne","washington",24.6,69.7
+31179,"ne","wayne",22.1,71.5
+31181,"ne","webster",18.1,78.2
+31183,"ne","wheeler",13.5,82.1
+31185,"ne","york",18.9,74.9
+33001,"nh","belknap",39.2,56
+33003,"nh","carroll",44.7,50.4
+33005,"nh","cheshire",53.7,41.1
+33007,"nh","coos",43,52.1
+33009,"nh","grafton",56.9,38
+33011,"nh","hillsborough",47.3,47.5
+33013,"nh","merrimack",49,46
+33015,"nh","rockingham",44.7,50.5
+33017,"nh","strafford",51.4,42.8
+33019,"nh","sullivan",46.2,48.8
+34001,"nj","atlantic",51.5,45.3
+34003,"nj","bergen",54.5,42.5
+NA,"nj","burlington.",55.6,52.9
+NA,"nj","burlington.",55.6,37.9
+NA,"nj","burlington.",55.6,21.4
+NA,"nj","burlington.",55.6,57.7
+NA,"nj","burlington.",55.6,10.9
+NA,"nj","burlington.",55.6,73.4
+NA,"nj","burlington.",55.6,40.8
+NA,"nj","burlington.",55.6,32.2
+NA,"nj","burlington.",55.6,20.7
+NA,"nj","burlington.",55.6,22.6
+NA,"nj","burlington.",55.6,37.8
+NA,"nj","burlington.",55.6,45.4
+NA,"nj","burlington.",55.6,10
+NA,"nj","burlington.",55.6,22.1
+NA,"nj","burlington.",55.6,32.1
+NA,"nj","burlington.",55.6,17.6
+NA,"nj","burlington.",55.6,37.4
+NA,"nj","burlington.",55.6,15.5
+NA,"nj","burlington.",55.6,8.3
+NA,"nj","burlington.",55.6,57.7
+NA,"nj","burlington.",55.6,46.4
+NA,"nj","burlington.",55.6,44.9
+NA,"nj","burlington.",55.6,79.8
+NA,"nj","burlington.",55.6,65.3
+NA,"nj","burlington.",55.6,32.6
+NA,"nj","burlington.",55.6,77.7
+NA,"nj","burlington.",55.6,51.3
+NA,"nj","burlington.",55.6,72.5
+NA,"nj","burlington.",55.6,34.6
+NA,"nj","burlington.",55.6,37.3
+NA,"nj","burlington.",55.6,67.1
+NA,"nj","burlington.",55.6,59
+NA,"nj","burlington.",55.6,47.6
+NA,"nj","burlington.",55.6,46.3
+NA,"nj","burlington.",55.6,52.9
+NA,"nj","burlington.",55.6,55.2
+NA,"nj","burlington.",55.6,65.4
+NA,"nj","burlington.",55.6,29.8
+NA,"nj","burlington.",55.6,21.7
+NA,"nj","burlington.",55.6,39.4
+NA,"nj","burlington.",55.6,53.7
+NA,"nj","burlington.",55.6,54.7
+NA,"nj","burlington.",55.6,65.1
+NA,"nj","burlington.",55.6,48.8
+NA,"nj","burlington.",55.6,57.9
+NA,"nj","burlington.",55.6,42.2
+NA,"nj","burlington.",55.6,25
+NA,"nj","burlington.",55.6,44.4
+NA,"nj","burlington.",55.6,37.6
+NA,"nj","burlington.",55.6,67.3
+NA,"nj","burlington.",55.6,37.8
+NA,"nj","burlington.",55.6,54.6
+NA,"nj","burlington.",55.6,37.2
+NA,"nj","burlington.",55.6,45
+NA,"nj","burlington.",55.6,54.8
+NA,"nj","camden.",64.6,52.9
+NA,"nj","camden.",64.6,37.9
+NA,"nj","camden.",64.6,21.4
+NA,"nj","camden.",64.6,57.7
+NA,"nj","camden.",64.6,10.9
+NA,"nj","camden.",64.6,73.4
+NA,"nj","camden.",64.6,40.8
+NA,"nj","camden.",64.6,32.2
+NA,"nj","camden.",64.6,20.7
+NA,"nj","camden.",64.6,22.6
+NA,"nj","camden.",64.6,37.8
+NA,"nj","camden.",64.6,45.4
+NA,"nj","camden.",64.6,10
+NA,"nj","camden.",64.6,22.1
+NA,"nj","camden.",64.6,32.1
+NA,"nj","camden.",64.6,17.6
+NA,"nj","camden.",64.6,37.4
+NA,"nj","camden.",64.6,15.5
+NA,"nj","camden.",64.6,8.3
+NA,"nj","camden.",64.6,57.7
+NA,"nj","camden.",64.6,46.4
+NA,"nj","camden.",64.6,44.9
+NA,"nj","camden.",64.6,79.8
+NA,"nj","camden.",64.6,65.3
+NA,"nj","camden.",64.6,32.6
+NA,"nj","camden.",64.6,77.7
+NA,"nj","camden.",64.6,51.3
+NA,"nj","camden.",64.6,72.5
+NA,"nj","camden.",64.6,34.6
+NA,"nj","camden.",64.6,37.3
+NA,"nj","camden.",64.6,67.1
+NA,"nj","camden.",64.6,59
+NA,"nj","camden.",64.6,47.6
+NA,"nj","camden.",64.6,46.3
+NA,"nj","camden.",64.6,52.9
+NA,"nj","camden.",64.6,55.2
+NA,"nj","camden.",64.6,65.4
+NA,"nj","camden.",64.6,29.8
+NA,"nj","camden.",64.6,21.7
+NA,"nj","camden.",64.6,39.4
+NA,"nj","camden.",64.6,53.7
+NA,"nj","camden.",64.6,54.7
+NA,"nj","camden.",64.6,65.1
+NA,"nj","camden.",64.6,48.8
+NA,"nj","camden.",64.6,57.9
+NA,"nj","camden.",64.6,42.2
+NA,"nj","camden.",64.6,25
+NA,"nj","camden.",64.6,44.4
+NA,"nj","camden.",64.6,37.6
+NA,"nj","camden.",64.6,67.3
+NA,"nj","camden.",64.6,37.8
+NA,"nj","camden.",64.6,54.6
+NA,"nj","camden.",64.6,37.2
+NA,"nj","camden.",64.6,45
+NA,"nj","camden.",64.6,54.8
+34009,"nj","cape may",38.5,58.4
+34011,"nj","cumberland",51,45.7
+NA,"nj","essex.",77.1,52.9
+NA,"nj","essex.",77.1,37.9
+NA,"nj","essex.",77.1,21.4
+NA,"nj","essex.",77.1,57.7
+NA,"nj","essex.",77.1,10.9
+NA,"nj","essex.",77.1,73.4
+NA,"nj","essex.",77.1,40.8
+NA,"nj","essex.",77.1,32.2
+NA,"nj","essex.",77.1,20.7
+NA,"nj","essex.",77.1,22.6
+NA,"nj","essex.",77.1,37.8
+NA,"nj","essex.",77.1,45.4
+NA,"nj","essex.",77.1,10
+NA,"nj","essex.",77.1,22.1
+NA,"nj","essex.",77.1,32.1
+NA,"nj","essex.",77.1,17.6
+NA,"nj","essex.",77.1,37.4
+NA,"nj","essex.",77.1,15.5
+NA,"nj","essex.",77.1,8.3
+NA,"nj","essex.",77.1,57.7
+NA,"nj","essex.",77.1,46.4
+NA,"nj","essex.",77.1,44.9
+NA,"nj","essex.",77.1,79.8
+NA,"nj","essex.",77.1,65.3
+NA,"nj","essex.",77.1,32.6
+NA,"nj","essex.",77.1,77.7
+NA,"nj","essex.",77.1,51.3
+NA,"nj","essex.",77.1,72.5
+NA,"nj","essex.",77.1,34.6
+NA,"nj","essex.",77.1,37.3
+NA,"nj","essex.",77.1,67.1
+NA,"nj","essex.",77.1,59
+NA,"nj","essex.",77.1,47.6
+NA,"nj","essex.",77.1,46.3
+NA,"nj","essex.",77.1,52.9
+NA,"nj","essex.",77.1,55.2
+NA,"nj","essex.",77.1,65.4
+NA,"nj","essex.",77.1,29.8
+NA,"nj","essex.",77.1,21.7
+NA,"nj","essex.",77.1,39.4
+NA,"nj","essex.",77.1,53.7
+NA,"nj","essex.",77.1,54.7
+NA,"nj","essex.",77.1,65.1
+NA,"nj","essex.",77.1,48.8
+NA,"nj","essex.",77.1,57.9
+NA,"nj","essex.",77.1,42.2
+NA,"nj","essex.",77.1,25
+NA,"nj","essex.",77.1,44.4
+NA,"nj","essex.",77.1,37.6
+NA,"nj","essex.",77.1,67.3
+NA,"nj","essex.",77.1,37.8
+NA,"nj","essex.",77.1,54.6
+NA,"nj","essex.",77.1,37.2
+NA,"nj","essex.",77.1,45
+NA,"nj","essex.",77.1,54.8
+34015,"nj","gloucester",47.9,48.4
+NA,"nj","hudson.",74.5,52.9
+NA,"nj","hudson.",74.5,37.9
+NA,"nj","hudson.",74.5,21.4
+NA,"nj","hudson.",74.5,57.7
+NA,"nj","hudson.",74.5,10.9
+NA,"nj","hudson.",74.5,73.4
+NA,"nj","hudson.",74.5,40.8
+NA,"nj","hudson.",74.5,32.2
+NA,"nj","hudson.",74.5,20.7
+NA,"nj","hudson.",74.5,22.6
+NA,"nj","hudson.",74.5,37.8
+NA,"nj","hudson.",74.5,45.4
+NA,"nj","hudson.",74.5,10
+NA,"nj","hudson.",74.5,22.1
+NA,"nj","hudson.",74.5,32.1
+NA,"nj","hudson.",74.5,17.6
+NA,"nj","hudson.",74.5,37.4
+NA,"nj","hudson.",74.5,15.5
+NA,"nj","hudson.",74.5,8.3
+NA,"nj","hudson.",74.5,57.7
+NA,"nj","hudson.",74.5,46.4
+NA,"nj","hudson.",74.5,44.9
+NA,"nj","hudson.",74.5,79.8
+NA,"nj","hudson.",74.5,65.3
+NA,"nj","hudson.",74.5,32.6
+NA,"nj","hudson.",74.5,77.7
+NA,"nj","hudson.",74.5,51.3
+NA,"nj","hudson.",74.5,72.5
+NA,"nj","hudson.",74.5,34.6
+NA,"nj","hudson.",74.5,37.3
+NA,"nj","hudson.",74.5,67.1
+NA,"nj","hudson.",74.5,59
+NA,"nj","hudson.",74.5,47.6
+NA,"nj","hudson.",74.5,46.3
+NA,"nj","hudson.",74.5,52.9
+NA,"nj","hudson.",74.5,55.2
+NA,"nj","hudson.",74.5,65.4
+NA,"nj","hudson.",74.5,29.8
+NA,"nj","hudson.",74.5,21.7
+NA,"nj","hudson.",74.5,39.4
+NA,"nj","hudson.",74.5,53.7
+NA,"nj","hudson.",74.5,54.7
+NA,"nj","hudson.",74.5,65.1
+NA,"nj","hudson.",74.5,48.8
+NA,"nj","hudson.",74.5,57.9
+NA,"nj","hudson.",74.5,42.2
+NA,"nj","hudson.",74.5,25
+NA,"nj","hudson.",74.5,44.4
+NA,"nj","hudson.",74.5,37.6
+NA,"nj","hudson.",74.5,67.3
+NA,"nj","hudson.",74.5,37.8
+NA,"nj","hudson.",74.5,54.6
+NA,"nj","hudson.",74.5,37.2
+NA,"nj","hudson.",74.5,45
+NA,"nj","hudson.",74.5,54.8
+34019,"nj","hunterdon",40.8,54.6
+34021,"nj","mercer",66.3,30.1
+34023,"nj","middlesex",58.3,38.6
+34025,"nj","monmouth",43.6,53.1
+34027,"nj","morris",46,50.4
+34029,"nj","ocean",31.5,65.5
+NA,"nj","passaic.",59.5,52.9
+NA,"nj","passaic.",59.5,37.9
+NA,"nj","passaic.",59.5,21.4
+NA,"nj","passaic.",59.5,57.7
+NA,"nj","passaic.",59.5,10.9
+NA,"nj","passaic.",59.5,73.4
+NA,"nj","passaic.",59.5,40.8
+NA,"nj","passaic.",59.5,32.2
+NA,"nj","passaic.",59.5,20.7
+NA,"nj","passaic.",59.5,22.6
+NA,"nj","passaic.",59.5,37.8
+NA,"nj","passaic.",59.5,45.4
+NA,"nj","passaic.",59.5,10
+NA,"nj","passaic.",59.5,22.1
+NA,"nj","passaic.",59.5,32.1
+NA,"nj","passaic.",59.5,17.6
+NA,"nj","passaic.",59.5,37.4
+NA,"nj","passaic.",59.5,15.5
+NA,"nj","passaic.",59.5,8.3
+NA,"nj","passaic.",59.5,57.7
+NA,"nj","passaic.",59.5,46.4
+NA,"nj","passaic.",59.5,44.9
+NA,"nj","passaic.",59.5,79.8
+NA,"nj","passaic.",59.5,65.3
+NA,"nj","passaic.",59.5,32.6
+NA,"nj","passaic.",59.5,77.7
+NA,"nj","passaic.",59.5,51.3
+NA,"nj","passaic.",59.5,72.5
+NA,"nj","passaic.",59.5,34.6
+NA,"nj","passaic.",59.5,37.3
+NA,"nj","passaic.",59.5,67.1
+NA,"nj","passaic.",59.5,59
+NA,"nj","passaic.",59.5,47.6
+NA,"nj","passaic.",59.5,46.3
+NA,"nj","passaic.",59.5,52.9
+NA,"nj","passaic.",59.5,55.2
+NA,"nj","passaic.",59.5,65.4
+NA,"nj","passaic.",59.5,29.8
+NA,"nj","passaic.",59.5,21.7
+NA,"nj","passaic.",59.5,39.4
+NA,"nj","passaic.",59.5,53.7
+NA,"nj","passaic.",59.5,54.7
+NA,"nj","passaic.",59.5,65.1
+NA,"nj","passaic.",59.5,48.8
+NA,"nj","passaic.",59.5,57.9
+NA,"nj","passaic.",59.5,42.2
+NA,"nj","passaic.",59.5,25
+NA,"nj","passaic.",59.5,44.4
+NA,"nj","passaic.",59.5,37.6
+NA,"nj","passaic.",59.5,67.3
+NA,"nj","passaic.",59.5,37.8
+NA,"nj","passaic.",59.5,54.6
+NA,"nj","passaic.",59.5,37.2
+NA,"nj","passaic.",59.5,45
+NA,"nj","passaic.",59.5,54.8
+34033,"nj","salem",40.3,55.6
+34035,"nj","somerset",54.4,41.9
+34037,"nj","sussex",32.7,62.9
+34039,"nj","union",66.3,30.8
+34041,"nj","warren",35.1,60.7
+35001,"nm","bernalillo",52.6,34.8
+35003,"nm","catron",21,71.8
+35005,"nm","chaves",27.4,63.8
+35006,"nm","cibola",46.7,39.9
+35007,"nm","colfax",40.2,48.7
+35009,"nm","curry",24.6,67
+35011,"nm","de baca",21.3,68.3
+35013,"nm","dona ana",54.2,36.2
+35015,"nm","eddy",25.7,67.2
+35017,"nm","grant",49.3,41.6
+35019,"nm","guadalupe",53.2,32.7
+35021,"nm","harding",29.6,59
+35023,"nm","hidalgo",42.5,49.3
+35025,"nm","lea",22.3,70.9
+35027,"nm","lincoln",26.3,66.5
+35028,"nm","los alamos",52.2,31.9
+35029,"nm","luna",44.1,48
+35031,"nm","mckinley",63.3,23.5
+35033,"nm","mora",63.1,27.3
+35035,"nm","otero",30.7,59.9
+35037,"nm","quay",28.6,62.2
+35039,"nm","rio arriba",64.6,24.3
+35041,"nm","roosevelt",24.7,66
+35045,"nm","san juan",28.2,61.3
+35047,"nm","san miguel",68,21.6
+35043,"nm","sandoval",45.2,42.5
+35049,"nm","santa fe",71.3,20.3
+35051,"nm","sierra",31.2,58.5
+35053,"nm","socorro",48.5,38.4
+35055,"nm","taos",70,18
+35057,"nm","torrance",28.3,59.1
+35059,"nm","union",18.8,71.9
+35061,"nm","valencia",39.5,48.2
+32510,"nv","carson city",38.4,52.5
+32001,"nv","churchill",20.2,71.6
+32003,"nv","clark",52.4,41.8
+32005,"nv","douglas",30.3,62.5
+32007,"nv","elko",18.3,73
+32009,"nv","esmeralda",15.4,77.8
+32011,"nv","eureka",8.7,84.7
+32013,"nv","humboldt",21.5,70.3
+32015,"nv","lander",16.7,75.8
+32017,"nv","lincoln",13.4,78.4
+32019,"nv","lyon",25.9,67.4
+32021,"nv","mineral",31.9,59
+32023,"nv","nye",26,68
+32027,"nv","pershing",21.7,70.8
+32029,"nv","storey",29.4,63.2
+32031,"nv","washoe",46.4,45.2
+32033,"nv","white pine",18.7,72.2
+36001,"ny","albany",59.5,35.2
+36003,"ny","allegany",26.1,68.4
+36005,"ny","bronx",88.7,9.6
+36007,"ny","broome",45.3,49
+36009,"ny","cattaraugus",30.1,64.5
+36011,"ny","cayuga",40.5,53.8
+36013,"ny","chautauqua",35,59.6
+36015,"ny","chemung",37.3,57.3
+36017,"ny","chenango",32.8,60.9
+36019,"ny","clinton",47.4,46.4
+36021,"ny","columbia",48.1,46.8
+36023,"ny","cortland",43.3,50
+36025,"ny","delaware",32.8,61.9
+36027,"ny","dutchess",47.3,48.4
+NA,"ny","erie.",50.1,52.9
+NA,"ny","erie.",50.1,37.9
+NA,"ny","erie.",50.1,21.4
+NA,"ny","erie.",50.1,57.7
+NA,"ny","erie.",50.1,10.9
+NA,"ny","erie.",50.1,73.4
+NA,"ny","erie.",50.1,40.8
+NA,"ny","erie.",50.1,32.2
+NA,"ny","erie.",50.1,20.7
+NA,"ny","erie.",50.1,22.6
+NA,"ny","erie.",50.1,37.8
+NA,"ny","erie.",50.1,45.4
+NA,"ny","erie.",50.1,10
+NA,"ny","erie.",50.1,22.1
+NA,"ny","erie.",50.1,32.1
+NA,"ny","erie.",50.1,17.6
+NA,"ny","erie.",50.1,37.4
+NA,"ny","erie.",50.1,15.5
+NA,"ny","erie.",50.1,8.3
+NA,"ny","erie.",50.1,57.7
+NA,"ny","erie.",50.1,46.4
+NA,"ny","erie.",50.1,44.9
+NA,"ny","erie.",50.1,79.8
+NA,"ny","erie.",50.1,65.3
+NA,"ny","erie.",50.1,32.6
+NA,"ny","erie.",50.1,77.7
+NA,"ny","erie.",50.1,51.3
+NA,"ny","erie.",50.1,72.5
+NA,"ny","erie.",50.1,34.6
+NA,"ny","erie.",50.1,37.3
+NA,"ny","erie.",50.1,67.1
+NA,"ny","erie.",50.1,59
+NA,"ny","erie.",50.1,47.6
+NA,"ny","erie.",50.1,46.3
+NA,"ny","erie.",50.1,52.9
+NA,"ny","erie.",50.1,55.2
+NA,"ny","erie.",50.1,65.4
+NA,"ny","erie.",50.1,29.8
+NA,"ny","erie.",50.1,21.7
+NA,"ny","erie.",50.1,39.4
+NA,"ny","erie.",50.1,53.7
+NA,"ny","erie.",50.1,54.7
+NA,"ny","erie.",50.1,65.1
+NA,"ny","erie.",50.1,48.8
+NA,"ny","erie.",50.1,57.9
+NA,"ny","erie.",50.1,42.2
+NA,"ny","erie.",50.1,25
+NA,"ny","erie.",50.1,44.4
+NA,"ny","erie.",50.1,37.6
+NA,"ny","erie.",50.1,67.3
+NA,"ny","erie.",50.1,37.8
+NA,"ny","erie.",50.1,54.6
+NA,"ny","erie.",50.1,37.2
+NA,"ny","erie.",50.1,45
+NA,"ny","erie.",50.1,54.8
+36031,"ny","essex",44.8,48.2
+36033,"ny","franklin",43,50.4
+36035,"ny","fulton",29.7,65.2
+36037,"ny","genesee",28.4,65.3
+36039,"ny","greene",33.8,61.2
+36041,"ny","hamilton",28,66.8
+36043,"ny","herkimer",30,64.6
+36045,"ny","jefferson",35.9,58.2
+36047,"ny","kings",79.7,17.9
+36049,"ny","lewis",27.4,67.1
+36051,"ny","livingston",33.4,61.3
+36053,"ny","madison",38.5,54.4
+36055,"ny","monroe",54.4,40.3
+36057,"ny","montgomery",34.2,60.7
+36059,"ny","nassau",51.3,45.9
+NA,"ny","new york.",87.2,52.9
+NA,"ny","new york.",87.2,37.9
+NA,"ny","new york.",87.2,21.4
+NA,"ny","new york.",87.2,57.7
+NA,"ny","new york.",87.2,10.9
+NA,"ny","new york.",87.2,73.4
+NA,"ny","new york.",87.2,40.8
+NA,"ny","new york.",87.2,32.2
+NA,"ny","new york.",87.2,20.7
+NA,"ny","new york.",87.2,22.6
+NA,"ny","new york.",87.2,37.8
+NA,"ny","new york.",87.2,45.4
+NA,"ny","new york.",87.2,10
+NA,"ny","new york.",87.2,22.1
+NA,"ny","new york.",87.2,32.1
+NA,"ny","new york.",87.2,17.6
+NA,"ny","new york.",87.2,37.4
+NA,"ny","new york.",87.2,15.5
+NA,"ny","new york.",87.2,8.3
+NA,"ny","new york.",87.2,57.7
+NA,"ny","new york.",87.2,46.4
+NA,"ny","new york.",87.2,44.9
+NA,"ny","new york.",87.2,79.8
+NA,"ny","new york.",87.2,65.3
+NA,"ny","new york.",87.2,32.6
+NA,"ny","new york.",87.2,77.7
+NA,"ny","new york.",87.2,51.3
+NA,"ny","new york.",87.2,72.5
+NA,"ny","new york.",87.2,34.6
+NA,"ny","new york.",87.2,37.3
+NA,"ny","new york.",87.2,67.1
+NA,"ny","new york.",87.2,59
+NA,"ny","new york.",87.2,47.6
+NA,"ny","new york.",87.2,46.3
+NA,"ny","new york.",87.2,52.9
+NA,"ny","new york.",87.2,55.2
+NA,"ny","new york.",87.2,65.4
+NA,"ny","new york.",87.2,29.8
+NA,"ny","new york.",87.2,21.7
+NA,"ny","new york.",87.2,39.4
+NA,"ny","new york.",87.2,53.7
+NA,"ny","new york.",87.2,54.7
+NA,"ny","new york.",87.2,65.1
+NA,"ny","new york.",87.2,48.8
+NA,"ny","new york.",87.2,57.9
+NA,"ny","new york.",87.2,42.2
+NA,"ny","new york.",87.2,25
+NA,"ny","new york.",87.2,44.4
+NA,"ny","new york.",87.2,37.6
+NA,"ny","new york.",87.2,67.3
+NA,"ny","new york.",87.2,37.8
+NA,"ny","new york.",87.2,54.6
+NA,"ny","new york.",87.2,37.2
+NA,"ny","new york.",87.2,45
+NA,"ny","new york.",87.2,54.8
+36063,"ny","niagara",38.2,57.2
+36065,"ny","oneida",36.7,57.8
+36067,"ny","onondaga",53.6,40.8
+36069,"ny","ontario",42.4,51.1
+36071,"ny","orange",44.8,51.2
+36073,"ny","orleans",25.9,69.3
+36075,"ny","oswego",35.4,58.6
+36077,"ny","otsego",40.3,53.4
+36079,"ny","putnam",39.3,57.1
+NA,"ny","queens.",75.5,52.9
+NA,"ny","queens.",75.5,37.9
+NA,"ny","queens.",75.5,21.4
+NA,"ny","queens.",75.5,57.7
+NA,"ny","queens.",75.5,10.9
+NA,"ny","queens.",75.5,73.4
+NA,"ny","queens.",75.5,40.8
+NA,"ny","queens.",75.5,32.2
+NA,"ny","queens.",75.5,20.7
+NA,"ny","queens.",75.5,22.6
+NA,"ny","queens.",75.5,37.8
+NA,"ny","queens.",75.5,45.4
+NA,"ny","queens.",75.5,10
+NA,"ny","queens.",75.5,22.1
+NA,"ny","queens.",75.5,32.1
+NA,"ny","queens.",75.5,17.6
+NA,"ny","queens.",75.5,37.4
+NA,"ny","queens.",75.5,15.5
+NA,"ny","queens.",75.5,8.3
+NA,"ny","queens.",75.5,57.7
+NA,"ny","queens.",75.5,46.4
+NA,"ny","queens.",75.5,44.9
+NA,"ny","queens.",75.5,79.8
+NA,"ny","queens.",75.5,65.3
+NA,"ny","queens.",75.5,32.6
+NA,"ny","queens.",75.5,77.7
+NA,"ny","queens.",75.5,51.3
+NA,"ny","queens.",75.5,72.5
+NA,"ny","queens.",75.5,34.6
+NA,"ny","queens.",75.5,37.3
+NA,"ny","queens.",75.5,67.1
+NA,"ny","queens.",75.5,59
+NA,"ny","queens.",75.5,47.6
+NA,"ny","queens.",75.5,46.3
+NA,"ny","queens.",75.5,52.9
+NA,"ny","queens.",75.5,55.2
+NA,"ny","queens.",75.5,65.4
+NA,"ny","queens.",75.5,29.8
+NA,"ny","queens.",75.5,21.7
+NA,"ny","queens.",75.5,39.4
+NA,"ny","queens.",75.5,53.7
+NA,"ny","queens.",75.5,54.7
+NA,"ny","queens.",75.5,65.1
+NA,"ny","queens.",75.5,48.8
+NA,"ny","queens.",75.5,57.9
+NA,"ny","queens.",75.5,42.2
+NA,"ny","queens.",75.5,25
+NA,"ny","queens.",75.5,44.4
+NA,"ny","queens.",75.5,37.6
+NA,"ny","queens.",75.5,67.3
+NA,"ny","queens.",75.5,37.8
+NA,"ny","queens.",75.5,54.6
+NA,"ny","queens.",75.5,37.2
+NA,"ny","queens.",75.5,45
+NA,"ny","queens.",75.5,54.8
+36083,"ny","rensselaer",45.5,48.4
+36085,"ny","richmond",40.4,57.2
+36087,"ny","rockland",51.2,46.1
+36091,"ny","saratoga",44.7,49.1
+36093,"ny","schenectady",50.1,44.2
+36095,"ny","schoharie",29.8,64.5
+36097,"ny","schuyler",32.8,61.5
+36099,"ny","seneca",40.7,52.8
+36089,"ny","st. lawrence",41.7,52.5
+36101,"ny","steuben",29.2,65.4
+36103,"ny","suffolk",44.3,52.5
+36105,"ny","sullivan",41.4,55.2
+36107,"ny","tioga",33.3,60.9
+36109,"ny","tompkins",67.7,25.6
+36111,"ny","ulster",51.9,42.7
+36113,"ny","warren",41.2,51.8
+36115,"ny","washington",36.8,57
+36117,"ny","wayne",33.8,59.9
+NA,"ny","westchester.",64.9,52.9
+NA,"ny","westchester.",64.9,37.9
+NA,"ny","westchester.",64.9,21.4
+NA,"ny","westchester.",64.9,57.7
+NA,"ny","westchester.",64.9,10.9
+NA,"ny","westchester.",64.9,73.4
+NA,"ny","westchester.",64.9,40.8
+NA,"ny","westchester.",64.9,32.2
+NA,"ny","westchester.",64.9,20.7
+NA,"ny","westchester.",64.9,22.6
+NA,"ny","westchester.",64.9,37.8
+NA,"ny","westchester.",64.9,45.4
+NA,"ny","westchester.",64.9,10
+NA,"ny","westchester.",64.9,22.1
+NA,"ny","westchester.",64.9,32.1
+NA,"ny","westchester.",64.9,17.6
+NA,"ny","westchester.",64.9,37.4
+NA,"ny","westchester.",64.9,15.5
+NA,"ny","westchester.",64.9,8.3
+NA,"ny","westchester.",64.9,57.7
+NA,"ny","westchester.",64.9,46.4
+NA,"ny","westchester.",64.9,44.9
+NA,"ny","westchester.",64.9,79.8
+NA,"ny","westchester.",64.9,65.3
+NA,"ny","westchester.",64.9,32.6
+NA,"ny","westchester.",64.9,77.7
+NA,"ny","westchester.",64.9,51.3
+NA,"ny","westchester.",64.9,72.5
+NA,"ny","westchester.",64.9,34.6
+NA,"ny","westchester.",64.9,37.3
+NA,"ny","westchester.",64.9,67.1
+NA,"ny","westchester.",64.9,59
+NA,"ny","westchester.",64.9,47.6
+NA,"ny","westchester.",64.9,46.3
+NA,"ny","westchester.",64.9,52.9
+NA,"ny","westchester.",64.9,55.2
+NA,"ny","westchester.",64.9,65.4
+NA,"ny","westchester.",64.9,29.8
+NA,"ny","westchester.",64.9,21.7
+NA,"ny","westchester.",64.9,39.4
+NA,"ny","westchester.",64.9,53.7
+NA,"ny","westchester.",64.9,54.7
+NA,"ny","westchester.",64.9,65.1
+NA,"ny","westchester.",64.9,48.8
+NA,"ny","westchester.",64.9,57.9
+NA,"ny","westchester.",64.9,42.2
+NA,"ny","westchester.",64.9,25
+NA,"ny","westchester.",64.9,44.4
+NA,"ny","westchester.",64.9,37.6
+NA,"ny","westchester.",64.9,67.3
+NA,"ny","westchester.",64.9,37.8
+NA,"ny","westchester.",64.9,54.6
+NA,"ny","westchester.",64.9,37.2
+NA,"ny","westchester.",64.9,45
+NA,"ny","westchester.",64.9,54.8
+36121,"ny","wyoming",22,73
+36123,"ny","yates",35.9,57.7
+39001,"oh","adams",20.7,76.3
+39003,"oh","allen",28.7,66.9
+39005,"oh","ashland",23.5,71.3
+39007,"oh","ashtabula",38.2,57.2
+39009,"oh","athens",55.7,38.7
+39011,"oh","auglaize",16.7,79.3
+39013,"oh","belmont",28.3,67.9
+39015,"oh","brown",22.3,74.5
+39017,"oh","butler",33.7,62
+39019,"oh","carroll",24.4,70.8
+39021,"oh","champaign",25.5,70
+39023,"oh","clark",38,57.5
+39025,"oh","clermont",27.1,68.4
+39027,"oh","clinton",21.8,74.4
+39029,"oh","columbiana",27.1,68.7
+39031,"oh","coshocton",26.1,69.4
+39033,"oh","crawford",24.2,70.9
+39035,"oh","cuyahoga",65.8,30.8
+39037,"oh","darke",17.6,78.8
+39039,"oh","defiance",29.7,64.5
+39041,"oh","delaware",39.5,55.6
+39043,"oh","erie",42.7,52.5
+39045,"oh","fairfield",34.2,61.2
+39047,"oh","fayette",24.7,71.8
+39049,"oh","franklin",60.6,34.7
+39051,"oh","fulton",28.9,64.8
+39053,"oh","gallia",20.4,76
+39055,"oh","geauga",35.2,60.7
+39057,"oh","greene",35.2,59.7
+39059,"oh","guernsey",26.5,69.1
+39061,"oh","hamilton",52.6,43
+39063,"oh","hancock",26.7,67.5
+39065,"oh","hardin",23.9,71.1
+39067,"oh","harrison",23.9,72.2
+39069,"oh","henry",27,66.8
+39071,"oh","highland",20.2,76.3
+39073,"oh","hocking",29.7,66.2
+39075,"oh","holmes",16.3,79.3
+39077,"oh","huron",29.1,65.5
+39079,"oh","jackson",23.7,72.6
+39081,"oh","jefferson",30.3,65.9
+39083,"oh","knox",28.7,66.9
+39085,"oh","lake",39.9,55.5
+39087,"oh","lawrence",26.4,70.3
+39089,"oh","licking",33.2,62.1
+39091,"oh","logan",21.6,74.2
+39093,"oh","lorain",47.5,47.8
+39095,"oh","lucas",56,38.7
+39097,"oh","madison",27.8,67.6
+39099,"oh","mahoning",49.8,46.8
+39101,"oh","marion",30.2,64.6
+39103,"oh","medina",35.3,60.2
+39105,"oh","meigs",22.9,73
+39107,"oh","mercer",15.6,80.7
+39109,"oh","miami",24.9,70.6
+39111,"oh","monroe",24.6,71.5
+39113,"oh","montgomery",47.1,48.4
+39115,"oh","morgan",27.2,68.6
+39117,"oh","morrow",22.9,72.4
+39119,"oh","muskingum",30.2,65.1
+39121,"oh","noble",20.4,75.6
+39123,"oh","ottawa",37.4,57
+39125,"oh","paulding",23.4,71.9
+39127,"oh","perry",27.8,68.1
+39129,"oh","pickaway",26.6,69.2
+39131,"oh","pike",29.9,66.6
+39133,"oh","portage",42.5,52.7
+39135,"oh","preble",21.1,75.1
+39137,"oh","putnam",15.6,80
+39139,"oh","richland",29.1,66.6
+39141,"oh","ross",34.2,61.6
+39143,"oh","sandusky",35.4,58.4
+39145,"oh","scioto",29.9,66.7
+39147,"oh","seneca",30.8,62
+39149,"oh","shelby",17.9,78.5
+39151,"oh","stark",39,56.4
+39153,"oh","summit",52,43.8
+39155,"oh","trumbull",44.8,51.2
+39157,"oh","tuscarawas",29.7,65.1
+39159,"oh","union",28.4,66.3
+39161,"oh","van wert",19.6,76
+39163,"oh","vinton",24.7,70.4
+39165,"oh","warren",28.9,66.5
+39167,"oh","washington",27,68.6
+39169,"oh","wayne",30.2,65.1
+39171,"oh","williams",25.3,69.1
+39173,"oh","wood",42.4,50.9
+39175,"oh","wyandot",23.9,70.7
+40001,"ok","adair",21.2,73.5
+40003,"ok","alfalfa",9.6,85.6
+40005,"ok","atoka",15.9,81.3
+40007,"ok","beaver",7.9,88.8
+40009,"ok","beckham",12.7,83.5
+40011,"ok","blaine",18.7,76
+40013,"ok","bryan",20.3,75.9
+40015,"ok","caddo",25.9,69.3
+40017,"ok","canadian",21.1,72.3
+40019,"ok","carter",21.6,74.2
+40021,"ok","cherokee",33.1,60.6
+40023,"ok","choctaw",19.6,77.5
+40025,"ok","cimarron",6.5,89.3
+40027,"ok","cleveland",35.5,57.1
+40029,"ok","coal",17.2,79.1
+40031,"ok","comanche",35.2,58.9
+40033,"ok","cotton",16.3,78.9
+40035,"ok","craig",21.6,74.1
+40037,"ok","creek",20.3,74.8
+40039,"ok","custer",20,74.2
+40041,"ok","delaware",21.1,75.2
+40043,"ok","dewey",9.9,87.4
+40045,"ok","ellis",8.5,88.2
+40047,"ok","garfield",20.2,73.8
+40049,"ok","garvin",17.6,78.3
+40051,"ok","grady",17.4,77.7
+40053,"ok","grant",13,83
+40055,"ok","greer",17,78.2
+40057,"ok","harmon",23,73.2
+40059,"ok","harper",8.8,88
+40061,"ok","haskell",18.6,78.1
+40063,"ok","hughes",21.2,74.9
+40065,"ok","jackson",18.9,76.5
+40067,"ok","jefferson",15.6,81.2
+40069,"ok","johnston",19.5,77
+40071,"ok","kay",22.2,72.5
+40073,"ok","kingfisher",12.8,84.1
+40075,"ok","kiowa",22,74.3
+40077,"ok","latimer",19.7,76.4
+40079,"ok","le flore",18.9,77.6
+40081,"ok","lincoln",17.3,77.4
+40083,"ok","logan",22.4,71.8
+40085,"ok","love",19.4,77.1
+40093,"ok","major",9.1,86.5
+40095,"ok","marshall",20,76.6
+40097,"ok","mayes",21.8,73.5
+40087,"ok","mcclain",17.2,78.1
+40089,"ok","mccurtain",16.8,80.7
+40091,"ok","mcintosh",26.7,69.1
+40099,"ok","murray",19.7,75.5
+40101,"ok","muskogee",32.9,62.1
+40103,"ok","noble",18.5,76.1
+40105,"ok","nowata",17.5,78.4
+40107,"ok","okfuskee",24,71
+40109,"ok","oklahoma",41.2,51.7
+40111,"ok","okmulgee",31.4,64.1
+40113,"ok","osage",29.5,66.3
+40115,"ok","ottawa",24.2,71.4
+40117,"ok","pawnee",21.1,74.3
+40119,"ok","payne",31.7,60
+40121,"ok","pittsburg",21.5,73.9
+40123,"ok","pontotoc",24.5,70.3
+40125,"ok","pottawatomie",23.6,70.1
+40127,"ok","pushmataha",16.7,79.9
+40129,"ok","roger mills",8.6,87.9
+40131,"ok","rogers",19.3,75.7
+40133,"ok","seminole",25.7,69.9
+40135,"ok","sequoyah",21.2,75.4
+40137,"ok","stephens",17.2,79.2
+40139,"ok","texas",14.8,80
+40141,"ok","tillman",24.3,71.8
+40143,"ok","tulsa",35.6,58.4
+40145,"ok","wagoner",21.5,73.5
+40147,"ok","washington",22.7,71.2
+40149,"ok","washita",12.7,83.2
+40151,"ok","woods",14.2,80.4
+40153,"ok","woodward",11.5,83.6
+41001,"or","baker",21,72.7
+41003,"or","benton",62.4,28.6
+41005,"or","clackamas",49.5,43.4
+41007,"or","clatsop",49,42.9
+41009,"or","columbia",39.7,51.7
+41011,"or","coos",34.3,58.6
+41013,"or","crook",22.3,72.1
+41015,"or","curry",35,58.8
+41017,"or","deschutes",44.4,48.2
+41019,"or","douglas",27.1,66.4
+41021,"or","gilliam",23.6,67.4
+41023,"or","grant",17.5,76.4
+41025,"or","harney",17.7,75.4
+41027,"or","hood river",61.2,31
+41029,"or","jackson",42,51.1
+41031,"or","jefferson",32.6,60.1
+41033,"or","josephine",31,62.4
+41035,"or","klamath",24.2,69
+41037,"or","lake",16.5,78.7
+41039,"or","lane",55.5,36.6
+41041,"or","lincoln",51.2,41.2
+41043,"or","linn",31.9,59.7
+41045,"or","malheur",22.2,71.8
+41047,"or","marion",44,49
+41049,"or","morrow",25.2,67.6
+NA,"or","multnomah.",76,52.9
+NA,"or","multnomah.",76,37.9
+NA,"or","multnomah.",76,21.4
+NA,"or","multnomah.",76,57.7
+NA,"or","multnomah.",76,10.9
+NA,"or","multnomah.",76,73.4
+NA,"or","multnomah.",76,40.8
+NA,"or","multnomah.",76,32.2
+NA,"or","multnomah.",76,20.7
+NA,"or","multnomah.",76,22.6
+NA,"or","multnomah.",76,37.8
+NA,"or","multnomah.",76,45.4
+NA,"or","multnomah.",76,10
+NA,"or","multnomah.",76,22.1
+NA,"or","multnomah.",76,32.1
+NA,"or","multnomah.",76,17.6
+NA,"or","multnomah.",76,37.4
+NA,"or","multnomah.",76,15.5
+NA,"or","multnomah.",76,8.3
+NA,"or","multnomah.",76,57.7
+NA,"or","multnomah.",76,46.4
+NA,"or","multnomah.",76,44.9
+NA,"or","multnomah.",76,79.8
+NA,"or","multnomah.",76,65.3
+NA,"or","multnomah.",76,32.6
+NA,"or","multnomah.",76,77.7
+NA,"or","multnomah.",76,51.3
+NA,"or","multnomah.",76,72.5
+NA,"or","multnomah.",76,34.6
+NA,"or","multnomah.",76,37.3
+NA,"or","multnomah.",76,67.1
+NA,"or","multnomah.",76,59
+NA,"or","multnomah.",76,47.6
+NA,"or","multnomah.",76,46.3
+NA,"or","multnomah.",76,52.9
+NA,"or","multnomah.",76,55.2
+NA,"or","multnomah.",76,65.4
+NA,"or","multnomah.",76,29.8
+NA,"or","multnomah.",76,21.7
+NA,"or","multnomah.",76,39.4
+NA,"or","multnomah.",76,53.7
+NA,"or","multnomah.",76,54.7
+NA,"or","multnomah.",76,65.1
+NA,"or","multnomah.",76,48.8
+NA,"or","multnomah.",76,57.9
+NA,"or","multnomah.",76,42.2
+NA,"or","multnomah.",76,25
+NA,"or","multnomah.",76,44.4
+NA,"or","multnomah.",76,37.6
+NA,"or","multnomah.",76,67.3
+NA,"or","multnomah.",76,37.8
+NA,"or","multnomah.",76,54.6
+NA,"or","multnomah.",76,37.2
+NA,"or","multnomah.",76,45
+NA,"or","multnomah.",76,54.8
+41053,"or","polk",42.5,49.5
+41055,"or","sherman",20.5,73.9
+41057,"or","tillamook",43,48.9
+41059,"or","umatilla",28.6,64.2
+41061,"or","union",25.8,67.2
+41063,"or","wallowa",26.3,67.6
+41065,"or","wasco",41.2,50.8
+41067,"or","washington",59.4,32.7
+41069,"or","wheeler",19.3,73.6
+41071,"or","yamhill",41.3,50.1
+42001,"pa","adams",29.9,66.3
+42003,"pa","allegheny",56.4,40
+42005,"pa","armstrong",22.5,74.5
+42007,"pa","beaver",38.2,58.3
+42009,"pa","bedford",15.4,82.8
+42011,"pa","berks",42.7,52.9
+42013,"pa","blair",25.2,71.5
+42015,"pa","bradford",24.7,70.7
+42017,"pa","bucks",48.4,47.8
+42019,"pa","butler",29.2,66.7
+42021,"pa","cambria",29.6,67.3
+42023,"pa","cameron",23.2,73.9
+42025,"pa","carbon",31,65.2
+42027,"pa","centre",48.5,46.6
+42029,"pa","chester",52.6,43.3
+42031,"pa","clarion",24.3,71.8
+42033,"pa","clearfield",23.6,73.1
+42035,"pa","clinton",30.5,65.4
+42037,"pa","columbia",31.3,64.1
+42039,"pa","crawford",28.7,67.2
+42041,"pa","cumberland",38.5,57.1
+42043,"pa","dauphin",49.4,46.6
+NA,"pa","delaware.",59.4,52.9
+NA,"pa","delaware.",59.4,37.9
+NA,"pa","delaware.",59.4,21.4
+NA,"pa","delaware.",59.4,57.7
+NA,"pa","delaware.",59.4,10.9
+NA,"pa","delaware.",59.4,73.4
+NA,"pa","delaware.",59.4,40.8
+NA,"pa","delaware.",59.4,32.2
+NA,"pa","delaware.",59.4,20.7
+NA,"pa","delaware.",59.4,22.6
+NA,"pa","delaware.",59.4,37.8
+NA,"pa","delaware.",59.4,45.4
+NA,"pa","delaware.",59.4,10
+NA,"pa","delaware.",59.4,22.1
+NA,"pa","delaware.",59.4,32.1
+NA,"pa","delaware.",59.4,17.6
+NA,"pa","delaware.",59.4,37.4
+NA,"pa","delaware.",59.4,15.5
+NA,"pa","delaware.",59.4,8.3
+NA,"pa","delaware.",59.4,57.7
+NA,"pa","delaware.",59.4,46.4
+NA,"pa","delaware.",59.4,44.9
+NA,"pa","delaware.",59.4,79.8
+NA,"pa","delaware.",59.4,65.3
+NA,"pa","delaware.",59.4,32.6
+NA,"pa","delaware.",59.4,77.7
+NA,"pa","delaware.",59.4,51.3
+NA,"pa","delaware.",59.4,72.5
+NA,"pa","delaware.",59.4,34.6
+NA,"pa","delaware.",59.4,37.3
+NA,"pa","delaware.",59.4,67.1
+NA,"pa","delaware.",59.4,59
+NA,"pa","delaware.",59.4,47.6
+NA,"pa","delaware.",59.4,46.3
+NA,"pa","delaware.",59.4,52.9
+NA,"pa","delaware.",59.4,55.2
+NA,"pa","delaware.",59.4,65.4
+NA,"pa","delaware.",59.4,29.8
+NA,"pa","delaware.",59.4,21.7
+NA,"pa","delaware.",59.4,39.4
+NA,"pa","delaware.",59.4,53.7
+NA,"pa","delaware.",59.4,54.7
+NA,"pa","delaware.",59.4,65.1
+NA,"pa","delaware.",59.4,48.8
+NA,"pa","delaware.",59.4,57.9
+NA,"pa","delaware.",59.4,42.2
+NA,"pa","delaware.",59.4,25
+NA,"pa","delaware.",59.4,44.4
+NA,"pa","delaware.",59.4,37.6
+NA,"pa","delaware.",59.4,67.3
+NA,"pa","delaware.",59.4,37.8
+NA,"pa","delaware.",59.4,54.6
+NA,"pa","delaware.",59.4,37.2
+NA,"pa","delaware.",59.4,45
+NA,"pa","delaware.",59.4,54.8
+42047,"pa","elk",26.3,70
+42049,"pa","erie",46.8,48.8
+42051,"pa","fayette",33.4,64.4
+42053,"pa","forest",26.1,70.1
+42055,"pa","franklin",25,71.5
+42057,"pa","fulton",13.4,84.2
+42059,"pa","greene",27.8,69.5
+42061,"pa","huntingdon",23,73.7
+42063,"pa","indiana",30.4,66.1
+42065,"pa","jefferson",18.5,78.3
+42067,"pa","juniata",17.4,79.2
+42069,"pa","lackawanna",50.2,46.8
+42071,"pa","lancaster",37.7,57.3
+42073,"pa","lawrence",34.4,62.4
+42075,"pa","lebanon",30.3,65.9
+42077,"pa","lehigh",50.4,45.9
+42079,"pa","luzerne",38.8,58.4
+42081,"pa","lycoming",25.7,70.5
+42083,"pa","mckean",24.4,71.7
+42085,"pa","mercer",35.6,60.6
+42087,"pa","mifflin",19.5,77
+42089,"pa","monroe",48.4,48.1
+42091,"pa","montgomery",58.7,37.6
+42093,"pa","montour",33.4,61.8
+42095,"pa","northampton",46.2,50
+42097,"pa","northumberland",26.3,69.8
+42099,"pa","perry",21.9,73.8
+NA,"pa","philadelphia.",82.4,52.9
+NA,"pa","philadelphia.",82.4,37.9
+NA,"pa","philadelphia.",82.4,21.4
+NA,"pa","philadelphia.",82.4,57.7
+NA,"pa","philadelphia.",82.4,10.9
+NA,"pa","philadelphia.",82.4,73.4
+NA,"pa","philadelphia.",82.4,40.8
+NA,"pa","philadelphia.",82.4,32.2
+NA,"pa","philadelphia.",82.4,20.7
+NA,"pa","philadelphia.",82.4,22.6
+NA,"pa","philadelphia.",82.4,37.8
+NA,"pa","philadelphia.",82.4,45.4
+NA,"pa","philadelphia.",82.4,10
+NA,"pa","philadelphia.",82.4,22.1
+NA,"pa","philadelphia.",82.4,32.1
+NA,"pa","philadelphia.",82.4,17.6
+NA,"pa","philadelphia.",82.4,37.4
+NA,"pa","philadelphia.",82.4,15.5
+NA,"pa","philadelphia.",82.4,8.3
+NA,"pa","philadelphia.",82.4,57.7
+NA,"pa","philadelphia.",82.4,46.4
+NA,"pa","philadelphia.",82.4,44.9
+NA,"pa","philadelphia.",82.4,79.8
+NA,"pa","philadelphia.",82.4,65.3
+NA,"pa","philadelphia.",82.4,32.6
+NA,"pa","philadelphia.",82.4,77.7
+NA,"pa","philadelphia.",82.4,51.3
+NA,"pa","philadelphia.",82.4,72.5
+NA,"pa","philadelphia.",82.4,34.6
+NA,"pa","philadelphia.",82.4,37.3
+NA,"pa","philadelphia.",82.4,67.1
+NA,"pa","philadelphia.",82.4,59
+NA,"pa","philadelphia.",82.4,47.6
+NA,"pa","philadelphia.",82.4,46.3
+NA,"pa","philadelphia.",82.4,52.9
+NA,"pa","philadelphia.",82.4,55.2
+NA,"pa","philadelphia.",82.4,65.4
+NA,"pa","philadelphia.",82.4,29.8
+NA,"pa","philadelphia.",82.4,21.7
+NA,"pa","philadelphia.",82.4,39.4
+NA,"pa","philadelphia.",82.4,53.7
+NA,"pa","philadelphia.",82.4,54.7
+NA,"pa","philadelphia.",82.4,65.1
+NA,"pa","philadelphia.",82.4,48.8
+NA,"pa","philadelphia.",82.4,57.9
+NA,"pa","philadelphia.",82.4,42.2
+NA,"pa","philadelphia.",82.4,25
+NA,"pa","philadelphia.",82.4,44.4
+NA,"pa","philadelphia.",82.4,37.6
+NA,"pa","philadelphia.",82.4,67.3
+NA,"pa","philadelphia.",82.4,37.8
+NA,"pa","philadelphia.",82.4,54.6
+NA,"pa","philadelphia.",82.4,37.2
+NA,"pa","philadelphia.",82.4,45
+NA,"pa","philadelphia.",82.4,54.8
+42103,"pa","pike",35.5,61.5
+42105,"pa","potter",16.7,80.3
+42107,"pa","schuylkill",26.7,70
+42109,"pa","snyder",24.4,71.7
+42111,"pa","somerset",20.6,76.5
+42113,"pa","sullivan",23.9,73.2
+42115,"pa","susquehanna",26.4,69.2
+42117,"pa","tioga",21,74.6
+42119,"pa","union",35.3,60.9
+42121,"pa","venango",26.7,69
+42123,"pa","warren",27.4,68.3
+42125,"pa","washington",35.5,60.8
+42127,"pa","wayne",28.6,68.3
+42129,"pa","westmoreland",32.7,64.1
+42131,"pa","wyoming",28.8,67.4
+42133,"pa","york",33.2,62.5
+44001,"ri","bristol",58.9,36.1
+44003,"ri","kent",47.2,47.9
+44005,"ri","newport",57,37.7
+44007,"ri","providence",58.6,37.4
+44009,"ri","washington",52.2,42.2
+45001,"sc","abbeville",34.6,62.9
+45003,"sc","aiken",34,61.5
+45005,"sc","allendale",76.1,22
+45007,"sc","anderson",26.2,69.9
+45009,"sc","bamberg",62.7,35.5
+45011,"sc","barnwell",46.4,51.6
+45013,"sc","beaufort",40.6,54.9
+45015,"sc","berkeley",38.6,56
+45017,"sc","calhoun",47.3,50.1
+45019,"sc","charleston",50.6,42.8
+45021,"sc","cherokee",28,69.7
+45023,"sc","chester",46.3,51.2
+45025,"sc","chesterfield",41.6,55.9
+45027,"sc","clarendon",50.4,47.8
+45029,"sc","colleton",44.2,52.7
+45031,"sc","darlington",46.8,50.5
+45033,"sc","dillon",49.9,48.2
+45035,"sc","dorchester",38.4,55.9
+45037,"sc","edgefield",38.6,58.8
+45039,"sc","fairfield",61.6,35.8
+45041,"sc","florence",46.1,51.1
+45043,"sc","georgetown",42,55
+45045,"sc","greenville",34.7,59.4
+45047,"sc","greenwood",37.2,59
+45049,"sc","hampton",58.7,39.6
+45051,"sc","horry",29.5,67.3
+45053,"sc","jasper",54.8,42.9
+45055,"sc","kershaw",35.6,60.5
+45057,"sc","lancaster",35.4,60.9
+45059,"sc","laurens",33.4,63.3
+45061,"sc","lee",63.7,34.4
+45063,"sc","lexington",28.8,65.6
+45067,"sc","marion",59.9,38.2
+45069,"sc","marlboro",57.3,41.1
+45065,"sc","mccormick",47.5,50.8
+45071,"sc","newberry",37,59.6
+45073,"sc","oconee",23.8,71.9
+45075,"sc","orangeburg",67.6,30.7
+45077,"sc","pickens",21.1,73.9
+45079,"sc","richland",64,31.1
+45081,"sc","saluda",32.8,64.6
+45083,"sc","spartanburg",33,63
+45085,"sc","sumter",54.5,42.5
+45087,"sc","union",39.1,58.4
+45089,"sc","williamsburg",66.1,32.3
+45091,"sc","york",36.4,58.4
+46003,"sd","aurora",24.2,69.2
+46005,"sd","beadle",28.2,65.8
+46007,"sd","bennett",35.9,58
+46009,"sd","bon homme",23.7,70.8
+46011,"sd","brookings",38.5,53.2
+46013,"sd","brown",33.8,59.7
+46015,"sd","brule",25,68.4
+46017,"sd","buffalo",60.4,34.9
+46019,"sd","butte",15.9,77.2
+46021,"sd","campbell",12.6,84.7
+46023,"sd","charles mix",27.2,69.4
+46025,"sd","clark",24,68.7
+46027,"sd","clay",51.4,41.6
+46029,"sd","codington",27.2,66.5
+46031,"sd","corson",45.5,50
+46033,"sd","custer",23.7,69.8
+46035,"sd","davison",29.6,64.9
+46037,"sd","day",35.5,59.2
+46039,"sd","deuel",27.4,65.7
+46041,"sd","dewey",52,42.4
+46043,"sd","douglas",13.3,83.4
+46045,"sd","edmunds",19.8,74.7
+46047,"sd","fall river",23,70.5
+46049,"sd","faulk",18.2,76.7
+46051,"sd","grant",27.2,66.8
+46053,"sd","gregory",18.7,76.5
+46055,"sd","haakon",7.4,89.7
+46057,"sd","hamlin",20.1,74.3
+46059,"sd","hand",18.4,76.5
+46061,"sd","hanson",21.1,74.6
+46063,"sd","harding",4.9,90.2
+46065,"sd","hughes",30,63.3
+46067,"sd","hutchinson",20.6,74.8
+46069,"sd","hyde",18.1,78.7
+46071,"sd","jackson",29.5,65.9
+46073,"sd","jerauld",27.3,67
+46075,"sd","jones",12.4,80.6
+46077,"sd","kingsbury",27.6,65.9
+46079,"sd","lake",34.1,59.5
+46081,"sd","lawrence",28.3,62.6
+46083,"sd","lincoln",32,61.4
+46085,"sd","lyman",26,68.8
+46091,"sd","marshall",38.7,54.2
+46087,"sd","mccook",24.1,69.3
+46089,"sd","mcpherson",16.9,78.5
+46093,"sd","meade",19.1,72.6
+46095,"sd","mellette",34.8,58.9
+46097,"sd","miner",26.4,66.4
+46099,"sd","minnehaha",39.1,53.7
+46101,"sd","moody",35.6,59
+NA,"sd","oglala lakota",86.5,52.9
+NA,"sd","oglala lakota",86.5,37.9
+NA,"sd","oglala lakota",86.5,21.4
+NA,"sd","oglala lakota",86.5,57.7
+NA,"sd","oglala lakota",86.5,10.9
+NA,"sd","oglala lakota",86.5,73.4
+NA,"sd","oglala lakota",86.5,40.8
+NA,"sd","oglala lakota",86.5,32.2
+NA,"sd","oglala lakota",86.5,20.7
+NA,"sd","oglala lakota",86.5,22.6
+NA,"sd","oglala lakota",86.5,37.8
+NA,"sd","oglala lakota",86.5,45.4
+NA,"sd","oglala lakota",86.5,10
+NA,"sd","oglala lakota",86.5,22.1
+NA,"sd","oglala lakota",86.5,32.1
+NA,"sd","oglala lakota",86.5,17.6
+NA,"sd","oglala lakota",86.5,37.4
+NA,"sd","oglala lakota",86.5,15.5
+NA,"sd","oglala lakota",86.5,8.3
+NA,"sd","oglala lakota",86.5,57.7
+NA,"sd","oglala lakota",86.5,46.4
+NA,"sd","oglala lakota",86.5,44.9
+NA,"sd","oglala lakota",86.5,79.8
+NA,"sd","oglala lakota",86.5,65.3
+NA,"sd","oglala lakota",86.5,32.6
+NA,"sd","oglala lakota",86.5,77.7
+NA,"sd","oglala lakota",86.5,51.3
+NA,"sd","oglala lakota",86.5,72.5
+NA,"sd","oglala lakota",86.5,34.6
+NA,"sd","oglala lakota",86.5,37.3
+NA,"sd","oglala lakota",86.5,67.1
+NA,"sd","oglala lakota",86.5,59
+NA,"sd","oglala lakota",86.5,47.6
+NA,"sd","oglala lakota",86.5,46.3
+NA,"sd","oglala lakota",86.5,52.9
+NA,"sd","oglala lakota",86.5,55.2
+NA,"sd","oglala lakota",86.5,65.4
+NA,"sd","oglala lakota",86.5,29.8
+NA,"sd","oglala lakota",86.5,21.7
+NA,"sd","oglala lakota",86.5,39.4
+NA,"sd","oglala lakota",86.5,53.7
+NA,"sd","oglala lakota",86.5,54.7
+NA,"sd","oglala lakota",86.5,65.1
+NA,"sd","oglala lakota",86.5,48.8
+NA,"sd","oglala lakota",86.5,57.9
+NA,"sd","oglala lakota",86.5,42.2
+NA,"sd","oglala lakota",86.5,25
+NA,"sd","oglala lakota",86.5,44.4
+NA,"sd","oglala lakota",86.5,37.6
+NA,"sd","oglala lakota",86.5,67.3
+NA,"sd","oglala lakota",86.5,37.8
+NA,"sd","oglala lakota",86.5,54.6
+NA,"sd","oglala lakota",86.5,37.2
+NA,"sd","oglala lakota",86.5,45
+NA,"sd","oglala lakota",86.5,54.8
+46103,"sd","pennington",29.5,62.4
+46105,"sd","perkins",11.7,83
+46107,"sd","potter",16.1,80.1
+46109,"sd","roberts",39.6,55.1
+46111,"sd","sanborn",21.5,72.9
+46115,"sd","spink",31.1,62.8
+46117,"sd","stanley",21,73.3
+46119,"sd","sully",15.9,78.9
+46121,"sd","todd",70.8,22.9
+46123,"sd","tripp",17.6,78.7
+46125,"sd","turner",23.2,70.8
+46127,"sd","union",28.2,67
+46129,"sd","walworth",18.4,76.5
+46135,"sd","yankton",34.3,58.8
+46137,"sd","ziebach",46,48
+47001,"tn","anderson",30.3,64.6
+47003,"tn","bedford",22.1,74.9
+47005,"tn","benton",23.3,74.6
+47007,"tn","bledsoe",19.3,77.9
+47009,"tn","blount",23.3,72.1
+47011,"tn","bradley",18.4,77.5
+47013,"tn","campbell",18,78.9
+47015,"tn","cannon",21.2,75.6
+47017,"tn","carroll",22.5,74.8
+47019,"tn","carter",16.4,80.5
+47021,"tn","cheatham",24.5,71.4
+47023,"tn","chester",18.6,78.9
+47025,"tn","claiborne",17.1,80.2
+47027,"tn","clay",24.2,73.3
+47029,"tn","cocke",16.4,80.9
+47031,"tn","coffee",23.8,72.4
+47033,"tn","crockett",24.2,73.8
+47035,"tn","cumberland",19.8,77.6
+47037,"tn","davidson",60.3,34.3
+47039,"tn","decatur",19.5,78.2
+47041,"tn","dekalb",22.6,74.4
+47043,"tn","dickson",25.3,71
+47045,"tn","dyer",21.2,76.6
+47047,"tn","fayette",30.4,67.6
+47049,"tn","fentress",15,82.5
+47051,"tn","franklin",26.7,70.4
+47053,"tn","gibson",27,70.7
+47055,"tn","giles",26.2,71.6
+47057,"tn","grainger",14.5,82.9
+47059,"tn","greene",17.9,78.9
+47061,"tn","grundy",21,76.3
+47063,"tn","hamblen",19.8,77
+47065,"tn","hamilton",39.2,55.8
+47067,"tn","hancock",14.4,82.6
+47069,"tn","hardeman",45.2,53.1
+47071,"tn","hardin",16.3,80.5
+47073,"tn","hawkins",16.9,80.3
+47075,"tn","haywood",54.3,44.1
+47077,"tn","henderson",17.7,79.8
+47079,"tn","henry",23.8,73.6
+47081,"tn","hickman",23.5,73.2
+47083,"tn","houston",27.3,68.9
+47085,"tn","humphreys",27.6,69
+47087,"tn","jackson",25.4,72.6
+47089,"tn","jefferson",18.4,77.7
+47091,"tn","johnson",15.1,82.4
+47093,"tn","knox",35.1,59
+47095,"tn","lake",29.3,68.9
+47097,"tn","lauderdale",42.1,56.3
+47099,"tn","lawrence",18,79.3
+47101,"tn","lewis",19.3,77.8
+47103,"tn","lincoln",19.2,78.2
+47105,"tn","loudon",21.1,75.5
+47111,"tn","macon",14.3,83.6
+47113,"tn","madison",40.9,56.5
+47115,"tn","marion",26.1,70.9
+47117,"tn","marshall",25,71.6
+47119,"tn","maury",28.6,67.8
+47107,"tn","mcminn",18.8,78.5
+47109,"tn","mcnairy",18.4,78.1
+47121,"tn","meigs",19.9,77.4
+47123,"tn","monroe",18.7,78.4
+47125,"tn","montgomery",37.9,56.4
+47127,"tn","moore",17,79.5
+47129,"tn","morgan",15.8,81.5
+47131,"tn","obion",19.8,77.9
+47133,"tn","overton",23.7,73.9
+47135,"tn","perry",20.9,75.9
+47137,"tn","pickett",20.5,77.4
+47139,"tn","polk",19.2,78.2
+47141,"tn","putnam",25.4,70.4
+47143,"tn","rhea",17.7,79
+47145,"tn","roane",22.4,73.5
+47147,"tn","robertson",24.5,71.7
+47149,"tn","rutherford",34.4,60.5
+47151,"tn","scott",13.1,84.9
+47153,"tn","sequatchie",18.5,78.2
+47155,"tn","sevier",17.4,79.1
+47157,"tn","shelby",62.3,34.6
+47159,"tn","smith",22.8,74
+47161,"tn","stewart",23.1,73.1
+47163,"tn","sullivan",19.9,76.1
+47165,"tn","sumner",25.5,70.5
+47167,"tn","tipton",24.7,72.3
+47169,"tn","trousdale",30,66.8
+47171,"tn","unicoi",17.6,79.1
+47173,"tn","union",16.3,81
+47175,"tn","van buren",22.3,75.3
+47177,"tn","warren",26.1,70.3
+47179,"tn","washington",26.3,69.2
+47181,"tn","wayne",12.3,86.2
+47183,"tn","weakley",22.8,74.2
+47185,"tn","white",18.8,78.3
+47187,"tn","williamson",29.6,65.1
+47189,"tn","wilson",25.5,69.8
+48001,"tx","anderson",19.9,78
+48003,"tx","andrews",17,79.7
+48005,"tx","angelina",25.2,72.5
+48007,"tx","aransas",23.5,73.9
+48009,"tx","archer",9.2,88.7
+48011,"tx","armstrong",6.9,90.9
+48013,"tx","atascosa",34.1,63.2
+48015,"tx","austin",18.9,78.6
+48017,"tx","bailey",22.3,75.3
+48019,"tx","bandera",16.9,79.9
+48021,"tx","bastrop",37.4,57.7
+48023,"tx","baylor",12.8,84.9
+48025,"tx","bee",40.7,56.1
+48027,"tx","bell",40,55.1
+48029,"tx","bexar",54.5,41
+48031,"tx","blanco",21.9,74.3
+48033,"tx","borden",8.5,90.4
+48035,"tx","bosque",16.4,81.1
+48037,"tx","bowie",25.6,72.3
+48039,"tx","brazoria",35.8,60.4
+48041,"tx","brazos",34.9,58.5
+48043,"tx","brewster",44.2,49.1
+48045,"tx","briscoe",12.4,85.1
+48047,"tx","brooks",74.6,23.6
+48049,"tx","brown",11.6,86.1
+48051,"tx","burleson",21.5,76.5
+48053,"tx","burnet",19.9,76.6
+48055,"tx","caldwell",39.8,55.6
+48057,"tx","calhoun",30.4,66.7
+48059,"tx","callahan",10.2,87.4
+48061,"tx","cameron",64.6,32.1
+48063,"tx","camp",27.7,70.5
+48065,"tx","carson",8.5,88.9
+48067,"tx","cass",19.4,79.1
+48069,"tx","castro",26.4,70.8
+48071,"tx","chambers",17.6,79.7
+48073,"tx","cherokee",20.8,77.2
+48075,"tx","childress",12.1,86.5
+48077,"tx","clay",10.7,87.3
+48079,"tx","cochran",21.1,75.4
+48081,"tx","coke",9.8,88.9
+48083,"tx","coleman",10.6,87.4
+48085,"tx","collin",39.2,56.2
+48087,"tx","collingsworth",12.6,85.2
+48089,"tx","colorado",23.3,74.6
+48091,"tx","comal",23,73.1
+48093,"tx","comanche",15.1,82.6
+48095,"tx","concho",13.9,82.9
+48097,"tx","cooke",14.8,82.9
+48099,"tx","coryell",27.9,67.4
+48101,"tx","cottle",14.4,83.4
+48103,"tx","crane",21.7,75.8
+48105,"tx","crockett",26.7,70.3
+48107,"tx","crosby",27.3,68.9
+48109,"tx","culberson",59.6,36.7
+48111,"tx","dallam",14.5,82
+48113,"tx","dallas",61.1,34.9
+48115,"tx","dawson",23.4,74
+48117,"tx","deaf smith",28.2,69.3
+48119,"tx","delta",17.6,80.6
+NA,"tx","denton.",37.5,52.9
+NA,"tx","denton.",37.5,37.9
+NA,"tx","denton.",37.5,21.4
+NA,"tx","denton.",37.5,57.7
+NA,"tx","denton.",37.5,10.9
+NA,"tx","denton.",37.5,73.4
+NA,"tx","denton.",37.5,40.8
+NA,"tx","denton.",37.5,32.2
+NA,"tx","denton.",37.5,20.7
+NA,"tx","denton.",37.5,22.6
+NA,"tx","denton.",37.5,37.8
+NA,"tx","denton.",37.5,45.4
+NA,"tx","denton.",37.5,10
+NA,"tx","denton.",37.5,22.1
+NA,"tx","denton.",37.5,32.1
+NA,"tx","denton.",37.5,17.6
+NA,"tx","denton.",37.5,37.4
+NA,"tx","denton.",37.5,15.5
+NA,"tx","denton.",37.5,8.3
+NA,"tx","denton.",37.5,57.7
+NA,"tx","denton.",37.5,46.4
+NA,"tx","denton.",37.5,44.9
+NA,"tx","denton.",37.5,79.8
+NA,"tx","denton.",37.5,65.3
+NA,"tx","denton.",37.5,32.6
+NA,"tx","denton.",37.5,77.7
+NA,"tx","denton.",37.5,51.3
+NA,"tx","denton.",37.5,72.5
+NA,"tx","denton.",37.5,34.6
+NA,"tx","denton.",37.5,37.3
+NA,"tx","denton.",37.5,67.1
+NA,"tx","denton.",37.5,59
+NA,"tx","denton.",37.5,47.6
+NA,"tx","denton.",37.5,46.3
+NA,"tx","denton.",37.5,52.9
+NA,"tx","denton.",37.5,55.2
+NA,"tx","denton.",37.5,65.4
+NA,"tx","denton.",37.5,29.8
+NA,"tx","denton.",37.5,21.7
+NA,"tx","denton.",37.5,39.4
+NA,"tx","denton.",37.5,53.7
+NA,"tx","denton.",37.5,54.7
+NA,"tx","denton.",37.5,65.1
+NA,"tx","denton.",37.5,48.8
+NA,"tx","denton.",37.5,57.9
+NA,"tx","denton.",37.5,42.2
+NA,"tx","denton.",37.5,25
+NA,"tx","denton.",37.5,44.4
+NA,"tx","denton.",37.5,37.6
+NA,"tx","denton.",37.5,67.3
+NA,"tx","denton.",37.5,37.8
+NA,"tx","denton.",37.5,54.6
+NA,"tx","denton.",37.5,37.2
+NA,"tx","denton.",37.5,45
+NA,"tx","denton.",37.5,54.8
+48123,"tx","dewitt",17,80.8
+48125,"tx","dickens",14.1,83.1
+48127,"tx","dimmit",67.4,30.2
+48129,"tx","donley",13,83.9
+48131,"tx","duval",66.9,31.6
+48133,"tx","eastland",11.2,86.6
+48135,"tx","ector",28.1,68.7
+48137,"tx","edwards",28.4,69.6
+48141,"tx","el paso",69.1,25.9
+48139,"tx","ellis",25.7,71.1
+48143,"tx","erath",15.6,81.1
+48145,"tx","falls",32.1,65.7
+48147,"tx","fannin",17.7,79.7
+48149,"tx","fayette",19.3,78.4
+48151,"tx","fisher",23.4,73.5
+48153,"tx","floyd",22.2,75.2
+48155,"tx","foard",22.1,75
+48157,"tx","fort bend",51.6,45
+48159,"tx","franklin",15.3,82.3
+48161,"tx","freestone",19.2,78.8
+48163,"tx","frio",52.2,45.9
+48165,"tx","gaines",13,84.8
+48167,"tx","galveston",36.7,59.3
+48169,"tx","garza",15.2,82.9
+48171,"tx","gillespie",17.4,79.6
+48173,"tx","glasscock",5.6,91.9
+48175,"tx","goliad",26.2,70.5
+48177,"tx","gonzales",24.9,72.7
+48179,"tx","gray",9.5,88.2
+48181,"tx","grayson",21.8,74.9
+48183,"tx","gregg",28.1,69.4
+48185,"tx","grimes",23,74.1
+48187,"tx","guadalupe",32,63.8
+48189,"tx","hale",23.7,72.1
+48191,"tx","hall",15.1,81.8
+48193,"tx","hamilton",13.3,84.7
+48195,"tx","hansford",8.8,88.9
+48197,"tx","hardeman",16.5,79.9
+48199,"tx","hardin",12.2,86.1
+48201,"tx","harris",54.2,41.8
+48203,"tx","harrison",27,71
+48205,"tx","hartley",8.8,88.8
+48207,"tx","haskell",17.8,79.5
+48209,"tx","hays",46.3,47.2
+48211,"tx","hemphill",10.7,86.5
+48213,"tx","henderson",18.9,79
+48215,"tx","hidalgo",68.6,28.1
+48217,"tx","hill",19.6,78.1
+48219,"tx","hockley",17.3,79.6
+48221,"tx","hood",15.3,81.8
+48223,"tx","hopkins",18.6,79.4
+48225,"tx","houston",23.8,74.7
+48227,"tx","howard",20.3,76.3
+48229,"tx","hudspeth",37.2,57.7
+48231,"tx","hunt",20.2,76.5
+48233,"tx","hutchinson",10.5,86.6
+48235,"tx","irion",11.8,86.8
+48237,"tx","jack",9.4,89
+48239,"tx","jackson",17.1,80.9
+48241,"tx","jasper",19.3,79.2
+48243,"tx","jeff davis",35.9,59.1
+48245,"tx","jefferson",48.5,49
+48247,"tx","jim hogg",77.2,20.3
+48249,"tx","jim wells",54.2,43.8
+48251,"tx","johnson",19.2,77.5
+48253,"tx","jones",15.8,81.2
+48255,"tx","karnes",27.3,70.7
+48257,"tx","kaufman",25,72.1
+48259,"tx","kendall",18.2,78.6
+48261,"tx","kenedy",53.2,45.2
+48263,"tx","kent",13.6,83.1
+48265,"tx","kerr",20.2,76.5
+48267,"tx","kimble",10.6,87.2
+48269,"tx","king",3.1,93.7
+48271,"tx","kinney",32.1,65.7
+48273,"tx","kleberg",49.7,46
+48275,"tx","knox",18.2,79.4
+48283,"tx","la salle",54.9,42.5
+48277,"tx","lamar",19.3,78.5
+48279,"tx","lamb",19.7,77.8
+48281,"tx","lampasas",18.1,78.2
+48285,"tx","lavaca",13.6,85
+48287,"tx","lee",21,76.6
+48289,"tx","leon",12.3,86.3
+48291,"tx","liberty",20.1,78.1
+48293,"tx","limestone",22.9,75.1
+48295,"tx","lipscomb",10.2,87.7
+48297,"tx","live oak",17.3,80.9
+48299,"tx","llano",17.6,79.8
+48301,"tx","loving",6.3,89.1
+48303,"tx","lubbock",28.5,66.9
+48305,"tx","lynn",20.2,77.4
+48313,"tx","madison",20.6,78.2
+48315,"tx","marion",27.5,70.6
+48317,"tx","martin",15.2,82.8
+48319,"tx","mason",17.2,80.7
+48321,"tx","matagorda",28.5,69.2
+48323,"tx","maverick",76.5,20.7
+48307,"tx","mcculloch",15.6,82.5
+48309,"tx","mclennan",34.6,61.7
+48311,"tx","mcmullen",8,91.3
+48325,"tx","medina",26.9,70.1
+48327,"tx","menard",17.8,79.2
+48329,"tx","midland",20.5,75.7
+48331,"tx","milam",23.7,73.7
+48333,"tx","mills",10.8,87.1
+48335,"tx","mitchell",16.1,81.3
+48337,"tx","montague",10.3,87.5
+48339,"tx","montgomery",22.5,74
+48341,"tx","moore",20.8,75.5
+48343,"tx","morris",28.7,69.4
+48345,"tx","motley",6.5,92.1
+48347,"tx","nacogdoches",30.4,65.8
+48349,"tx","navarro",24.4,73.2
+48351,"tx","newton",24.4,73.8
+48353,"tx","nolan",21.7,74.9
+48355,"tx","nueces",47.2,48.8
+48357,"tx","ochiltree",9.2,88.2
+48359,"tx","oldham",8.3,89.9
+48361,"tx","orange",18,79.9
+48363,"tx","palo pinto",16.7,80.8
+48365,"tx","panola",17.6,81.1
+48367,"tx","parker",14.8,82.3
+48369,"tx","parmer",30.1,67.8
+48371,"tx","pecos",37.2,59.1
+48373,"tx","polk",20.7,77.2
+48375,"tx","potter",26.9,68.8
+48377,"tx","presidio",66.2,29.6
+48379,"tx","rains",13.4,84.6
+48381,"tx","randall",15.5,80.6
+48383,"tx","reagan",18.6,78.8
+48385,"tx","real",15.6,82.4
+48387,"tx","red river",22.3,76.2
+48389,"tx","reeves",52.1,44.5
+48391,"tx","refugio",35.1,62.1
+48393,"tx","roberts",3.6,95.3
+48395,"tx","robertson",31.4,66.5
+48397,"tx","rockwall",24.4,71.8
+48399,"tx","runnels",12,86.1
+48401,"tx","rusk",20.7,77.3
+48403,"tx","sabine",13.2,86
+48405,"tx","san augustine",25.5,73.5
+48407,"tx","san jacinto",19.7,78.1
+48409,"tx","san patricio",36.4,60.4
+48411,"tx","san saba",12.4,86
+48413,"tx","schleicher",19.8,77.7
+48415,"tx","scurry",13.9,83.7
+48417,"tx","shackelford",6.9,91.7
+48419,"tx","shelby",19.4,79
+48421,"tx","sherman",10.3,86.5
+48423,"tx","smith",26.6,70.5
+48425,"tx","somervell",13.9,82.7
+48427,"tx","starr",79.1,19
+48429,"tx","stephens",10.1,87.8
+48431,"tx","sterling",11.1,86.7
+48433,"tx","stonewall",19.3,79.2
+48435,"tx","sutton",22.1,76
+48437,"tx","swisher",21.1,76.3
+48439,"tx","tarrant",43.5,52.2
+48441,"tx","taylor",22.2,73.3
+48443,"tx","terrell",32,65.7
+48445,"tx","terry",24,73.5
+48447,"tx","throckmorton",10.4,88.5
+48449,"tx","titus",27.7,69.8
+48451,"tx","tom green",23.9,71.8
+48453,"tx","travis",66.3,27.4
+48455,"tx","trinity",19.3,79.2
+48457,"tx","tyler",15.6,82.8
+48459,"tx","upshur",14.9,82.9
+48461,"tx","upton",21.9,74.2
+48463,"tx","uvalde",43.2,54
+48465,"tx","val verde",51.4,43.5
+48467,"tx","van zandt",12.9,85
+48469,"tx","victoria",28.5,68.5
+48471,"tx","walker",30.9,65.4
+48473,"tx","waller",34.4,63
+48475,"tx","ward",22.9,74.5
+48477,"tx","washington",22.9,74.2
+48479,"tx","webb",74.4,22.8
+48481,"tx","wharton",28.8,69
+48483,"tx","wheeler",8.4,90.5
+48485,"tx","wichita",23.1,72.8
+48487,"tx","wilbarger",19.7,77.2
+48489,"tx","willacy",67.2,30.3
+48491,"tx","williamson",42,51.9
+48493,"tx","wilson",24.9,72.7
+48495,"tx","winkler",22.4,74.9
+48497,"tx","wise",13.8,83.8
+48499,"tx","wood",14.1,84.1
+48501,"tx","yoakum",18.5,78.2
+48503,"tx","young",11.4,86
+48505,"tx","zapata",65.6,32.8
+48507,"tx","zavala",77.7,20.4
+49001,"ut","beaver",10.6,73.8
+49003,"ut","box elder",11,62.4
+NA,"ut","cache.",18.7,52.9
+NA,"ut","cache.",18.7,37.9
+NA,"ut","cache.",18.7,21.4
+NA,"ut","cache.",18.7,57.7
+NA,"ut","cache.",18.7,10.9
+NA,"ut","cache.",18.7,73.4
+NA,"ut","cache.",18.7,40.8
+NA,"ut","cache.",18.7,32.2
+NA,"ut","cache.",18.7,20.7
+NA,"ut","cache.",18.7,22.6
+NA,"ut","cache.",18.7,37.8
+NA,"ut","cache.",18.7,45.4
+NA,"ut","cache.",18.7,10
+NA,"ut","cache.",18.7,22.1
+NA,"ut","cache.",18.7,32.1
+NA,"ut","cache.",18.7,17.6
+NA,"ut","cache.",18.7,37.4
+NA,"ut","cache.",18.7,15.5
+NA,"ut","cache.",18.7,8.3
+NA,"ut","cache.",18.7,57.7
+NA,"ut","cache.",18.7,46.4
+NA,"ut","cache.",18.7,44.9
+NA,"ut","cache.",18.7,79.8
+NA,"ut","cache.",18.7,65.3
+NA,"ut","cache.",18.7,32.6
+NA,"ut","cache.",18.7,77.7
+NA,"ut","cache.",18.7,51.3
+NA,"ut","cache.",18.7,72.5
+NA,"ut","cache.",18.7,34.6
+NA,"ut","cache.",18.7,37.3
+NA,"ut","cache.",18.7,67.1
+NA,"ut","cache.",18.7,59
+NA,"ut","cache.",18.7,47.6
+NA,"ut","cache.",18.7,46.3
+NA,"ut","cache.",18.7,52.9
+NA,"ut","cache.",18.7,55.2
+NA,"ut","cache.",18.7,65.4
+NA,"ut","cache.",18.7,29.8
+NA,"ut","cache.",18.7,21.7
+NA,"ut","cache.",18.7,39.4
+NA,"ut","cache.",18.7,53.7
+NA,"ut","cache.",18.7,54.7
+NA,"ut","cache.",18.7,65.1
+NA,"ut","cache.",18.7,48.8
+NA,"ut","cache.",18.7,57.9
+NA,"ut","cache.",18.7,42.2
+NA,"ut","cache.",18.7,25
+NA,"ut","cache.",18.7,44.4
+NA,"ut","cache.",18.7,37.6
+NA,"ut","cache.",18.7,67.3
+NA,"ut","cache.",18.7,37.8
+NA,"ut","cache.",18.7,54.6
+NA,"ut","cache.",18.7,37.2
+NA,"ut","cache.",18.7,45
+NA,"ut","cache.",18.7,54.8
+49007,"ut","carbon",21.7,66.3
+49009,"ut","daggett",16.3,70.3
+NA,"ut","davis.",21.6,52.9
+NA,"ut","davis.",21.6,37.9
+NA,"ut","davis.",21.6,21.4
+NA,"ut","davis.",21.6,57.7
+NA,"ut","davis.",21.6,10.9
+NA,"ut","davis.",21.6,73.4
+NA,"ut","davis.",21.6,40.8
+NA,"ut","davis.",21.6,32.2
+NA,"ut","davis.",21.6,20.7
+NA,"ut","davis.",21.6,22.6
+NA,"ut","davis.",21.6,37.8
+NA,"ut","davis.",21.6,45.4
+NA,"ut","davis.",21.6,10
+NA,"ut","davis.",21.6,22.1
+NA,"ut","davis.",21.6,32.1
+NA,"ut","davis.",21.6,17.6
+NA,"ut","davis.",21.6,37.4
+NA,"ut","davis.",21.6,15.5
+NA,"ut","davis.",21.6,8.3
+NA,"ut","davis.",21.6,57.7
+NA,"ut","davis.",21.6,46.4
+NA,"ut","davis.",21.6,44.9
+NA,"ut","davis.",21.6,79.8
+NA,"ut","davis.",21.6,65.3
+NA,"ut","davis.",21.6,32.6
+NA,"ut","davis.",21.6,77.7
+NA,"ut","davis.",21.6,51.3
+NA,"ut","davis.",21.6,72.5
+NA,"ut","davis.",21.6,34.6
+NA,"ut","davis.",21.6,37.3
+NA,"ut","davis.",21.6,67.1
+NA,"ut","davis.",21.6,59
+NA,"ut","davis.",21.6,47.6
+NA,"ut","davis.",21.6,46.3
+NA,"ut","davis.",21.6,52.9
+NA,"ut","davis.",21.6,55.2
+NA,"ut","davis.",21.6,65.4
+NA,"ut","davis.",21.6,29.8
+NA,"ut","davis.",21.6,21.7
+NA,"ut","davis.",21.6,39.4
+NA,"ut","davis.",21.6,53.7
+NA,"ut","davis.",21.6,54.7
+NA,"ut","davis.",21.6,65.1
+NA,"ut","davis.",21.6,48.8
+NA,"ut","davis.",21.6,57.9
+NA,"ut","davis.",21.6,42.2
+NA,"ut","davis.",21.6,25
+NA,"ut","davis.",21.6,44.4
+NA,"ut","davis.",21.6,37.6
+NA,"ut","davis.",21.6,67.3
+NA,"ut","davis.",21.6,37.8
+NA,"ut","davis.",21.6,54.6
+NA,"ut","davis.",21.6,37.2
+NA,"ut","davis.",21.6,45
+NA,"ut","davis.",21.6,54.8
+49013,"ut","duchesne",7.2,79.4
+NA,"ut","emery.",8.9,52.9
+NA,"ut","emery.",8.9,37.9
+NA,"ut","emery.",8.9,21.4
+NA,"ut","emery.",8.9,57.7
+NA,"ut","emery.",8.9,10.9
+NA,"ut","emery.",8.9,73.4
+NA,"ut","emery.",8.9,40.8
+NA,"ut","emery.",8.9,32.2
+NA,"ut","emery.",8.9,20.7
+NA,"ut","emery.",8.9,22.6
+NA,"ut","emery.",8.9,37.8
+NA,"ut","emery.",8.9,45.4
+NA,"ut","emery.",8.9,10
+NA,"ut","emery.",8.9,22.1
+NA,"ut","emery.",8.9,32.1
+NA,"ut","emery.",8.9,17.6
+NA,"ut","emery.",8.9,37.4
+NA,"ut","emery.",8.9,15.5
+NA,"ut","emery.",8.9,8.3
+NA,"ut","emery.",8.9,57.7
+NA,"ut","emery.",8.9,46.4
+NA,"ut","emery.",8.9,44.9
+NA,"ut","emery.",8.9,79.8
+NA,"ut","emery.",8.9,65.3
+NA,"ut","emery.",8.9,32.6
+NA,"ut","emery.",8.9,77.7
+NA,"ut","emery.",8.9,51.3
+NA,"ut","emery.",8.9,72.5
+NA,"ut","emery.",8.9,34.6
+NA,"ut","emery.",8.9,37.3
+NA,"ut","emery.",8.9,67.1
+NA,"ut","emery.",8.9,59
+NA,"ut","emery.",8.9,47.6
+NA,"ut","emery.",8.9,46.3
+NA,"ut","emery.",8.9,52.9
+NA,"ut","emery.",8.9,55.2
+NA,"ut","emery.",8.9,65.4
+NA,"ut","emery.",8.9,29.8
+NA,"ut","emery.",8.9,21.7
+NA,"ut","emery.",8.9,39.4
+NA,"ut","emery.",8.9,53.7
+NA,"ut","emery.",8.9,54.7
+NA,"ut","emery.",8.9,65.1
+NA,"ut","emery.",8.9,48.8
+NA,"ut","emery.",8.9,57.9
+NA,"ut","emery.",8.9,42.2
+NA,"ut","emery.",8.9,25
+NA,"ut","emery.",8.9,44.4
+NA,"ut","emery.",8.9,37.6
+NA,"ut","emery.",8.9,67.3
+NA,"ut","emery.",8.9,37.8
+NA,"ut","emery.",8.9,54.6
+NA,"ut","emery.",8.9,37.2
+NA,"ut","emery.",8.9,45
+NA,"ut","emery.",8.9,54.8
+49017,"ut","garfield",15.3,68.7
+49019,"ut","grand",43.4,43.4
+NA,"ut","iron.",13.7,52.9
+NA,"ut","iron.",13.7,37.9
+NA,"ut","iron.",13.7,21.4
+NA,"ut","iron.",13.7,57.7
+NA,"ut","iron.",13.7,10.9
+NA,"ut","iron.",13.7,73.4
+NA,"ut","iron.",13.7,40.8
+NA,"ut","iron.",13.7,32.2
+NA,"ut","iron.",13.7,20.7
+NA,"ut","iron.",13.7,22.6
+NA,"ut","iron.",13.7,37.8
+NA,"ut","iron.",13.7,45.4
+NA,"ut","iron.",13.7,10
+NA,"ut","iron.",13.7,22.1
+NA,"ut","iron.",13.7,32.1
+NA,"ut","iron.",13.7,17.6
+NA,"ut","iron.",13.7,37.4
+NA,"ut","iron.",13.7,15.5
+NA,"ut","iron.",13.7,8.3
+NA,"ut","iron.",13.7,57.7
+NA,"ut","iron.",13.7,46.4
+NA,"ut","iron.",13.7,44.9
+NA,"ut","iron.",13.7,79.8
+NA,"ut","iron.",13.7,65.3
+NA,"ut","iron.",13.7,32.6
+NA,"ut","iron.",13.7,77.7
+NA,"ut","iron.",13.7,51.3
+NA,"ut","iron.",13.7,72.5
+NA,"ut","iron.",13.7,34.6
+NA,"ut","iron.",13.7,37.3
+NA,"ut","iron.",13.7,67.1
+NA,"ut","iron.",13.7,59
+NA,"ut","iron.",13.7,47.6
+NA,"ut","iron.",13.7,46.3
+NA,"ut","iron.",13.7,52.9
+NA,"ut","iron.",13.7,55.2
+NA,"ut","iron.",13.7,65.4
+NA,"ut","iron.",13.7,29.8
+NA,"ut","iron.",13.7,21.7
+NA,"ut","iron.",13.7,39.4
+NA,"ut","iron.",13.7,53.7
+NA,"ut","iron.",13.7,54.7
+NA,"ut","iron.",13.7,65.1
+NA,"ut","iron.",13.7,48.8
+NA,"ut","iron.",13.7,57.9
+NA,"ut","iron.",13.7,42.2
+NA,"ut","iron.",13.7,25
+NA,"ut","iron.",13.7,44.4
+NA,"ut","iron.",13.7,37.6
+NA,"ut","iron.",13.7,67.3
+NA,"ut","iron.",13.7,37.8
+NA,"ut","iron.",13.7,54.6
+NA,"ut","iron.",13.7,37.2
+NA,"ut","iron.",13.7,45
+NA,"ut","iron.",13.7,54.8
+49023,"ut","juab",10.7,67.7
+49025,"ut","kane",21.2,64.6
+49027,"ut","millard",8.2,73.7
+49029,"ut","morgan",11.1,61.4
+49031,"ut","piute",5,87
+49033,"ut","rich",9.5,71.7
+NA,"ut","salt lake.",42.8,52.9
+NA,"ut","salt lake.",42.8,37.9
+NA,"ut","salt lake.",42.8,21.4
+NA,"ut","salt lake.",42.8,57.7
+NA,"ut","salt lake.",42.8,10.9
+NA,"ut","salt lake.",42.8,73.4
+NA,"ut","salt lake.",42.8,40.8
+NA,"ut","salt lake.",42.8,32.2
+NA,"ut","salt lake.",42.8,20.7
+NA,"ut","salt lake.",42.8,22.6
+NA,"ut","salt lake.",42.8,37.8
+NA,"ut","salt lake.",42.8,45.4
+NA,"ut","salt lake.",42.8,10
+NA,"ut","salt lake.",42.8,22.1
+NA,"ut","salt lake.",42.8,32.1
+NA,"ut","salt lake.",42.8,17.6
+NA,"ut","salt lake.",42.8,37.4
+NA,"ut","salt lake.",42.8,15.5
+NA,"ut","salt lake.",42.8,8.3
+NA,"ut","salt lake.",42.8,57.7
+NA,"ut","salt lake.",42.8,46.4
+NA,"ut","salt lake.",42.8,44.9
+NA,"ut","salt lake.",42.8,79.8
+NA,"ut","salt lake.",42.8,65.3
+NA,"ut","salt lake.",42.8,32.6
+NA,"ut","salt lake.",42.8,77.7
+NA,"ut","salt lake.",42.8,51.3
+NA,"ut","salt lake.",42.8,72.5
+NA,"ut","salt lake.",42.8,34.6
+NA,"ut","salt lake.",42.8,37.3
+NA,"ut","salt lake.",42.8,67.1
+NA,"ut","salt lake.",42.8,59
+NA,"ut","salt lake.",42.8,47.6
+NA,"ut","salt lake.",42.8,46.3
+NA,"ut","salt lake.",42.8,52.9
+NA,"ut","salt lake.",42.8,55.2
+NA,"ut","salt lake.",42.8,65.4
+NA,"ut","salt lake.",42.8,29.8
+NA,"ut","salt lake.",42.8,21.7
+NA,"ut","salt lake.",42.8,39.4
+NA,"ut","salt lake.",42.8,53.7
+NA,"ut","salt lake.",42.8,54.7
+NA,"ut","salt lake.",42.8,65.1
+NA,"ut","salt lake.",42.8,48.8
+NA,"ut","salt lake.",42.8,57.9
+NA,"ut","salt lake.",42.8,42.2
+NA,"ut","salt lake.",42.8,25
+NA,"ut","salt lake.",42.8,44.4
+NA,"ut","salt lake.",42.8,37.6
+NA,"ut","salt lake.",42.8,67.3
+NA,"ut","salt lake.",42.8,37.8
+NA,"ut","salt lake.",42.8,54.6
+NA,"ut","salt lake.",42.8,37.2
+NA,"ut","salt lake.",42.8,45
+NA,"ut","salt lake.",42.8,54.8
+49037,"ut","san juan",37.1,48.9
+49039,"ut","sanpete",10.5,65.8
+NA,"ut","sevier.",8.1,52.9
+NA,"ut","sevier.",8.1,37.9
+NA,"ut","sevier.",8.1,21.4
+NA,"ut","sevier.",8.1,57.7
+NA,"ut","sevier.",8.1,10.9
+NA,"ut","sevier.",8.1,73.4
+NA,"ut","sevier.",8.1,40.8
+NA,"ut","sevier.",8.1,32.2
+NA,"ut","sevier.",8.1,20.7
+NA,"ut","sevier.",8.1,22.6
+NA,"ut","sevier.",8.1,37.8
+NA,"ut","sevier.",8.1,45.4
+NA,"ut","sevier.",8.1,10
+NA,"ut","sevier.",8.1,22.1
+NA,"ut","sevier.",8.1,32.1
+NA,"ut","sevier.",8.1,17.6
+NA,"ut","sevier.",8.1,37.4
+NA,"ut","sevier.",8.1,15.5
+NA,"ut","sevier.",8.1,8.3
+NA,"ut","sevier.",8.1,57.7
+NA,"ut","sevier.",8.1,46.4
+NA,"ut","sevier.",8.1,44.9
+NA,"ut","sevier.",8.1,79.8
+NA,"ut","sevier.",8.1,65.3
+NA,"ut","sevier.",8.1,32.6
+NA,"ut","sevier.",8.1,77.7
+NA,"ut","sevier.",8.1,51.3
+NA,"ut","sevier.",8.1,72.5
+NA,"ut","sevier.",8.1,34.6
+NA,"ut","sevier.",8.1,37.3
+NA,"ut","sevier.",8.1,67.1
+NA,"ut","sevier.",8.1,59
+NA,"ut","sevier.",8.1,47.6
+NA,"ut","sevier.",8.1,46.3
+NA,"ut","sevier.",8.1,52.9
+NA,"ut","sevier.",8.1,55.2
+NA,"ut","sevier.",8.1,65.4
+NA,"ut","sevier.",8.1,29.8
+NA,"ut","sevier.",8.1,21.7
+NA,"ut","sevier.",8.1,39.4
+NA,"ut","sevier.",8.1,53.7
+NA,"ut","sevier.",8.1,54.7
+NA,"ut","sevier.",8.1,65.1
+NA,"ut","sevier.",8.1,48.8
+NA,"ut","sevier.",8.1,57.9
+NA,"ut","sevier.",8.1,42.2
+NA,"ut","sevier.",8.1,25
+NA,"ut","sevier.",8.1,44.4
+NA,"ut","sevier.",8.1,37.6
+NA,"ut","sevier.",8.1,67.3
+NA,"ut","sevier.",8.1,37.8
+NA,"ut","sevier.",8.1,54.6
+NA,"ut","sevier.",8.1,37.2
+NA,"ut","sevier.",8.1,45
+NA,"ut","sevier.",8.1,54.8
+49043,"ut","summit",50.9,35.6
+NA,"ut","tooele.",21.2,52.9
+NA,"ut","tooele.",21.2,37.9
+NA,"ut","tooele.",21.2,21.4
+NA,"ut","tooele.",21.2,57.7
+NA,"ut","tooele.",21.2,10.9
+NA,"ut","tooele.",21.2,73.4
+NA,"ut","tooele.",21.2,40.8
+NA,"ut","tooele.",21.2,32.2
+NA,"ut","tooele.",21.2,20.7
+NA,"ut","tooele.",21.2,22.6
+NA,"ut","tooele.",21.2,37.8
+NA,"ut","tooele.",21.2,45.4
+NA,"ut","tooele.",21.2,10
+NA,"ut","tooele.",21.2,22.1
+NA,"ut","tooele.",21.2,32.1
+NA,"ut","tooele.",21.2,17.6
+NA,"ut","tooele.",21.2,37.4
+NA,"ut","tooele.",21.2,15.5
+NA,"ut","tooele.",21.2,8.3
+NA,"ut","tooele.",21.2,57.7
+NA,"ut","tooele.",21.2,46.4
+NA,"ut","tooele.",21.2,44.9
+NA,"ut","tooele.",21.2,79.8
+NA,"ut","tooele.",21.2,65.3
+NA,"ut","tooele.",21.2,32.6
+NA,"ut","tooele.",21.2,77.7
+NA,"ut","tooele.",21.2,51.3
+NA,"ut","tooele.",21.2,72.5
+NA,"ut","tooele.",21.2,34.6
+NA,"ut","tooele.",21.2,37.3
+NA,"ut","tooele.",21.2,67.1
+NA,"ut","tooele.",21.2,59
+NA,"ut","tooele.",21.2,47.6
+NA,"ut","tooele.",21.2,46.3
+NA,"ut","tooele.",21.2,52.9
+NA,"ut","tooele.",21.2,55.2
+NA,"ut","tooele.",21.2,65.4
+NA,"ut","tooele.",21.2,29.8
+NA,"ut","tooele.",21.2,21.7
+NA,"ut","tooele.",21.2,39.4
+NA,"ut","tooele.",21.2,53.7
+NA,"ut","tooele.",21.2,54.7
+NA,"ut","tooele.",21.2,65.1
+NA,"ut","tooele.",21.2,48.8
+NA,"ut","tooele.",21.2,57.9
+NA,"ut","tooele.",21.2,42.2
+NA,"ut","tooele.",21.2,25
+NA,"ut","tooele.",21.2,44.4
+NA,"ut","tooele.",21.2,37.6
+NA,"ut","tooele.",21.2,67.3
+NA,"ut","tooele.",21.2,37.8
+NA,"ut","tooele.",21.2,54.6
+NA,"ut","tooele.",21.2,37.2
+NA,"ut","tooele.",21.2,45
+NA,"ut","tooele.",21.2,54.8
+49047,"ut","uintah",7.8,76.7
+49049,"ut","utah",14,51.3
+49051,"ut","wasatch",25.3,50.5
+49053,"ut","washington",16.7,68.8
+49055,"ut","wayne",19.2,68
+49057,"ut","weber",27.2,47.2
+51001,"va","accomack",42.8,54.5
+51003,"va","albemarle",59.3,34.3
+51510,"va","alexandria",76.8,17.8
+51005,"va","alleghany",29.6,66.7
+51007,"va","amelia",30.6,66.9
+51009,"va","amherst",32.9,63.6
+51011,"va","appomattox",25.4,71.8
+51013,"va","arlington",77,16.9
+51015,"va","augusta",22.1,71.3
+51017,"va","bath",26.9,69
+NA,"va","bedford co..",23.1,52.9
+NA,"va","bedford co..",23.1,37.9
+NA,"va","bedford co..",23.1,21.4
+NA,"va","bedford co..",23.1,57.7
+NA,"va","bedford co..",23.1,10.9
+NA,"va","bedford co..",23.1,73.4
+NA,"va","bedford co..",23.1,40.8
+NA,"va","bedford co..",23.1,32.2
+NA,"va","bedford co..",23.1,20.7
+NA,"va","bedford co..",23.1,22.6
+NA,"va","bedford co..",23.1,37.8
+NA,"va","bedford co..",23.1,45.4
+NA,"va","bedford co..",23.1,10
+NA,"va","bedford co..",23.1,22.1
+NA,"va","bedford co..",23.1,32.1
+NA,"va","bedford co..",23.1,17.6
+NA,"va","bedford co..",23.1,37.4
+NA,"va","bedford co..",23.1,15.5
+NA,"va","bedford co..",23.1,8.3
+NA,"va","bedford co..",23.1,57.7
+NA,"va","bedford co..",23.1,46.4
+NA,"va","bedford co..",23.1,44.9
+NA,"va","bedford co..",23.1,79.8
+NA,"va","bedford co..",23.1,65.3
+NA,"va","bedford co..",23.1,32.6
+NA,"va","bedford co..",23.1,77.7
+NA,"va","bedford co..",23.1,51.3
+NA,"va","bedford co..",23.1,72.5
+NA,"va","bedford co..",23.1,34.6
+NA,"va","bedford co..",23.1,37.3
+NA,"va","bedford co..",23.1,67.1
+NA,"va","bedford co..",23.1,59
+NA,"va","bedford co..",23.1,47.6
+NA,"va","bedford co..",23.1,46.3
+NA,"va","bedford co..",23.1,52.9
+NA,"va","bedford co..",23.1,55.2
+NA,"va","bedford co..",23.1,65.4
+NA,"va","bedford co..",23.1,29.8
+NA,"va","bedford co..",23.1,21.7
+NA,"va","bedford co..",23.1,39.4
+NA,"va","bedford co..",23.1,53.7
+NA,"va","bedford co..",23.1,54.7
+NA,"va","bedford co..",23.1,65.1
+NA,"va","bedford co..",23.1,48.8
+NA,"va","bedford co..",23.1,57.9
+NA,"va","bedford co..",23.1,42.2
+NA,"va","bedford co..",23.1,25
+NA,"va","bedford co..",23.1,44.4
+NA,"va","bedford co..",23.1,37.6
+NA,"va","bedford co..",23.1,67.3
+NA,"va","bedford co..",23.1,37.8
+NA,"va","bedford co..",23.1,54.6
+NA,"va","bedford co..",23.1,37.2
+NA,"va","bedford co..",23.1,45
+NA,"va","bedford co..",23.1,54.8
+51021,"va","bland",14.5,82.3
+51023,"va","botetourt",24.1,71.7
+51520,"va","bristol",26.3,70.1
+51025,"va","brunswick",58.5,39.8
+51027,"va","buchanan",18.7,79.1
+51029,"va","buckingham",42.9,54.5
+51530,"va","buena vista",28.9,59.8
+51031,"va","campbell",24.2,71.4
+51033,"va","caroline",45.3,50.3
+51035,"va","carroll",18.8,78.4
+51036,"va","charles city",59.9,36.9
+51037,"va","charlotte",37.2,60.1
+51540,"va","charlottesville",80.4,13.3
+51550,"va","chesapeake",47,48.3
+51041,"va","chesterfield",46.2,48.5
+51043,"va","clarke",37.5,57.3
+51570,"va","colonial heights",28.1,67.4
+51580,"va","covington",38.6,56.9
+51045,"va","craig",19.4,76.8
+51047,"va","culpeper",35.1,60.4
+51049,"va","cumberland",41.7,55.2
+51590,"va","danville",58.6,38.7
+51051,"va","dickenson",20.8,77
+51053,"va","dinwiddie",42.6,55
+51595,"va","emporia",64.7,33.5
+51057,"va","essex",47.5,49.6
+51600,"va","fairfax",62.1,31.2
+51059,"va","fairfax co.",65.3,29.1
+51610,"va","falls church",75.8,17.3
+51061,"va","fauquier",34.9,59.6
+51063,"va","floyd",28.9,66.3
+51065,"va","fluvanna",42.6,52
+51620,"va","franklin",62.3,35.2
+51067,"va","franklin co.",27.1,69.2
+51069,"va","frederick",29.7,65
+51630,"va","fredericksburg",60.1,33.5
+51640,"va","galax",28.8,67.8
+51071,"va","giles",23.8,72.4
+51073,"va","gloucester",27.7,67
+51075,"va","goochland",35.1,60.1
+51077,"va","grayson",19.4,77.1
+51079,"va","greene",30.8,62.5
+51081,"va","greensville",58.6,39.8
+51083,"va","halifax",40.7,57.2
+51650,"va","hampton",66.7,29
+51085,"va","hanover",31.1,63.5
+51660,"va","harrisonburg",57.1,35.2
+51087,"va","henrico",57.8,36.8
+51089,"va","henry",34.1,63.3
+51091,"va","highland",26.7,68.9
+51670,"va","hopewell",52.7,43.3
+51093,"va","isle of wight",37.5,58.4
+51095,"va","james city",44.7,49.8
+51097,"va","king and queen",40.1,57
+51099,"va","king george",33.4,61.3
+51101,"va","king william",30.3,65.6
+51103,"va","lancaster",43.4,53.3
+51105,"va","lee",17.4,80.6
+51678,"va","lexington",61.8,31.3
+51107,"va","loudoun",55.4,38.6
+51109,"va","louisa",35.5,60
+51111,"va","lunenburg",39.9,57.5
+51680,"va","lynchburg",41.8,50.9
+51113,"va","madison",31.8,63.7
+51683,"va","manassas",55.2,39
+51685,"va","manassas park",61.7,33.2
+51690,"va","martinsville",60.1,36.6
+51115,"va","mathews",29.5,66.4
+51117,"va","mecklenburg",43.3,54.6
+51119,"va","middlesex",35.2,61.2
+51121,"va","montgomery",46.9,45.6
+51125,"va","nelson",44.6,50.3
+51127,"va","new kent",29.1,66.7
+NA,"va","newport news.",59.9,52.9
+NA,"va","newport news.",59.9,37.9
+NA,"va","newport news.",59.9,21.4
+NA,"va","newport news.",59.9,57.7
+NA,"va","newport news.",59.9,10.9
+NA,"va","newport news.",59.9,73.4
+NA,"va","newport news.",59.9,40.8
+NA,"va","newport news.",59.9,32.2
+NA,"va","newport news.",59.9,20.7
+NA,"va","newport news.",59.9,22.6
+NA,"va","newport news.",59.9,37.8
+NA,"va","newport news.",59.9,45.4
+NA,"va","newport news.",59.9,10
+NA,"va","newport news.",59.9,22.1
+NA,"va","newport news.",59.9,32.1
+NA,"va","newport news.",59.9,17.6
+NA,"va","newport news.",59.9,37.4
+NA,"va","newport news.",59.9,15.5
+NA,"va","newport news.",59.9,8.3
+NA,"va","newport news.",59.9,57.7
+NA,"va","newport news.",59.9,46.4
+NA,"va","newport news.",59.9,44.9
+NA,"va","newport news.",59.9,79.8
+NA,"va","newport news.",59.9,65.3
+NA,"va","newport news.",59.9,32.6
+NA,"va","newport news.",59.9,77.7
+NA,"va","newport news.",59.9,51.3
+NA,"va","newport news.",59.9,72.5
+NA,"va","newport news.",59.9,34.6
+NA,"va","newport news.",59.9,37.3
+NA,"va","newport news.",59.9,67.1
+NA,"va","newport news.",59.9,59
+NA,"va","newport news.",59.9,47.6
+NA,"va","newport news.",59.9,46.3
+NA,"va","newport news.",59.9,52.9
+NA,"va","newport news.",59.9,55.2
+NA,"va","newport news.",59.9,65.4
+NA,"va","newport news.",59.9,29.8
+NA,"va","newport news.",59.9,21.7
+NA,"va","newport news.",59.9,39.4
+NA,"va","newport news.",59.9,53.7
+NA,"va","newport news.",59.9,54.7
+NA,"va","newport news.",59.9,65.1
+NA,"va","newport news.",59.9,48.8
+NA,"va","newport news.",59.9,57.9
+NA,"va","newport news.",59.9,42.2
+NA,"va","newport news.",59.9,25
+NA,"va","newport news.",59.9,44.4
+NA,"va","newport news.",59.9,37.6
+NA,"va","newport news.",59.9,67.3
+NA,"va","newport news.",59.9,37.8
+NA,"va","newport news.",59.9,54.6
+NA,"va","newport news.",59.9,37.2
+NA,"va","newport news.",59.9,45
+NA,"va","newport news.",59.9,54.8
+51710,"va","norfolk",68.4,26.4
+51131,"va","northampton",53.1,43.8
+51133,"va","northumberland",34.6,62.2
+51720,"va","norton",26.3,70.1
+51135,"va","nottoway",42.1,55.3
+51137,"va","orange",34.7,61.3
+51139,"va","page",23.6,73.4
+51141,"va","patrick",20.8,76
+51730,"va","petersburg",87.5,10.6
+51143,"va","pittsylvania",29,68.6
+51735,"va","poquoson",22.5,71.5
+51740,"va","portsmouth",66.2,29.7
+51145,"va","powhatan",24.2,70.7
+51147,"va","prince edward",50.4,45
+51149,"va","prince george",39.8,56.7
+NA,"va","prince william.",57.4,52.9
+NA,"va","prince william.",57.4,37.9
+NA,"va","prince william.",57.4,21.4
+NA,"va","prince william.",57.4,57.7
+NA,"va","prince william.",57.4,10.9
+NA,"va","prince william.",57.4,73.4
+NA,"va","prince william.",57.4,40.8
+NA,"va","prince william.",57.4,32.2
+NA,"va","prince william.",57.4,20.7
+NA,"va","prince william.",57.4,22.6
+NA,"va","prince william.",57.4,37.8
+NA,"va","prince william.",57.4,45.4
+NA,"va","prince william.",57.4,10
+NA,"va","prince william.",57.4,22.1
+NA,"va","prince william.",57.4,32.1
+NA,"va","prince william.",57.4,17.6
+NA,"va","prince william.",57.4,37.4
+NA,"va","prince william.",57.4,15.5
+NA,"va","prince william.",57.4,8.3
+NA,"va","prince william.",57.4,57.7
+NA,"va","prince william.",57.4,46.4
+NA,"va","prince william.",57.4,44.9
+NA,"va","prince william.",57.4,79.8
+NA,"va","prince william.",57.4,65.3
+NA,"va","prince william.",57.4,32.6
+NA,"va","prince william.",57.4,77.7
+NA,"va","prince william.",57.4,51.3
+NA,"va","prince william.",57.4,72.5
+NA,"va","prince william.",57.4,34.6
+NA,"va","prince william.",57.4,37.3
+NA,"va","prince william.",57.4,67.1
+NA,"va","prince william.",57.4,59
+NA,"va","prince william.",57.4,47.6
+NA,"va","prince william.",57.4,46.3
+NA,"va","prince william.",57.4,52.9
+NA,"va","prince william.",57.4,55.2
+NA,"va","prince william.",57.4,65.4
+NA,"va","prince william.",57.4,29.8
+NA,"va","prince william.",57.4,21.7
+NA,"va","prince william.",57.4,39.4
+NA,"va","prince william.",57.4,53.7
+NA,"va","prince william.",57.4,54.7
+NA,"va","prince william.",57.4,65.1
+NA,"va","prince william.",57.4,48.8
+NA,"va","prince william.",57.4,57.9
+NA,"va","prince william.",57.4,42.2
+NA,"va","prince william.",57.4,25
+NA,"va","prince william.",57.4,44.4
+NA,"va","prince william.",57.4,37.6
+NA,"va","prince william.",57.4,67.3
+NA,"va","prince william.",57.4,37.8
+NA,"va","prince william.",57.4,54.6
+NA,"va","prince william.",57.4,37.2
+NA,"va","prince william.",57.4,45
+NA,"va","prince william.",57.4,54.8
+51155,"va","pulaski",27.6,68.3
+51750,"va","radford",48.5,43.7
+51157,"va","rappahannock",39.2,57
+51760,"va","richmond",78.8,15
+51159,"va","richmond co.",36.9,60.6
+51770,"va","roanoke",56.1,38.5
+51161,"va","roanoke co.",33.5,61.5
+51163,"va","rockbridge",32.8,62.4
+51165,"va","rockingham",25.6,69.2
+51167,"va","russell",19.1,78
+51775,"va","salem",34.7,59.6
+51169,"va","scott",15.7,82
+51171,"va","shenandoah",25.9,69.2
+51173,"va","smyth",20.7,76
+51175,"va","southampton",40.5,56.8
+51177,"va","spotsylvania",39,55.8
+51179,"va","stafford",42.7,51.8
+51790,"va","staunton",47.8,46
+51800,"va","suffolk",54.9,41
+51181,"va","surry",52,44.9
+51183,"va","sussex",57.1,40.8
+51185,"va","tazewell",15.7,82
+51810,"va","virginia beach",44.7,49.1
+51187,"va","warren",29,66.1
+51191,"va","washington",21.6,75.1
+51820,"va","waynesboro",41.3,52.6
+51193,"va","westmoreland",44.9,52.2
+51830,"va","williamsburg",69,25.5
+51840,"va","winchester",48.8,45.3
+51195,"va","wise",17.9,79.9
+51197,"va","wythe",20.9,75.8
+51199,"va","york",38.1,55.3
+50001,"vt","addison",63.8,30.1
+50003,"vt","bennington",58.4,36.2
+50005,"vt","caledonia",49.7,42.7
+50007,"vt","chittenden",70.5,23.7
+50009,"vt","essex",37.7,55.7
+50011,"vt","franklin",48.3,45.2
+50013,"vt","grand isle",55.4,39.4
+50015,"vt","lamoille",62.2,30.7
+50017,"vt","orange",55.9,37.1
+50019,"vt","orleans",47.2,46.9
+50021,"vt","rutland",49.3,45.1
+50023,"vt","washington",64.9,27.9
+50025,"vt","windham",67.8,25.8
+50027,"vt","windsor",63,30.9
+NA,"wa","adams.",27.4,52.9
+NA,"wa","adams.",27.4,37.9
+NA,"wa","adams.",27.4,21.4
+NA,"wa","adams.",27.4,57.7
+NA,"wa","adams.",27.4,10.9
+NA,"wa","adams.",27.4,73.4
+NA,"wa","adams.",27.4,40.8
+NA,"wa","adams.",27.4,32.2
+NA,"wa","adams.",27.4,20.7
+NA,"wa","adams.",27.4,22.6
+NA,"wa","adams.",27.4,37.8
+NA,"wa","adams.",27.4,45.4
+NA,"wa","adams.",27.4,10
+NA,"wa","adams.",27.4,22.1
+NA,"wa","adams.",27.4,32.1
+NA,"wa","adams.",27.4,17.6
+NA,"wa","adams.",27.4,37.4
+NA,"wa","adams.",27.4,15.5
+NA,"wa","adams.",27.4,8.3
+NA,"wa","adams.",27.4,57.7
+NA,"wa","adams.",27.4,46.4
+NA,"wa","adams.",27.4,44.9
+NA,"wa","adams.",27.4,79.8
+NA,"wa","adams.",27.4,65.3
+NA,"wa","adams.",27.4,32.6
+NA,"wa","adams.",27.4,77.7
+NA,"wa","adams.",27.4,51.3
+NA,"wa","adams.",27.4,72.5
+NA,"wa","adams.",27.4,34.6
+NA,"wa","adams.",27.4,37.3
+NA,"wa","adams.",27.4,67.1
+NA,"wa","adams.",27.4,59
+NA,"wa","adams.",27.4,47.6
+NA,"wa","adams.",27.4,46.3
+NA,"wa","adams.",27.4,52.9
+NA,"wa","adams.",27.4,55.2
+NA,"wa","adams.",27.4,65.4
+NA,"wa","adams.",27.4,29.8
+NA,"wa","adams.",27.4,21.7
+NA,"wa","adams.",27.4,39.4
+NA,"wa","adams.",27.4,53.7
+NA,"wa","adams.",27.4,54.7
+NA,"wa","adams.",27.4,65.1
+NA,"wa","adams.",27.4,48.8
+NA,"wa","adams.",27.4,57.9
+NA,"wa","adams.",27.4,42.2
+NA,"wa","adams.",27.4,25
+NA,"wa","adams.",27.4,44.4
+NA,"wa","adams.",27.4,37.6
+NA,"wa","adams.",27.4,67.3
+NA,"wa","adams.",27.4,37.8
+NA,"wa","adams.",27.4,54.6
+NA,"wa","adams.",27.4,37.2
+NA,"wa","adams.",27.4,45
+NA,"wa","adams.",27.4,54.8
+NA,"wa","asotin.",32.2,52.9
+NA,"wa","asotin.",32.2,37.9
+NA,"wa","asotin.",32.2,21.4
+NA,"wa","asotin.",32.2,57.7
+NA,"wa","asotin.",32.2,10.9
+NA,"wa","asotin.",32.2,73.4
+NA,"wa","asotin.",32.2,40.8
+NA,"wa","asotin.",32.2,32.2
+NA,"wa","asotin.",32.2,20.7
+NA,"wa","asotin.",32.2,22.6
+NA,"wa","asotin.",32.2,37.8
+NA,"wa","asotin.",32.2,45.4
+NA,"wa","asotin.",32.2,10
+NA,"wa","asotin.",32.2,22.1
+NA,"wa","asotin.",32.2,32.1
+NA,"wa","asotin.",32.2,17.6
+NA,"wa","asotin.",32.2,37.4
+NA,"wa","asotin.",32.2,15.5
+NA,"wa","asotin.",32.2,8.3
+NA,"wa","asotin.",32.2,57.7
+NA,"wa","asotin.",32.2,46.4
+NA,"wa","asotin.",32.2,44.9
+NA,"wa","asotin.",32.2,79.8
+NA,"wa","asotin.",32.2,65.3
+NA,"wa","asotin.",32.2,32.6
+NA,"wa","asotin.",32.2,77.7
+NA,"wa","asotin.",32.2,51.3
+NA,"wa","asotin.",32.2,72.5
+NA,"wa","asotin.",32.2,34.6
+NA,"wa","asotin.",32.2,37.3
+NA,"wa","asotin.",32.2,67.1
+NA,"wa","asotin.",32.2,59
+NA,"wa","asotin.",32.2,47.6
+NA,"wa","asotin.",32.2,46.3
+NA,"wa","asotin.",32.2,52.9
+NA,"wa","asotin.",32.2,55.2
+NA,"wa","asotin.",32.2,65.4
+NA,"wa","asotin.",32.2,29.8
+NA,"wa","asotin.",32.2,21.7
+NA,"wa","asotin.",32.2,39.4
+NA,"wa","asotin.",32.2,53.7
+NA,"wa","asotin.",32.2,54.7
+NA,"wa","asotin.",32.2,65.1
+NA,"wa","asotin.",32.2,48.8
+NA,"wa","asotin.",32.2,57.9
+NA,"wa","asotin.",32.2,42.2
+NA,"wa","asotin.",32.2,25
+NA,"wa","asotin.",32.2,44.4
+NA,"wa","asotin.",32.2,37.6
+NA,"wa","asotin.",32.2,67.3
+NA,"wa","asotin.",32.2,37.8
+NA,"wa","asotin.",32.2,54.6
+NA,"wa","asotin.",32.2,37.2
+NA,"wa","asotin.",32.2,45
+NA,"wa","asotin.",32.2,54.8
+53005,"wa","benton",32.7,59.3
+53007,"wa","chelan",39.3,55
+NA,"wa","clallam.",45.9,52.9
+NA,"wa","clallam.",45.9,37.9
+NA,"wa","clallam.",45.9,21.4
+NA,"wa","clallam.",45.9,57.7
+NA,"wa","clallam.",45.9,10.9
+NA,"wa","clallam.",45.9,73.4
+NA,"wa","clallam.",45.9,40.8
+NA,"wa","clallam.",45.9,32.2
+NA,"wa","clallam.",45.9,20.7
+NA,"wa","clallam.",45.9,22.6
+NA,"wa","clallam.",45.9,37.8
+NA,"wa","clallam.",45.9,45.4
+NA,"wa","clallam.",45.9,10
+NA,"wa","clallam.",45.9,22.1
+NA,"wa","clallam.",45.9,32.1
+NA,"wa","clallam.",45.9,17.6
+NA,"wa","clallam.",45.9,37.4
+NA,"wa","clallam.",45.9,15.5
+NA,"wa","clallam.",45.9,8.3
+NA,"wa","clallam.",45.9,57.7
+NA,"wa","clallam.",45.9,46.4
+NA,"wa","clallam.",45.9,44.9
+NA,"wa","clallam.",45.9,79.8
+NA,"wa","clallam.",45.9,65.3
+NA,"wa","clallam.",45.9,32.6
+NA,"wa","clallam.",45.9,77.7
+NA,"wa","clallam.",45.9,51.3
+NA,"wa","clallam.",45.9,72.5
+NA,"wa","clallam.",45.9,34.6
+NA,"wa","clallam.",45.9,37.3
+NA,"wa","clallam.",45.9,67.1
+NA,"wa","clallam.",45.9,59
+NA,"wa","clallam.",45.9,47.6
+NA,"wa","clallam.",45.9,46.3
+NA,"wa","clallam.",45.9,52.9
+NA,"wa","clallam.",45.9,55.2
+NA,"wa","clallam.",45.9,65.4
+NA,"wa","clallam.",45.9,29.8
+NA,"wa","clallam.",45.9,21.7
+NA,"wa","clallam.",45.9,39.4
+NA,"wa","clallam.",45.9,53.7
+NA,"wa","clallam.",45.9,54.7
+NA,"wa","clallam.",45.9,65.1
+NA,"wa","clallam.",45.9,48.8
+NA,"wa","clallam.",45.9,57.9
+NA,"wa","clallam.",45.9,42.2
+NA,"wa","clallam.",45.9,25
+NA,"wa","clallam.",45.9,44.4
+NA,"wa","clallam.",45.9,37.6
+NA,"wa","clallam.",45.9,67.3
+NA,"wa","clallam.",45.9,37.8
+NA,"wa","clallam.",45.9,54.6
+NA,"wa","clallam.",45.9,37.2
+NA,"wa","clallam.",45.9,45
+NA,"wa","clallam.",45.9,54.8
+NA,"wa","clark.",46.3,52.9
+NA,"wa","clark.",46.3,37.9
+NA,"wa","clark.",46.3,21.4
+NA,"wa","clark.",46.3,57.7
+NA,"wa","clark.",46.3,10.9
+NA,"wa","clark.",46.3,73.4
+NA,"wa","clark.",46.3,40.8
+NA,"wa","clark.",46.3,32.2
+NA,"wa","clark.",46.3,20.7
+NA,"wa","clark.",46.3,22.6
+NA,"wa","clark.",46.3,37.8
+NA,"wa","clark.",46.3,45.4
+NA,"wa","clark.",46.3,10
+NA,"wa","clark.",46.3,22.1
+NA,"wa","clark.",46.3,32.1
+NA,"wa","clark.",46.3,17.6
+NA,"wa","clark.",46.3,37.4
+NA,"wa","clark.",46.3,15.5
+NA,"wa","clark.",46.3,8.3
+NA,"wa","clark.",46.3,57.7
+NA,"wa","clark.",46.3,46.4
+NA,"wa","clark.",46.3,44.9
+NA,"wa","clark.",46.3,79.8
+NA,"wa","clark.",46.3,65.3
+NA,"wa","clark.",46.3,32.6
+NA,"wa","clark.",46.3,77.7
+NA,"wa","clark.",46.3,51.3
+NA,"wa","clark.",46.3,72.5
+NA,"wa","clark.",46.3,34.6
+NA,"wa","clark.",46.3,37.3
+NA,"wa","clark.",46.3,67.1
+NA,"wa","clark.",46.3,59
+NA,"wa","clark.",46.3,47.6
+NA,"wa","clark.",46.3,46.3
+NA,"wa","clark.",46.3,52.9
+NA,"wa","clark.",46.3,55.2
+NA,"wa","clark.",46.3,65.4
+NA,"wa","clark.",46.3,29.8
+NA,"wa","clark.",46.3,21.7
+NA,"wa","clark.",46.3,39.4
+NA,"wa","clark.",46.3,53.7
+NA,"wa","clark.",46.3,54.7
+NA,"wa","clark.",46.3,65.1
+NA,"wa","clark.",46.3,48.8
+NA,"wa","clark.",46.3,57.9
+NA,"wa","clark.",46.3,42.2
+NA,"wa","clark.",46.3,25
+NA,"wa","clark.",46.3,44.4
+NA,"wa","clark.",46.3,37.6
+NA,"wa","clark.",46.3,67.3
+NA,"wa","clark.",46.3,37.8
+NA,"wa","clark.",46.3,54.6
+NA,"wa","clark.",46.3,37.2
+NA,"wa","clark.",46.3,45
+NA,"wa","clark.",46.3,54.8
+53013,"wa","columbia",24.1,68.7
+NA,"wa","cowlitz.",39.2,52.9
+NA,"wa","cowlitz.",39.2,37.9
+NA,"wa","cowlitz.",39.2,21.4
+NA,"wa","cowlitz.",39.2,57.7
+NA,"wa","cowlitz.",39.2,10.9
+NA,"wa","cowlitz.",39.2,73.4
+NA,"wa","cowlitz.",39.2,40.8
+NA,"wa","cowlitz.",39.2,32.2
+NA,"wa","cowlitz.",39.2,20.7
+NA,"wa","cowlitz.",39.2,22.6
+NA,"wa","cowlitz.",39.2,37.8
+NA,"wa","cowlitz.",39.2,45.4
+NA,"wa","cowlitz.",39.2,10
+NA,"wa","cowlitz.",39.2,22.1
+NA,"wa","cowlitz.",39.2,32.1
+NA,"wa","cowlitz.",39.2,17.6
+NA,"wa","cowlitz.",39.2,37.4
+NA,"wa","cowlitz.",39.2,15.5
+NA,"wa","cowlitz.",39.2,8.3
+NA,"wa","cowlitz.",39.2,57.7
+NA,"wa","cowlitz.",39.2,46.4
+NA,"wa","cowlitz.",39.2,44.9
+NA,"wa","cowlitz.",39.2,79.8
+NA,"wa","cowlitz.",39.2,65.3
+NA,"wa","cowlitz.",39.2,32.6
+NA,"wa","cowlitz.",39.2,77.7
+NA,"wa","cowlitz.",39.2,51.3
+NA,"wa","cowlitz.",39.2,72.5
+NA,"wa","cowlitz.",39.2,34.6
+NA,"wa","cowlitz.",39.2,37.3
+NA,"wa","cowlitz.",39.2,67.1
+NA,"wa","cowlitz.",39.2,59
+NA,"wa","cowlitz.",39.2,47.6
+NA,"wa","cowlitz.",39.2,46.3
+NA,"wa","cowlitz.",39.2,52.9
+NA,"wa","cowlitz.",39.2,55.2
+NA,"wa","cowlitz.",39.2,65.4
+NA,"wa","cowlitz.",39.2,29.8
+NA,"wa","cowlitz.",39.2,21.7
+NA,"wa","cowlitz.",39.2,39.4
+NA,"wa","cowlitz.",39.2,53.7
+NA,"wa","cowlitz.",39.2,54.7
+NA,"wa","cowlitz.",39.2,65.1
+NA,"wa","cowlitz.",39.2,48.8
+NA,"wa","cowlitz.",39.2,57.9
+NA,"wa","cowlitz.",39.2,42.2
+NA,"wa","cowlitz.",39.2,25
+NA,"wa","cowlitz.",39.2,44.4
+NA,"wa","cowlitz.",39.2,37.6
+NA,"wa","cowlitz.",39.2,67.3
+NA,"wa","cowlitz.",39.2,37.8
+NA,"wa","cowlitz.",39.2,54.6
+NA,"wa","cowlitz.",39.2,37.2
+NA,"wa","cowlitz.",39.2,45
+NA,"wa","cowlitz.",39.2,54.8
+53017,"wa","douglas",31.4,62.9
+53019,"wa","ferry",30.6,61.2
+NA,"wa","franklin.",38.1,52.9
+NA,"wa","franklin.",38.1,37.9
+NA,"wa","franklin.",38.1,21.4
+NA,"wa","franklin.",38.1,57.7
+NA,"wa","franklin.",38.1,10.9
+NA,"wa","franklin.",38.1,73.4
+NA,"wa","franklin.",38.1,40.8
+NA,"wa","franklin.",38.1,32.2
+NA,"wa","franklin.",38.1,20.7
+NA,"wa","franklin.",38.1,22.6
+NA,"wa","franklin.",38.1,37.8
+NA,"wa","franklin.",38.1,45.4
+NA,"wa","franklin.",38.1,10
+NA,"wa","franklin.",38.1,22.1
+NA,"wa","franklin.",38.1,32.1
+NA,"wa","franklin.",38.1,17.6
+NA,"wa","franklin.",38.1,37.4
+NA,"wa","franklin.",38.1,15.5
+NA,"wa","franklin.",38.1,8.3
+NA,"wa","franklin.",38.1,57.7
+NA,"wa","franklin.",38.1,46.4
+NA,"wa","franklin.",38.1,44.9
+NA,"wa","franklin.",38.1,79.8
+NA,"wa","franklin.",38.1,65.3
+NA,"wa","franklin.",38.1,32.6
+NA,"wa","franklin.",38.1,77.7
+NA,"wa","franklin.",38.1,51.3
+NA,"wa","franklin.",38.1,72.5
+NA,"wa","franklin.",38.1,34.6
+NA,"wa","franklin.",38.1,37.3
+NA,"wa","franklin.",38.1,67.1
+NA,"wa","franklin.",38.1,59
+NA,"wa","franklin.",38.1,47.6
+NA,"wa","franklin.",38.1,46.3
+NA,"wa","franklin.",38.1,52.9
+NA,"wa","franklin.",38.1,55.2
+NA,"wa","franklin.",38.1,65.4
+NA,"wa","franklin.",38.1,29.8
+NA,"wa","franklin.",38.1,21.7
+NA,"wa","franklin.",38.1,39.4
+NA,"wa","franklin.",38.1,53.7
+NA,"wa","franklin.",38.1,54.7
+NA,"wa","franklin.",38.1,65.1
+NA,"wa","franklin.",38.1,48.8
+NA,"wa","franklin.",38.1,57.9
+NA,"wa","franklin.",38.1,42.2
+NA,"wa","franklin.",38.1,25
+NA,"wa","franklin.",38.1,44.4
+NA,"wa","franklin.",38.1,37.6
+NA,"wa","franklin.",38.1,67.3
+NA,"wa","franklin.",38.1,37.8
+NA,"wa","franklin.",38.1,54.6
+NA,"wa","franklin.",38.1,37.2
+NA,"wa","franklin.",38.1,45
+NA,"wa","franklin.",38.1,54.8
+53023,"wa","garfield",22.4,68.3
+NA,"wa","grant.",27.5,52.9
+NA,"wa","grant.",27.5,37.9
+NA,"wa","grant.",27.5,21.4
+NA,"wa","grant.",27.5,57.7
+NA,"wa","grant.",27.5,10.9
+NA,"wa","grant.",27.5,73.4
+NA,"wa","grant.",27.5,40.8
+NA,"wa","grant.",27.5,32.2
+NA,"wa","grant.",27.5,20.7
+NA,"wa","grant.",27.5,22.6
+NA,"wa","grant.",27.5,37.8
+NA,"wa","grant.",27.5,45.4
+NA,"wa","grant.",27.5,10
+NA,"wa","grant.",27.5,22.1
+NA,"wa","grant.",27.5,32.1
+NA,"wa","grant.",27.5,17.6
+NA,"wa","grant.",27.5,37.4
+NA,"wa","grant.",27.5,15.5
+NA,"wa","grant.",27.5,8.3
+NA,"wa","grant.",27.5,57.7
+NA,"wa","grant.",27.5,46.4
+NA,"wa","grant.",27.5,44.9
+NA,"wa","grant.",27.5,79.8
+NA,"wa","grant.",27.5,65.3
+NA,"wa","grant.",27.5,32.6
+NA,"wa","grant.",27.5,77.7
+NA,"wa","grant.",27.5,51.3
+NA,"wa","grant.",27.5,72.5
+NA,"wa","grant.",27.5,34.6
+NA,"wa","grant.",27.5,37.3
+NA,"wa","grant.",27.5,67.1
+NA,"wa","grant.",27.5,59
+NA,"wa","grant.",27.5,47.6
+NA,"wa","grant.",27.5,46.3
+NA,"wa","grant.",27.5,52.9
+NA,"wa","grant.",27.5,55.2
+NA,"wa","grant.",27.5,65.4
+NA,"wa","grant.",27.5,29.8
+NA,"wa","grant.",27.5,21.7
+NA,"wa","grant.",27.5,39.4
+NA,"wa","grant.",27.5,53.7
+NA,"wa","grant.",27.5,54.7
+NA,"wa","grant.",27.5,65.1
+NA,"wa","grant.",27.5,48.8
+NA,"wa","grant.",27.5,57.9
+NA,"wa","grant.",27.5,42.2
+NA,"wa","grant.",27.5,25
+NA,"wa","grant.",27.5,44.4
+NA,"wa","grant.",27.5,37.6
+NA,"wa","grant.",27.5,67.3
+NA,"wa","grant.",27.5,37.8
+NA,"wa","grant.",27.5,54.6
+NA,"wa","grant.",27.5,37.2
+NA,"wa","grant.",27.5,45
+NA,"wa","grant.",27.5,54.8
+53027,"wa","grays harbor",42.6,49.6
+53029,"wa","island",48.9,43
+NA,"wa","jefferson.",62.5,52.9
+NA,"wa","jefferson.",62.5,37.9
+NA,"wa","jefferson.",62.5,21.4
+NA,"wa","jefferson.",62.5,57.7
+NA,"wa","jefferson.",62.5,10.9
+NA,"wa","jefferson.",62.5,73.4
+NA,"wa","jefferson.",62.5,40.8
+NA,"wa","jefferson.",62.5,32.2
+NA,"wa","jefferson.",62.5,20.7
+NA,"wa","jefferson.",62.5,22.6
+NA,"wa","jefferson.",62.5,37.8
+NA,"wa","jefferson.",62.5,45.4
+NA,"wa","jefferson.",62.5,10
+NA,"wa","jefferson.",62.5,22.1
+NA,"wa","jefferson.",62.5,32.1
+NA,"wa","jefferson.",62.5,17.6
+NA,"wa","jefferson.",62.5,37.4
+NA,"wa","jefferson.",62.5,15.5
+NA,"wa","jefferson.",62.5,8.3
+NA,"wa","jefferson.",62.5,57.7
+NA,"wa","jefferson.",62.5,46.4
+NA,"wa","jefferson.",62.5,44.9
+NA,"wa","jefferson.",62.5,79.8
+NA,"wa","jefferson.",62.5,65.3
+NA,"wa","jefferson.",62.5,32.6
+NA,"wa","jefferson.",62.5,77.7
+NA,"wa","jefferson.",62.5,51.3
+NA,"wa","jefferson.",62.5,72.5
+NA,"wa","jefferson.",62.5,34.6
+NA,"wa","jefferson.",62.5,37.3
+NA,"wa","jefferson.",62.5,67.1
+NA,"wa","jefferson.",62.5,59
+NA,"wa","jefferson.",62.5,47.6
+NA,"wa","jefferson.",62.5,46.3
+NA,"wa","jefferson.",62.5,52.9
+NA,"wa","jefferson.",62.5,55.2
+NA,"wa","jefferson.",62.5,65.4
+NA,"wa","jefferson.",62.5,29.8
+NA,"wa","jefferson.",62.5,21.7
+NA,"wa","jefferson.",62.5,39.4
+NA,"wa","jefferson.",62.5,53.7
+NA,"wa","jefferson.",62.5,54.7
+NA,"wa","jefferson.",62.5,65.1
+NA,"wa","jefferson.",62.5,48.8
+NA,"wa","jefferson.",62.5,57.9
+NA,"wa","jefferson.",62.5,42.2
+NA,"wa","jefferson.",62.5,25
+NA,"wa","jefferson.",62.5,44.4
+NA,"wa","jefferson.",62.5,37.6
+NA,"wa","jefferson.",62.5,67.3
+NA,"wa","jefferson.",62.5,37.8
+NA,"wa","jefferson.",62.5,54.6
+NA,"wa","jefferson.",62.5,37.2
+NA,"wa","jefferson.",62.5,45
+NA,"wa","jefferson.",62.5,54.8
+NA,"wa","king.",72.1,52.9
+NA,"wa","king.",72.1,37.9
+NA,"wa","king.",72.1,21.4
+NA,"wa","king.",72.1,57.7
+NA,"wa","king.",72.1,10.9
+NA,"wa","king.",72.1,73.4
+NA,"wa","king.",72.1,40.8
+NA,"wa","king.",72.1,32.2
+NA,"wa","king.",72.1,20.7
+NA,"wa","king.",72.1,22.6
+NA,"wa","king.",72.1,37.8
+NA,"wa","king.",72.1,45.4
+NA,"wa","king.",72.1,10
+NA,"wa","king.",72.1,22.1
+NA,"wa","king.",72.1,32.1
+NA,"wa","king.",72.1,17.6
+NA,"wa","king.",72.1,37.4
+NA,"wa","king.",72.1,15.5
+NA,"wa","king.",72.1,8.3
+NA,"wa","king.",72.1,57.7
+NA,"wa","king.",72.1,46.4
+NA,"wa","king.",72.1,44.9
+NA,"wa","king.",72.1,79.8
+NA,"wa","king.",72.1,65.3
+NA,"wa","king.",72.1,32.6
+NA,"wa","king.",72.1,77.7
+NA,"wa","king.",72.1,51.3
+NA,"wa","king.",72.1,72.5
+NA,"wa","king.",72.1,34.6
+NA,"wa","king.",72.1,37.3
+NA,"wa","king.",72.1,67.1
+NA,"wa","king.",72.1,59
+NA,"wa","king.",72.1,47.6
+NA,"wa","king.",72.1,46.3
+NA,"wa","king.",72.1,52.9
+NA,"wa","king.",72.1,55.2
+NA,"wa","king.",72.1,65.4
+NA,"wa","king.",72.1,29.8
+NA,"wa","king.",72.1,21.7
+NA,"wa","king.",72.1,39.4
+NA,"wa","king.",72.1,53.7
+NA,"wa","king.",72.1,54.7
+NA,"wa","king.",72.1,65.1
+NA,"wa","king.",72.1,48.8
+NA,"wa","king.",72.1,57.9
+NA,"wa","king.",72.1,42.2
+NA,"wa","king.",72.1,25
+NA,"wa","king.",72.1,44.4
+NA,"wa","king.",72.1,37.6
+NA,"wa","king.",72.1,67.3
+NA,"wa","king.",72.1,37.8
+NA,"wa","king.",72.1,54.6
+NA,"wa","king.",72.1,37.2
+NA,"wa","king.",72.1,45
+NA,"wa","king.",72.1,54.8
+NA,"wa","kitsap.",51.1,52.9
+NA,"wa","kitsap.",51.1,37.9
+NA,"wa","kitsap.",51.1,21.4
+NA,"wa","kitsap.",51.1,57.7
+NA,"wa","kitsap.",51.1,10.9
+NA,"wa","kitsap.",51.1,73.4
+NA,"wa","kitsap.",51.1,40.8
+NA,"wa","kitsap.",51.1,32.2
+NA,"wa","kitsap.",51.1,20.7
+NA,"wa","kitsap.",51.1,22.6
+NA,"wa","kitsap.",51.1,37.8
+NA,"wa","kitsap.",51.1,45.4
+NA,"wa","kitsap.",51.1,10
+NA,"wa","kitsap.",51.1,22.1
+NA,"wa","kitsap.",51.1,32.1
+NA,"wa","kitsap.",51.1,17.6
+NA,"wa","kitsap.",51.1,37.4
+NA,"wa","kitsap.",51.1,15.5
+NA,"wa","kitsap.",51.1,8.3
+NA,"wa","kitsap.",51.1,57.7
+NA,"wa","kitsap.",51.1,46.4
+NA,"wa","kitsap.",51.1,44.9
+NA,"wa","kitsap.",51.1,79.8
+NA,"wa","kitsap.",51.1,65.3
+NA,"wa","kitsap.",51.1,32.6
+NA,"wa","kitsap.",51.1,77.7
+NA,"wa","kitsap.",51.1,51.3
+NA,"wa","kitsap.",51.1,72.5
+NA,"wa","kitsap.",51.1,34.6
+NA,"wa","kitsap.",51.1,37.3
+NA,"wa","kitsap.",51.1,67.1
+NA,"wa","kitsap.",51.1,59
+NA,"wa","kitsap.",51.1,47.6
+NA,"wa","kitsap.",51.1,46.3
+NA,"wa","kitsap.",51.1,52.9
+NA,"wa","kitsap.",51.1,55.2
+NA,"wa","kitsap.",51.1,65.4
+NA,"wa","kitsap.",51.1,29.8
+NA,"wa","kitsap.",51.1,21.7
+NA,"wa","kitsap.",51.1,39.4
+NA,"wa","kitsap.",51.1,53.7
+NA,"wa","kitsap.",51.1,54.7
+NA,"wa","kitsap.",51.1,65.1
+NA,"wa","kitsap.",51.1,48.8
+NA,"wa","kitsap.",51.1,57.9
+NA,"wa","kitsap.",51.1,42.2
+NA,"wa","kitsap.",51.1,25
+NA,"wa","kitsap.",51.1,44.4
+NA,"wa","kitsap.",51.1,37.6
+NA,"wa","kitsap.",51.1,67.3
+NA,"wa","kitsap.",51.1,37.8
+NA,"wa","kitsap.",51.1,54.6
+NA,"wa","kitsap.",51.1,37.2
+NA,"wa","kitsap.",51.1,45
+NA,"wa","kitsap.",51.1,54.8
+NA,"wa","kittitas.",39.2,52.9
+NA,"wa","kittitas.",39.2,37.9
+NA,"wa","kittitas.",39.2,21.4
+NA,"wa","kittitas.",39.2,57.7
+NA,"wa","kittitas.",39.2,10.9
+NA,"wa","kittitas.",39.2,73.4
+NA,"wa","kittitas.",39.2,40.8
+NA,"wa","kittitas.",39.2,32.2
+NA,"wa","kittitas.",39.2,20.7
+NA,"wa","kittitas.",39.2,22.6
+NA,"wa","kittitas.",39.2,37.8
+NA,"wa","kittitas.",39.2,45.4
+NA,"wa","kittitas.",39.2,10
+NA,"wa","kittitas.",39.2,22.1
+NA,"wa","kittitas.",39.2,32.1
+NA,"wa","kittitas.",39.2,17.6
+NA,"wa","kittitas.",39.2,37.4
+NA,"wa","kittitas.",39.2,15.5
+NA,"wa","kittitas.",39.2,8.3
+NA,"wa","kittitas.",39.2,57.7
+NA,"wa","kittitas.",39.2,46.4
+NA,"wa","kittitas.",39.2,44.9
+NA,"wa","kittitas.",39.2,79.8
+NA,"wa","kittitas.",39.2,65.3
+NA,"wa","kittitas.",39.2,32.6
+NA,"wa","kittitas.",39.2,77.7
+NA,"wa","kittitas.",39.2,51.3
+NA,"wa","kittitas.",39.2,72.5
+NA,"wa","kittitas.",39.2,34.6
+NA,"wa","kittitas.",39.2,37.3
+NA,"wa","kittitas.",39.2,67.1
+NA,"wa","kittitas.",39.2,59
+NA,"wa","kittitas.",39.2,47.6
+NA,"wa","kittitas.",39.2,46.3
+NA,"wa","kittitas.",39.2,52.9
+NA,"wa","kittitas.",39.2,55.2
+NA,"wa","kittitas.",39.2,65.4
+NA,"wa","kittitas.",39.2,29.8
+NA,"wa","kittitas.",39.2,21.7
+NA,"wa","kittitas.",39.2,39.4
+NA,"wa","kittitas.",39.2,53.7
+NA,"wa","kittitas.",39.2,54.7
+NA,"wa","kittitas.",39.2,65.1
+NA,"wa","kittitas.",39.2,48.8
+NA,"wa","kittitas.",39.2,57.9
+NA,"wa","kittitas.",39.2,42.2
+NA,"wa","kittitas.",39.2,25
+NA,"wa","kittitas.",39.2,44.4
+NA,"wa","kittitas.",39.2,37.6
+NA,"wa","kittitas.",39.2,67.3
+NA,"wa","kittitas.",39.2,37.8
+NA,"wa","kittitas.",39.2,54.6
+NA,"wa","kittitas.",39.2,37.2
+NA,"wa","kittitas.",39.2,45
+NA,"wa","kittitas.",39.2,54.8
+NA,"wa","klickitat.",38.4,52.9
+NA,"wa","klickitat.",38.4,37.9
+NA,"wa","klickitat.",38.4,21.4
+NA,"wa","klickitat.",38.4,57.7
+NA,"wa","klickitat.",38.4,10.9
+NA,"wa","klickitat.",38.4,73.4
+NA,"wa","klickitat.",38.4,40.8
+NA,"wa","klickitat.",38.4,32.2
+NA,"wa","klickitat.",38.4,20.7
+NA,"wa","klickitat.",38.4,22.6
+NA,"wa","klickitat.",38.4,37.8
+NA,"wa","klickitat.",38.4,45.4
+NA,"wa","klickitat.",38.4,10
+NA,"wa","klickitat.",38.4,22.1
+NA,"wa","klickitat.",38.4,32.1
+NA,"wa","klickitat.",38.4,17.6
+NA,"wa","klickitat.",38.4,37.4
+NA,"wa","klickitat.",38.4,15.5
+NA,"wa","klickitat.",38.4,8.3
+NA,"wa","klickitat.",38.4,57.7
+NA,"wa","klickitat.",38.4,46.4
+NA,"wa","klickitat.",38.4,44.9
+NA,"wa","klickitat.",38.4,79.8
+NA,"wa","klickitat.",38.4,65.3
+NA,"wa","klickitat.",38.4,32.6
+NA,"wa","klickitat.",38.4,77.7
+NA,"wa","klickitat.",38.4,51.3
+NA,"wa","klickitat.",38.4,72.5
+NA,"wa","klickitat.",38.4,34.6
+NA,"wa","klickitat.",38.4,37.3
+NA,"wa","klickitat.",38.4,67.1
+NA,"wa","klickitat.",38.4,59
+NA,"wa","klickitat.",38.4,47.6
+NA,"wa","klickitat.",38.4,46.3
+NA,"wa","klickitat.",38.4,52.9
+NA,"wa","klickitat.",38.4,55.2
+NA,"wa","klickitat.",38.4,65.4
+NA,"wa","klickitat.",38.4,29.8
+NA,"wa","klickitat.",38.4,21.7
+NA,"wa","klickitat.",38.4,39.4
+NA,"wa","klickitat.",38.4,53.7
+NA,"wa","klickitat.",38.4,54.7
+NA,"wa","klickitat.",38.4,65.1
+NA,"wa","klickitat.",38.4,48.8
+NA,"wa","klickitat.",38.4,57.9
+NA,"wa","klickitat.",38.4,42.2
+NA,"wa","klickitat.",38.4,25
+NA,"wa","klickitat.",38.4,44.4
+NA,"wa","klickitat.",38.4,37.6
+NA,"wa","klickitat.",38.4,67.3
+NA,"wa","klickitat.",38.4,37.8
+NA,"wa","klickitat.",38.4,54.6
+NA,"wa","klickitat.",38.4,37.2
+NA,"wa","klickitat.",38.4,45
+NA,"wa","klickitat.",38.4,54.8
+NA,"wa","lewis.",28.9,52.9
+NA,"wa","lewis.",28.9,37.9
+NA,"wa","lewis.",28.9,21.4
+NA,"wa","lewis.",28.9,57.7
+NA,"wa","lewis.",28.9,10.9
+NA,"wa","lewis.",28.9,73.4
+NA,"wa","lewis.",28.9,40.8
+NA,"wa","lewis.",28.9,32.2
+NA,"wa","lewis.",28.9,20.7
+NA,"wa","lewis.",28.9,22.6
+NA,"wa","lewis.",28.9,37.8
+NA,"wa","lewis.",28.9,45.4
+NA,"wa","lewis.",28.9,10
+NA,"wa","lewis.",28.9,22.1
+NA,"wa","lewis.",28.9,32.1
+NA,"wa","lewis.",28.9,17.6
+NA,"wa","lewis.",28.9,37.4
+NA,"wa","lewis.",28.9,15.5
+NA,"wa","lewis.",28.9,8.3
+NA,"wa","lewis.",28.9,57.7
+NA,"wa","lewis.",28.9,46.4
+NA,"wa","lewis.",28.9,44.9
+NA,"wa","lewis.",28.9,79.8
+NA,"wa","lewis.",28.9,65.3
+NA,"wa","lewis.",28.9,32.6
+NA,"wa","lewis.",28.9,77.7
+NA,"wa","lewis.",28.9,51.3
+NA,"wa","lewis.",28.9,72.5
+NA,"wa","lewis.",28.9,34.6
+NA,"wa","lewis.",28.9,37.3
+NA,"wa","lewis.",28.9,67.1
+NA,"wa","lewis.",28.9,59
+NA,"wa","lewis.",28.9,47.6
+NA,"wa","lewis.",28.9,46.3
+NA,"wa","lewis.",28.9,52.9
+NA,"wa","lewis.",28.9,55.2
+NA,"wa","lewis.",28.9,65.4
+NA,"wa","lewis.",28.9,29.8
+NA,"wa","lewis.",28.9,21.7
+NA,"wa","lewis.",28.9,39.4
+NA,"wa","lewis.",28.9,53.7
+NA,"wa","lewis.",28.9,54.7
+NA,"wa","lewis.",28.9,65.1
+NA,"wa","lewis.",28.9,48.8
+NA,"wa","lewis.",28.9,57.9
+NA,"wa","lewis.",28.9,42.2
+NA,"wa","lewis.",28.9,25
+NA,"wa","lewis.",28.9,44.4
+NA,"wa","lewis.",28.9,37.6
+NA,"wa","lewis.",28.9,67.3
+NA,"wa","lewis.",28.9,37.8
+NA,"wa","lewis.",28.9,54.6
+NA,"wa","lewis.",28.9,37.2
+NA,"wa","lewis.",28.9,45
+NA,"wa","lewis.",28.9,54.8
+53043,"wa","lincoln",21.7,71.9
+NA,"wa","mason.",42.8,52.9
+NA,"wa","mason.",42.8,37.9
+NA,"wa","mason.",42.8,21.4
+NA,"wa","mason.",42.8,57.7
+NA,"wa","mason.",42.8,10.9
+NA,"wa","mason.",42.8,73.4
+NA,"wa","mason.",42.8,40.8
+NA,"wa","mason.",42.8,32.2
+NA,"wa","mason.",42.8,20.7
+NA,"wa","mason.",42.8,22.6
+NA,"wa","mason.",42.8,37.8
+NA,"wa","mason.",42.8,45.4
+NA,"wa","mason.",42.8,10
+NA,"wa","mason.",42.8,22.1
+NA,"wa","mason.",42.8,32.1
+NA,"wa","mason.",42.8,17.6
+NA,"wa","mason.",42.8,37.4
+NA,"wa","mason.",42.8,15.5
+NA,"wa","mason.",42.8,8.3
+NA,"wa","mason.",42.8,57.7
+NA,"wa","mason.",42.8,46.4
+NA,"wa","mason.",42.8,44.9
+NA,"wa","mason.",42.8,79.8
+NA,"wa","mason.",42.8,65.3
+NA,"wa","mason.",42.8,32.6
+NA,"wa","mason.",42.8,77.7
+NA,"wa","mason.",42.8,51.3
+NA,"wa","mason.",42.8,72.5
+NA,"wa","mason.",42.8,34.6
+NA,"wa","mason.",42.8,37.3
+NA,"wa","mason.",42.8,67.1
+NA,"wa","mason.",42.8,59
+NA,"wa","mason.",42.8,47.6
+NA,"wa","mason.",42.8,46.3
+NA,"wa","mason.",42.8,52.9
+NA,"wa","mason.",42.8,55.2
+NA,"wa","mason.",42.8,65.4
+NA,"wa","mason.",42.8,29.8
+NA,"wa","mason.",42.8,21.7
+NA,"wa","mason.",42.8,39.4
+NA,"wa","mason.",42.8,53.7
+NA,"wa","mason.",42.8,54.7
+NA,"wa","mason.",42.8,65.1
+NA,"wa","mason.",42.8,48.8
+NA,"wa","mason.",42.8,57.9
+NA,"wa","mason.",42.8,42.2
+NA,"wa","mason.",42.8,25
+NA,"wa","mason.",42.8,44.4
+NA,"wa","mason.",42.8,37.6
+NA,"wa","mason.",42.8,67.3
+NA,"wa","mason.",42.8,37.8
+NA,"wa","mason.",42.8,54.6
+NA,"wa","mason.",42.8,37.2
+NA,"wa","mason.",42.8,45
+NA,"wa","mason.",42.8,54.8
+NA,"wa","okanogan.",36.5,52.9
+NA,"wa","okanogan.",36.5,37.9
+NA,"wa","okanogan.",36.5,21.4
+NA,"wa","okanogan.",36.5,57.7
+NA,"wa","okanogan.",36.5,10.9
+NA,"wa","okanogan.",36.5,73.4
+NA,"wa","okanogan.",36.5,40.8
+NA,"wa","okanogan.",36.5,32.2
+NA,"wa","okanogan.",36.5,20.7
+NA,"wa","okanogan.",36.5,22.6
+NA,"wa","okanogan.",36.5,37.8
+NA,"wa","okanogan.",36.5,45.4
+NA,"wa","okanogan.",36.5,10
+NA,"wa","okanogan.",36.5,22.1
+NA,"wa","okanogan.",36.5,32.1
+NA,"wa","okanogan.",36.5,17.6
+NA,"wa","okanogan.",36.5,37.4
+NA,"wa","okanogan.",36.5,15.5
+NA,"wa","okanogan.",36.5,8.3
+NA,"wa","okanogan.",36.5,57.7
+NA,"wa","okanogan.",36.5,46.4
+NA,"wa","okanogan.",36.5,44.9
+NA,"wa","okanogan.",36.5,79.8
+NA,"wa","okanogan.",36.5,65.3
+NA,"wa","okanogan.",36.5,32.6
+NA,"wa","okanogan.",36.5,77.7
+NA,"wa","okanogan.",36.5,51.3
+NA,"wa","okanogan.",36.5,72.5
+NA,"wa","okanogan.",36.5,34.6
+NA,"wa","okanogan.",36.5,37.3
+NA,"wa","okanogan.",36.5,67.1
+NA,"wa","okanogan.",36.5,59
+NA,"wa","okanogan.",36.5,47.6
+NA,"wa","okanogan.",36.5,46.3
+NA,"wa","okanogan.",36.5,52.9
+NA,"wa","okanogan.",36.5,55.2
+NA,"wa","okanogan.",36.5,65.4
+NA,"wa","okanogan.",36.5,29.8
+NA,"wa","okanogan.",36.5,21.7
+NA,"wa","okanogan.",36.5,39.4
+NA,"wa","okanogan.",36.5,53.7
+NA,"wa","okanogan.",36.5,54.7
+NA,"wa","okanogan.",36.5,65.1
+NA,"wa","okanogan.",36.5,48.8
+NA,"wa","okanogan.",36.5,57.9
+NA,"wa","okanogan.",36.5,42.2
+NA,"wa","okanogan.",36.5,25
+NA,"wa","okanogan.",36.5,44.4
+NA,"wa","okanogan.",36.5,37.6
+NA,"wa","okanogan.",36.5,67.3
+NA,"wa","okanogan.",36.5,37.8
+NA,"wa","okanogan.",36.5,54.6
+NA,"wa","okanogan.",36.5,37.2
+NA,"wa","okanogan.",36.5,45
+NA,"wa","okanogan.",36.5,54.8
+53049,"wa","pacific",43.1,50
+53051,"wa","pend oreille",28.5,64.3
+NA,"wa","pierce.",49.7,52.9
+NA,"wa","pierce.",49.7,37.9
+NA,"wa","pierce.",49.7,21.4
+NA,"wa","pierce.",49.7,57.7
+NA,"wa","pierce.",49.7,10.9
+NA,"wa","pierce.",49.7,73.4
+NA,"wa","pierce.",49.7,40.8
+NA,"wa","pierce.",49.7,32.2
+NA,"wa","pierce.",49.7,20.7
+NA,"wa","pierce.",49.7,22.6
+NA,"wa","pierce.",49.7,37.8
+NA,"wa","pierce.",49.7,45.4
+NA,"wa","pierce.",49.7,10
+NA,"wa","pierce.",49.7,22.1
+NA,"wa","pierce.",49.7,32.1
+NA,"wa","pierce.",49.7,17.6
+NA,"wa","pierce.",49.7,37.4
+NA,"wa","pierce.",49.7,15.5
+NA,"wa","pierce.",49.7,8.3
+NA,"wa","pierce.",49.7,57.7
+NA,"wa","pierce.",49.7,46.4
+NA,"wa","pierce.",49.7,44.9
+NA,"wa","pierce.",49.7,79.8
+NA,"wa","pierce.",49.7,65.3
+NA,"wa","pierce.",49.7,32.6
+NA,"wa","pierce.",49.7,77.7
+NA,"wa","pierce.",49.7,51.3
+NA,"wa","pierce.",49.7,72.5
+NA,"wa","pierce.",49.7,34.6
+NA,"wa","pierce.",49.7,37.3
+NA,"wa","pierce.",49.7,67.1
+NA,"wa","pierce.",49.7,59
+NA,"wa","pierce.",49.7,47.6
+NA,"wa","pierce.",49.7,46.3
+NA,"wa","pierce.",49.7,52.9
+NA,"wa","pierce.",49.7,55.2
+NA,"wa","pierce.",49.7,65.4
+NA,"wa","pierce.",49.7,29.8
+NA,"wa","pierce.",49.7,21.7
+NA,"wa","pierce.",49.7,39.4
+NA,"wa","pierce.",49.7,53.7
+NA,"wa","pierce.",49.7,54.7
+NA,"wa","pierce.",49.7,65.1
+NA,"wa","pierce.",49.7,48.8
+NA,"wa","pierce.",49.7,57.9
+NA,"wa","pierce.",49.7,42.2
+NA,"wa","pierce.",49.7,25
+NA,"wa","pierce.",49.7,44.4
+NA,"wa","pierce.",49.7,37.6
+NA,"wa","pierce.",49.7,67.3
+NA,"wa","pierce.",49.7,37.8
+NA,"wa","pierce.",49.7,54.6
+NA,"wa","pierce.",49.7,37.2
+NA,"wa","pierce.",49.7,45
+NA,"wa","pierce.",49.7,54.8
+NA,"wa","san juan.",66.6,52.9
+NA,"wa","san juan.",66.6,37.9
+NA,"wa","san juan.",66.6,21.4
+NA,"wa","san juan.",66.6,57.7
+NA,"wa","san juan.",66.6,10.9
+NA,"wa","san juan.",66.6,73.4
+NA,"wa","san juan.",66.6,40.8
+NA,"wa","san juan.",66.6,32.2
+NA,"wa","san juan.",66.6,20.7
+NA,"wa","san juan.",66.6,22.6
+NA,"wa","san juan.",66.6,37.8
+NA,"wa","san juan.",66.6,45.4
+NA,"wa","san juan.",66.6,10
+NA,"wa","san juan.",66.6,22.1
+NA,"wa","san juan.",66.6,32.1
+NA,"wa","san juan.",66.6,17.6
+NA,"wa","san juan.",66.6,37.4
+NA,"wa","san juan.",66.6,15.5
+NA,"wa","san juan.",66.6,8.3
+NA,"wa","san juan.",66.6,57.7
+NA,"wa","san juan.",66.6,46.4
+NA,"wa","san juan.",66.6,44.9
+NA,"wa","san juan.",66.6,79.8
+NA,"wa","san juan.",66.6,65.3
+NA,"wa","san juan.",66.6,32.6
+NA,"wa","san juan.",66.6,77.7
+NA,"wa","san juan.",66.6,51.3
+NA,"wa","san juan.",66.6,72.5
+NA,"wa","san juan.",66.6,34.6
+NA,"wa","san juan.",66.6,37.3
+NA,"wa","san juan.",66.6,67.1
+NA,"wa","san juan.",66.6,59
+NA,"wa","san juan.",66.6,47.6
+NA,"wa","san juan.",66.6,46.3
+NA,"wa","san juan.",66.6,52.9
+NA,"wa","san juan.",66.6,55.2
+NA,"wa","san juan.",66.6,65.4
+NA,"wa","san juan.",66.6,29.8
+NA,"wa","san juan.",66.6,21.7
+NA,"wa","san juan.",66.6,39.4
+NA,"wa","san juan.",66.6,53.7
+NA,"wa","san juan.",66.6,54.7
+NA,"wa","san juan.",66.6,65.1
+NA,"wa","san juan.",66.6,48.8
+NA,"wa","san juan.",66.6,57.9
+NA,"wa","san juan.",66.6,42.2
+NA,"wa","san juan.",66.6,25
+NA,"wa","san juan.",66.6,44.4
+NA,"wa","san juan.",66.6,37.6
+NA,"wa","san juan.",66.6,67.3
+NA,"wa","san juan.",66.6,37.8
+NA,"wa","san juan.",66.6,54.6
+NA,"wa","san juan.",66.6,37.2
+NA,"wa","san juan.",66.6,45
+NA,"wa","san juan.",66.6,54.8
+NA,"wa","skagit.",47.6,52.9
+NA,"wa","skagit.",47.6,37.9
+NA,"wa","skagit.",47.6,21.4
+NA,"wa","skagit.",47.6,57.7
+NA,"wa","skagit.",47.6,10.9
+NA,"wa","skagit.",47.6,73.4
+NA,"wa","skagit.",47.6,40.8
+NA,"wa","skagit.",47.6,32.2
+NA,"wa","skagit.",47.6,20.7
+NA,"wa","skagit.",47.6,22.6
+NA,"wa","skagit.",47.6,37.8
+NA,"wa","skagit.",47.6,45.4
+NA,"wa","skagit.",47.6,10
+NA,"wa","skagit.",47.6,22.1
+NA,"wa","skagit.",47.6,32.1
+NA,"wa","skagit.",47.6,17.6
+NA,"wa","skagit.",47.6,37.4
+NA,"wa","skagit.",47.6,15.5
+NA,"wa","skagit.",47.6,8.3
+NA,"wa","skagit.",47.6,57.7
+NA,"wa","skagit.",47.6,46.4
+NA,"wa","skagit.",47.6,44.9
+NA,"wa","skagit.",47.6,79.8
+NA,"wa","skagit.",47.6,65.3
+NA,"wa","skagit.",47.6,32.6
+NA,"wa","skagit.",47.6,77.7
+NA,"wa","skagit.",47.6,51.3
+NA,"wa","skagit.",47.6,72.5
+NA,"wa","skagit.",47.6,34.6
+NA,"wa","skagit.",47.6,37.3
+NA,"wa","skagit.",47.6,67.1
+NA,"wa","skagit.",47.6,59
+NA,"wa","skagit.",47.6,47.6
+NA,"wa","skagit.",47.6,46.3
+NA,"wa","skagit.",47.6,52.9
+NA,"wa","skagit.",47.6,55.2
+NA,"wa","skagit.",47.6,65.4
+NA,"wa","skagit.",47.6,29.8
+NA,"wa","skagit.",47.6,21.7
+NA,"wa","skagit.",47.6,39.4
+NA,"wa","skagit.",47.6,53.7
+NA,"wa","skagit.",47.6,54.7
+NA,"wa","skagit.",47.6,65.1
+NA,"wa","skagit.",47.6,48.8
+NA,"wa","skagit.",47.6,57.9
+NA,"wa","skagit.",47.6,42.2
+NA,"wa","skagit.",47.6,25
+NA,"wa","skagit.",47.6,44.4
+NA,"wa","skagit.",47.6,37.6
+NA,"wa","skagit.",47.6,67.3
+NA,"wa","skagit.",47.6,37.8
+NA,"wa","skagit.",47.6,54.6
+NA,"wa","skagit.",47.6,37.2
+NA,"wa","skagit.",47.6,45
+NA,"wa","skagit.",47.6,54.8
+53059,"wa","skamania",39.5,52.1
+NA,"wa","snohomish.",54.3,52.9
+NA,"wa","snohomish.",54.3,37.9
+NA,"wa","snohomish.",54.3,21.4
+NA,"wa","snohomish.",54.3,57.7
+NA,"wa","snohomish.",54.3,10.9
+NA,"wa","snohomish.",54.3,73.4
+NA,"wa","snohomish.",54.3,40.8
+NA,"wa","snohomish.",54.3,32.2
+NA,"wa","snohomish.",54.3,20.7
+NA,"wa","snohomish.",54.3,22.6
+NA,"wa","snohomish.",54.3,37.8
+NA,"wa","snohomish.",54.3,45.4
+NA,"wa","snohomish.",54.3,10
+NA,"wa","snohomish.",54.3,22.1
+NA,"wa","snohomish.",54.3,32.1
+NA,"wa","snohomish.",54.3,17.6
+NA,"wa","snohomish.",54.3,37.4
+NA,"wa","snohomish.",54.3,15.5
+NA,"wa","snohomish.",54.3,8.3
+NA,"wa","snohomish.",54.3,57.7
+NA,"wa","snohomish.",54.3,46.4
+NA,"wa","snohomish.",54.3,44.9
+NA,"wa","snohomish.",54.3,79.8
+NA,"wa","snohomish.",54.3,65.3
+NA,"wa","snohomish.",54.3,32.6
+NA,"wa","snohomish.",54.3,77.7
+NA,"wa","snohomish.",54.3,51.3
+NA,"wa","snohomish.",54.3,72.5
+NA,"wa","snohomish.",54.3,34.6
+NA,"wa","snohomish.",54.3,37.3
+NA,"wa","snohomish.",54.3,67.1
+NA,"wa","snohomish.",54.3,59
+NA,"wa","snohomish.",54.3,47.6
+NA,"wa","snohomish.",54.3,46.3
+NA,"wa","snohomish.",54.3,52.9
+NA,"wa","snohomish.",54.3,55.2
+NA,"wa","snohomish.",54.3,65.4
+NA,"wa","snohomish.",54.3,29.8
+NA,"wa","snohomish.",54.3,21.7
+NA,"wa","snohomish.",54.3,39.4
+NA,"wa","snohomish.",54.3,53.7
+NA,"wa","snohomish.",54.3,54.7
+NA,"wa","snohomish.",54.3,65.1
+NA,"wa","snohomish.",54.3,48.8
+NA,"wa","snohomish.",54.3,57.9
+NA,"wa","snohomish.",54.3,42.2
+NA,"wa","snohomish.",54.3,25
+NA,"wa","snohomish.",54.3,44.4
+NA,"wa","snohomish.",54.3,37.6
+NA,"wa","snohomish.",54.3,67.3
+NA,"wa","snohomish.",54.3,37.8
+NA,"wa","snohomish.",54.3,54.6
+NA,"wa","snohomish.",54.3,37.2
+NA,"wa","snohomish.",54.3,45
+NA,"wa","snohomish.",54.3,54.8
+53063,"wa","spokane",41.6,49.9
+NA,"wa","stevens.",26.5,52.9
+NA,"wa","stevens.",26.5,37.9
+NA,"wa","stevens.",26.5,21.4
+NA,"wa","stevens.",26.5,57.7
+NA,"wa","stevens.",26.5,10.9
+NA,"wa","stevens.",26.5,73.4
+NA,"wa","stevens.",26.5,40.8
+NA,"wa","stevens.",26.5,32.2
+NA,"wa","stevens.",26.5,20.7
+NA,"wa","stevens.",26.5,22.6
+NA,"wa","stevens.",26.5,37.8
+NA,"wa","stevens.",26.5,45.4
+NA,"wa","stevens.",26.5,10
+NA,"wa","stevens.",26.5,22.1
+NA,"wa","stevens.",26.5,32.1
+NA,"wa","stevens.",26.5,17.6
+NA,"wa","stevens.",26.5,37.4
+NA,"wa","stevens.",26.5,15.5
+NA,"wa","stevens.",26.5,8.3
+NA,"wa","stevens.",26.5,57.7
+NA,"wa","stevens.",26.5,46.4
+NA,"wa","stevens.",26.5,44.9
+NA,"wa","stevens.",26.5,79.8
+NA,"wa","stevens.",26.5,65.3
+NA,"wa","stevens.",26.5,32.6
+NA,"wa","stevens.",26.5,77.7
+NA,"wa","stevens.",26.5,51.3
+NA,"wa","stevens.",26.5,72.5
+NA,"wa","stevens.",26.5,34.6
+NA,"wa","stevens.",26.5,37.3
+NA,"wa","stevens.",26.5,67.1
+NA,"wa","stevens.",26.5,59
+NA,"wa","stevens.",26.5,47.6
+NA,"wa","stevens.",26.5,46.3
+NA,"wa","stevens.",26.5,52.9
+NA,"wa","stevens.",26.5,55.2
+NA,"wa","stevens.",26.5,65.4
+NA,"wa","stevens.",26.5,29.8
+NA,"wa","stevens.",26.5,21.7
+NA,"wa","stevens.",26.5,39.4
+NA,"wa","stevens.",26.5,53.7
+NA,"wa","stevens.",26.5,54.7
+NA,"wa","stevens.",26.5,65.1
+NA,"wa","stevens.",26.5,48.8
+NA,"wa","stevens.",26.5,57.9
+NA,"wa","stevens.",26.5,42.2
+NA,"wa","stevens.",26.5,25
+NA,"wa","stevens.",26.5,44.4
+NA,"wa","stevens.",26.5,37.6
+NA,"wa","stevens.",26.5,67.3
+NA,"wa","stevens.",26.5,37.8
+NA,"wa","stevens.",26.5,54.6
+NA,"wa","stevens.",26.5,37.2
+NA,"wa","stevens.",26.5,45
+NA,"wa","stevens.",26.5,54.8
+NA,"wa","thurston.",53.2,52.9
+NA,"wa","thurston.",53.2,37.9
+NA,"wa","thurston.",53.2,21.4
+NA,"wa","thurston.",53.2,57.7
+NA,"wa","thurston.",53.2,10.9
+NA,"wa","thurston.",53.2,73.4
+NA,"wa","thurston.",53.2,40.8
+NA,"wa","thurston.",53.2,32.2
+NA,"wa","thurston.",53.2,20.7
+NA,"wa","thurston.",53.2,22.6
+NA,"wa","thurston.",53.2,37.8
+NA,"wa","thurston.",53.2,45.4
+NA,"wa","thurston.",53.2,10
+NA,"wa","thurston.",53.2,22.1
+NA,"wa","thurston.",53.2,32.1
+NA,"wa","thurston.",53.2,17.6
+NA,"wa","thurston.",53.2,37.4
+NA,"wa","thurston.",53.2,15.5
+NA,"wa","thurston.",53.2,8.3
+NA,"wa","thurston.",53.2,57.7
+NA,"wa","thurston.",53.2,46.4
+NA,"wa","thurston.",53.2,44.9
+NA,"wa","thurston.",53.2,79.8
+NA,"wa","thurston.",53.2,65.3
+NA,"wa","thurston.",53.2,32.6
+NA,"wa","thurston.",53.2,77.7
+NA,"wa","thurston.",53.2,51.3
+NA,"wa","thurston.",53.2,72.5
+NA,"wa","thurston.",53.2,34.6
+NA,"wa","thurston.",53.2,37.3
+NA,"wa","thurston.",53.2,67.1
+NA,"wa","thurston.",53.2,59
+NA,"wa","thurston.",53.2,47.6
+NA,"wa","thurston.",53.2,46.3
+NA,"wa","thurston.",53.2,52.9
+NA,"wa","thurston.",53.2,55.2
+NA,"wa","thurston.",53.2,65.4
+NA,"wa","thurston.",53.2,29.8
+NA,"wa","thurston.",53.2,21.7
+NA,"wa","thurston.",53.2,39.4
+NA,"wa","thurston.",53.2,53.7
+NA,"wa","thurston.",53.2,54.7
+NA,"wa","thurston.",53.2,65.1
+NA,"wa","thurston.",53.2,48.8
+NA,"wa","thurston.",53.2,57.9
+NA,"wa","thurston.",53.2,42.2
+NA,"wa","thurston.",53.2,25
+NA,"wa","thurston.",53.2,44.4
+NA,"wa","thurston.",53.2,37.6
+NA,"wa","thurston.",53.2,67.3
+NA,"wa","thurston.",53.2,37.8
+NA,"wa","thurston.",53.2,54.6
+NA,"wa","thurston.",53.2,37.2
+NA,"wa","thurston.",53.2,45
+NA,"wa","thurston.",53.2,54.8
+53069,"wa","wahkiakum",35.3,56.9
+NA,"wa","walla walla.",38.3,52.9
+NA,"wa","walla walla.",38.3,37.9
+NA,"wa","walla walla.",38.3,21.4
+NA,"wa","walla walla.",38.3,57.7
+NA,"wa","walla walla.",38.3,10.9
+NA,"wa","walla walla.",38.3,73.4
+NA,"wa","walla walla.",38.3,40.8
+NA,"wa","walla walla.",38.3,32.2
+NA,"wa","walla walla.",38.3,20.7
+NA,"wa","walla walla.",38.3,22.6
+NA,"wa","walla walla.",38.3,37.8
+NA,"wa","walla walla.",38.3,45.4
+NA,"wa","walla walla.",38.3,10
+NA,"wa","walla walla.",38.3,22.1
+NA,"wa","walla walla.",38.3,32.1
+NA,"wa","walla walla.",38.3,17.6
+NA,"wa","walla walla.",38.3,37.4
+NA,"wa","walla walla.",38.3,15.5
+NA,"wa","walla walla.",38.3,8.3
+NA,"wa","walla walla.",38.3,57.7
+NA,"wa","walla walla.",38.3,46.4
+NA,"wa","walla walla.",38.3,44.9
+NA,"wa","walla walla.",38.3,79.8
+NA,"wa","walla walla.",38.3,65.3
+NA,"wa","walla walla.",38.3,32.6
+NA,"wa","walla walla.",38.3,77.7
+NA,"wa","walla walla.",38.3,51.3
+NA,"wa","walla walla.",38.3,72.5
+NA,"wa","walla walla.",38.3,34.6
+NA,"wa","walla walla.",38.3,37.3
+NA,"wa","walla walla.",38.3,67.1
+NA,"wa","walla walla.",38.3,59
+NA,"wa","walla walla.",38.3,47.6
+NA,"wa","walla walla.",38.3,46.3
+NA,"wa","walla walla.",38.3,52.9
+NA,"wa","walla walla.",38.3,55.2
+NA,"wa","walla walla.",38.3,65.4
+NA,"wa","walla walla.",38.3,29.8
+NA,"wa","walla walla.",38.3,21.7
+NA,"wa","walla walla.",38.3,39.4
+NA,"wa","walla walla.",38.3,53.7
+NA,"wa","walla walla.",38.3,54.7
+NA,"wa","walla walla.",38.3,65.1
+NA,"wa","walla walla.",38.3,48.8
+NA,"wa","walla walla.",38.3,57.9
+NA,"wa","walla walla.",38.3,42.2
+NA,"wa","walla walla.",38.3,25
+NA,"wa","walla walla.",38.3,44.4
+NA,"wa","walla walla.",38.3,37.6
+NA,"wa","walla walla.",38.3,67.3
+NA,"wa","walla walla.",38.3,37.8
+NA,"wa","walla walla.",38.3,54.6
+NA,"wa","walla walla.",38.3,37.2
+NA,"wa","walla walla.",38.3,45
+NA,"wa","walla walla.",38.3,54.8
+NA,"wa","whatcom.",54.9,52.9
+NA,"wa","whatcom.",54.9,37.9
+NA,"wa","whatcom.",54.9,21.4
+NA,"wa","whatcom.",54.9,57.7
+NA,"wa","whatcom.",54.9,10.9
+NA,"wa","whatcom.",54.9,73.4
+NA,"wa","whatcom.",54.9,40.8
+NA,"wa","whatcom.",54.9,32.2
+NA,"wa","whatcom.",54.9,20.7
+NA,"wa","whatcom.",54.9,22.6
+NA,"wa","whatcom.",54.9,37.8
+NA,"wa","whatcom.",54.9,45.4
+NA,"wa","whatcom.",54.9,10
+NA,"wa","whatcom.",54.9,22.1
+NA,"wa","whatcom.",54.9,32.1
+NA,"wa","whatcom.",54.9,17.6
+NA,"wa","whatcom.",54.9,37.4
+NA,"wa","whatcom.",54.9,15.5
+NA,"wa","whatcom.",54.9,8.3
+NA,"wa","whatcom.",54.9,57.7
+NA,"wa","whatcom.",54.9,46.4
+NA,"wa","whatcom.",54.9,44.9
+NA,"wa","whatcom.",54.9,79.8
+NA,"wa","whatcom.",54.9,65.3
+NA,"wa","whatcom.",54.9,32.6
+NA,"wa","whatcom.",54.9,77.7
+NA,"wa","whatcom.",54.9,51.3
+NA,"wa","whatcom.",54.9,72.5
+NA,"wa","whatcom.",54.9,34.6
+NA,"wa","whatcom.",54.9,37.3
+NA,"wa","whatcom.",54.9,67.1
+NA,"wa","whatcom.",54.9,59
+NA,"wa","whatcom.",54.9,47.6
+NA,"wa","whatcom.",54.9,46.3
+NA,"wa","whatcom.",54.9,52.9
+NA,"wa","whatcom.",54.9,55.2
+NA,"wa","whatcom.",54.9,65.4
+NA,"wa","whatcom.",54.9,29.8
+NA,"wa","whatcom.",54.9,21.7
+NA,"wa","whatcom.",54.9,39.4
+NA,"wa","whatcom.",54.9,53.7
+NA,"wa","whatcom.",54.9,54.7
+NA,"wa","whatcom.",54.9,65.1
+NA,"wa","whatcom.",54.9,48.8
+NA,"wa","whatcom.",54.9,57.9
+NA,"wa","whatcom.",54.9,42.2
+NA,"wa","whatcom.",54.9,25
+NA,"wa","whatcom.",54.9,44.4
+NA,"wa","whatcom.",54.9,37.6
+NA,"wa","whatcom.",54.9,67.3
+NA,"wa","whatcom.",54.9,37.8
+NA,"wa","whatcom.",54.9,54.6
+NA,"wa","whatcom.",54.9,37.2
+NA,"wa","whatcom.",54.9,45
+NA,"wa","whatcom.",54.9,54.8
+NA,"wa","whitman.",45.5,52.9
+NA,"wa","whitman.",45.5,37.9
+NA,"wa","whitman.",45.5,21.4
+NA,"wa","whitman.",45.5,57.7
+NA,"wa","whitman.",45.5,10.9
+NA,"wa","whitman.",45.5,73.4
+NA,"wa","whitman.",45.5,40.8
+NA,"wa","whitman.",45.5,32.2
+NA,"wa","whitman.",45.5,20.7
+NA,"wa","whitman.",45.5,22.6
+NA,"wa","whitman.",45.5,37.8
+NA,"wa","whitman.",45.5,45.4
+NA,"wa","whitman.",45.5,10
+NA,"wa","whitman.",45.5,22.1
+NA,"wa","whitman.",45.5,32.1
+NA,"wa","whitman.",45.5,17.6
+NA,"wa","whitman.",45.5,37.4
+NA,"wa","whitman.",45.5,15.5
+NA,"wa","whitman.",45.5,8.3
+NA,"wa","whitman.",45.5,57.7
+NA,"wa","whitman.",45.5,46.4
+NA,"wa","whitman.",45.5,44.9
+NA,"wa","whitman.",45.5,79.8
+NA,"wa","whitman.",45.5,65.3
+NA,"wa","whitman.",45.5,32.6
+NA,"wa","whitman.",45.5,77.7
+NA,"wa","whitman.",45.5,51.3
+NA,"wa","whitman.",45.5,72.5
+NA,"wa","whitman.",45.5,34.6
+NA,"wa","whitman.",45.5,37.3
+NA,"wa","whitman.",45.5,67.1
+NA,"wa","whitman.",45.5,59
+NA,"wa","whitman.",45.5,47.6
+NA,"wa","whitman.",45.5,46.3
+NA,"wa","whitman.",45.5,52.9
+NA,"wa","whitman.",45.5,55.2
+NA,"wa","whitman.",45.5,65.4
+NA,"wa","whitman.",45.5,29.8
+NA,"wa","whitman.",45.5,21.7
+NA,"wa","whitman.",45.5,39.4
+NA,"wa","whitman.",45.5,53.7
+NA,"wa","whitman.",45.5,54.7
+NA,"wa","whitman.",45.5,65.1
+NA,"wa","whitman.",45.5,48.8
+NA,"wa","whitman.",45.5,57.9
+NA,"wa","whitman.",45.5,42.2
+NA,"wa","whitman.",45.5,25
+NA,"wa","whitman.",45.5,44.4
+NA,"wa","whitman.",45.5,37.6
+NA,"wa","whitman.",45.5,67.3
+NA,"wa","whitman.",45.5,37.8
+NA,"wa","whitman.",45.5,54.6
+NA,"wa","whitman.",45.5,37.2
+NA,"wa","whitman.",45.5,45
+NA,"wa","whitman.",45.5,54.8
+NA,"wa","yakima.",39.4,52.9
+NA,"wa","yakima.",39.4,37.9
+NA,"wa","yakima.",39.4,21.4
+NA,"wa","yakima.",39.4,57.7
+NA,"wa","yakima.",39.4,10.9
+NA,"wa","yakima.",39.4,73.4
+NA,"wa","yakima.",39.4,40.8
+NA,"wa","yakima.",39.4,32.2
+NA,"wa","yakima.",39.4,20.7
+NA,"wa","yakima.",39.4,22.6
+NA,"wa","yakima.",39.4,37.8
+NA,"wa","yakima.",39.4,45.4
+NA,"wa","yakima.",39.4,10
+NA,"wa","yakima.",39.4,22.1
+NA,"wa","yakima.",39.4,32.1
+NA,"wa","yakima.",39.4,17.6
+NA,"wa","yakima.",39.4,37.4
+NA,"wa","yakima.",39.4,15.5
+NA,"wa","yakima.",39.4,8.3
+NA,"wa","yakima.",39.4,57.7
+NA,"wa","yakima.",39.4,46.4
+NA,"wa","yakima.",39.4,44.9
+NA,"wa","yakima.",39.4,79.8
+NA,"wa","yakima.",39.4,65.3
+NA,"wa","yakima.",39.4,32.6
+NA,"wa","yakima.",39.4,77.7
+NA,"wa","yakima.",39.4,51.3
+NA,"wa","yakima.",39.4,72.5
+NA,"wa","yakima.",39.4,34.6
+NA,"wa","yakima.",39.4,37.3
+NA,"wa","yakima.",39.4,67.1
+NA,"wa","yakima.",39.4,59
+NA,"wa","yakima.",39.4,47.6
+NA,"wa","yakima.",39.4,46.3
+NA,"wa","yakima.",39.4,52.9
+NA,"wa","yakima.",39.4,55.2
+NA,"wa","yakima.",39.4,65.4
+NA,"wa","yakima.",39.4,29.8
+NA,"wa","yakima.",39.4,21.7
+NA,"wa","yakima.",39.4,39.4
+NA,"wa","yakima.",39.4,53.7
+NA,"wa","yakima.",39.4,54.7
+NA,"wa","yakima.",39.4,65.1
+NA,"wa","yakima.",39.4,48.8
+NA,"wa","yakima.",39.4,57.9
+NA,"wa","yakima.",39.4,42.2
+NA,"wa","yakima.",39.4,25
+NA,"wa","yakima.",39.4,44.4
+NA,"wa","yakima.",39.4,37.6
+NA,"wa","yakima.",39.4,67.3
+NA,"wa","yakima.",39.4,37.8
+NA,"wa","yakima.",39.4,54.6
+NA,"wa","yakima.",39.4,37.2
+NA,"wa","yakima.",39.4,45
+NA,"wa","yakima.",39.4,54.8
+55001,"wi","adams",37.4,59.2
+55003,"wi","ashland",52.2,43.3
+55005,"wi","barron",35,60.4
+55007,"wi","bayfield",52.2,43.5
+55009,"wi","brown",41.9,52.7
+55011,"wi","buffalo",36.6,58.5
+55013,"wi","burnett",33.8,62.1
+55015,"wi","calumet",36.5,58.1
+55017,"wi","chippewa",37.7,56.9
+55019,"wi","clark",31.2,63.8
+55021,"wi","columbia",46.2,48.3
+55023,"wi","crawford",44.6,50.1
+55025,"wi","dane",71.4,23.4
+55027,"wi","dodge",32.6,62.2
+55029,"wi","door",46.1,49.3
+55031,"wi","douglas",51.1,43.5
+55033,"wi","dunn",41,52.1
+55035,"wi","eau claire",50.4,43.1
+55037,"wi","florence",25.1,71.6
+55039,"wi","fond du lac",34,60.8
+55041,"wi","forest",35.1,61.8
+55043,"wi","grant",41.8,51.3
+55045,"wi","green",48.5,46.3
+55047,"wi","green lake",29,66.7
+55049,"wi","iowa",55,39.7
+55051,"wi","iron",36.6,60.1
+55053,"wi","jackson",41.5,53.3
+55055,"wi","jefferson",39.1,55.3
+55057,"wi","juneau",34.9,61.2
+55059,"wi","kenosha",47.2,47.5
+55061,"wi","kewaunee",33.7,61.6
+55063,"wi","la crosse",51.6,42
+55065,"wi","lafayette",43.3,52.3
+55067,"wi","langlade",32.3,63.8
+55069,"wi","lincoln",36.9,57.7
+55071,"wi","manitowoc",36.4,58.1
+55073,"wi","marathon",38.5,56.7
+55075,"wi","marinette",31.2,65
+55077,"wi","marquette",35.9,60.3
+55078,"wi","menominee",78.4,21
+55079,"wi","milwaukee",66.4,29
+55081,"wi","monroe",36,58.5
+55083,"wi","oconto",29.5,66.5
+55085,"wi","oneida",38.9,56
+55087,"wi","outagamie",40.1,54.2
+55089,"wi","ozaukee",37.8,57.1
+55091,"wi","pepin",35.9,59.5
+55093,"wi","pierce",39.7,53.4
+55095,"wi","polk",33.4,61.1
+55097,"wi","portage",48.6,45.4
+55099,"wi","price",35.3,60.3
+55101,"wi","racine",45.4,49.8
+55103,"wi","richland",44.9,50.5
+55105,"wi","rock",52.4,42
+55107,"wi","rusk",30.9,64.9
+55111,"wi","sauk",47.4,46.9
+55113,"wi","sawyer",36.6,59.5
+55115,"wi","shawano",30.7,64.7
+55117,"wi","sheboygan",38.8,55.5
+55109,"wi","st. croix",37.4,55.8
+55119,"wi","taylor",25.5,70
+55121,"wi","trempealeau",41.6,54.3
+55123,"wi","vernon",44.7,49.3
+55125,"wi","vilas",35.4,60.7
+55127,"wi","walworth",37,57
+55129,"wi","washburn",36.2,59.7
+55131,"wi","washington",27.4,67.8
+55133,"wi","waukesha",33.5,61.6
+55135,"wi","waupaca",32.6,62.8
+55137,"wi","waushara",31.8,64.1
+55139,"wi","winnebago",43.1,50.6
+55141,"wi","wood",37.7,57
+54001,"wv","barbour",20.1,74.9
+54003,"wv","berkeley",28.7,66
+54005,"wv","boone",20.6,74.9
+54007,"wv","braxton",26,69.4
+54009,"wv","brooke",26.7,68.9
+54011,"wv","cabell",34.6,60.1
+54013,"wv","calhoun",17.5,77.7
+54015,"wv","clay",19.1,77.4
+54017,"wv","doddridge",12.7,83.1
+54019,"wv","fayette",28,67.6
+54021,"wv","gilmer",21.2,74.7
+54023,"wv","grant",10.3,87.7
+54025,"wv","greenbrier",26.8,67.9
+54027,"wv","hampshire",18.4,77.7
+54029,"wv","hancock",25.7,70.2
+54031,"wv","hardy",20.7,75.5
+54033,"wv","harrison",27.5,67.1
+54035,"wv","jackson",21.9,74
+54037,"wv","jefferson",39.4,54.8
+54039,"wv","kanawha",37.3,58
+54041,"wv","lewis",19.4,76.2
+54043,"wv","lincoln",20.5,75.2
+54045,"wv","logan",16.9,80.1
+54049,"wv","marion",30.2,63.7
+54051,"wv","marshall",22.1,73.1
+54053,"wv","mason",20.5,75.1
+54047,"wv","mcdowell",23.1,74.7
+54055,"wv","mercer",20.5,75.8
+54057,"wv","mineral",17.7,78.5
+54059,"wv","mingo",14.4,83.2
+54061,"wv","monongalia",40.8,51.2
+54063,"wv","monroe",19.2,76.5
+54065,"wv","morgan",20.5,74.9
+54067,"wv","nicholas",19.4,76.4
+54069,"wv","ohio",30.6,62.2
+54071,"wv","pendleton",22.6,74.3
+54073,"wv","pleasants",19.8,74.8
+54075,"wv","pocahontas",25.5,68.4
+54077,"wv","preston",19.5,75.3
+54079,"wv","putnam",23.7,71.4
+54081,"wv","raleigh",21.7,74.5
+54083,"wv","randolph",25.2,70.1
+54085,"wv","ritchie",12.1,83.6
+54087,"wv","roane",23.3,72.1
+54089,"wv","summers",24.5,71.1
+54091,"wv","taylor",22.8,72.3
+54093,"wv","tucker",21.7,73.8
+54095,"wv","tyler",13.9,81.9
+54097,"wv","upshur",19.2,75.9
+54099,"wv","wayne",22.1,73.5
+54101,"wv","webster",18.7,77.3
+54103,"wv","wetzel",21.8,72.1
+54105,"wv","wirt",15.9,79
+54107,"wv","wood",23.6,71.4
+54109,"wv","wyoming",13.6,83.6
+56001,"wy","albany",41.9,46.3
+56003,"wy","big horn",11.7,80.1
+56005,"wy","campbell",7.4,88
+56007,"wy","carbon",20.6,71.1
+56009,"wy","converse",10.2,84.2
+56011,"wy","crook",7.2,88.8
+56013,"wy","fremont",25.4,67.5
+56015,"wy","goshen",16.2,77.4
+56017,"wy","hot springs",15.8,76.5
+56019,"wy","johnson",14.7,79.9
+56021,"wy","laramie",29,62.2
+56023,"wy","lincoln",13.2,80.7
+56025,"wy","natrona",20.2,72.4
+56027,"wy","niobrara",8.9,86
+56029,"wy","park",17.3,76
+56031,"wy","platte",16.1,77.1
+56033,"wy","sheridan",20.6,72.4
+56035,"wy","sublette",15,79.3
+56037,"wy","sweetwater",19.4,72.9
+56039,"wy","teton",60.1,32.2
+56041,"wy","uinta",14.9,76.4
+56043,"wy","washakie",14.3,78.4
+56045,"wy","weston",8.8,86.9

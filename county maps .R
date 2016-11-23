@@ -58,7 +58,7 @@ Difference <- Difference %>% filter(!is.na(region))
 # make it 2-party
 # get numbers
 
-Clinton <-  results16 %>% filter(candidate == "Hillary Clinton") %>% select("Clinton" =percent_won, region,county.name) 
+Clinton <-  results16 %>% filter(candidate == "Hillary Clinton") %>% select("Clinton" =percent_won, region,county.name,abbr_state) 
 Trump <-  results16 %>% filter(candidate == "Donald Trump") %>% select("Trump" =percent_won, region) 
 Obama <- results12 %>% filter(candidate == "Barack Obama") %>% select("Obama" = percent_won, region)
 Romney <- results12 %>% filter(candidate == "Mitt Romney") %>% select("Romney" = percent_won, region)
@@ -82,7 +82,7 @@ demog <- df_county_demographics
 
 edu <- read.csv("Education.csv")
 edu <- data.frame(edu[1], edu[length(edu)]) 
-names(edu) <- c("region","Pct.Bachelors.2014")
+names(edu) <- c("region","BachelorsPlus")
 
 unem <- read.csv("Unemployment.csv")
 unem <- data.frame(unem[1], unem[length(unem)-2],unem[length(unem)-1]) 
@@ -102,6 +102,9 @@ data_formatted <- data %>% select(region,county.name.x,state.name,state.abb,cand
                                   county.fips.character,state.fips.character) %>% filter(candidate == "Hillary Clinton")
 data_formatted <- left_join(data_formatted, demog, by = "region")
 
+## COMBINE WITH DIFFERENCE RESULTS ## 
+Difference <- left_join(Difference,demog, "region")
+
 ##############
 # data (end) #
 ##############
@@ -109,6 +112,7 @@ data_formatted <- left_join(data_formatted, demog, by = "region")
 ##############
 #### Maps ####
 ##############
+
 # 2016 map (vote share) #####
 
 
@@ -245,6 +249,28 @@ print(g)
 
 dev.copy(png,"ClintonMargin2016rural.png",width = 10, height = 8, unit = "in", res = 200)
 dev.off()
+# 2016 map (Clinton Margin - (black))#####
+
+data_formattedblack <- data_formatted2 %>% filter(percent_black > 10)
+
+gg <- county_choropleth(data_formattedblack, num_colors = 1, title = "Clinton Margin of Victory \n(Counties with > 10% Black Voters)") +
+  scale_fill_gradient2(high = "blue", 
+                       low = "red", 
+                       na.value = "#EAECEE", 
+                       breaks = pretty(data_formattedblack$value, n = 10),name = "Clinton Margin %") + 
+  theme(plot.title = element_text(face = "bold",hjust = .5, size = 20),
+        legend.position = "bottom")
+
+
+grid.newpage()
+footnote <- "By @gelliottmorris | thecrosstab.com | elliott@thecrosstab.com"
+g <- arrangeGrob(gg, 
+                 right = textGrob(footnote, x = 0, rot = 90, hjust = .8, vjust=1.3, gp = gpar(fontface = "italic", fontsize = 12)))
+grid.draw(g)
+print(g)
+
+dev.copy(png,"ClintonMargin2016Black.png",width = 10, height = 8, unit = "in", res = 200)
+dev.off()
 # Difference Map #####
 
 gg<- county_choropleth(Difference,num_colors = 1, title = "Where Clinton Outperformed Obama") +
@@ -266,7 +292,6 @@ print(g)
 
 dev.copy(png,"ClintonOverperfom.png",width = 10, height = 8, unit = "in", res = 200)
 dev.off()
-
 # Difference Map (biggest shifts) #####
 DifferenceBIG <- Difference %>% filter(abs(value)>10)
 
@@ -311,7 +336,6 @@ print(g)
 
 dev.copy(png,"ClintonOverperfomMidwest.png",width = 10, height = 8, unit = "in", res = 200)
 dev.off()
-
 # difference (hispanic counties)#####
 
 diff_hispanic <- Difference %>% filter(percent_hispanic > 25)
@@ -338,13 +362,9 @@ print(g)
 
 dev.copy(png,"ClintonOverperfomHispanic.png",width = 10, height = 8, unit = "in", res = 200)
 dev.off()
-
 # difference poor counties #####
 
-data(df_county_demographics)
-demog <- df_county_demographics
-diff_poor <- left_join(Difference,demog,by = "region")
-diff_poor <- diff_poor %>% filter(per_capita_income >25000)
+diff_poor <- Difference %>% filter(per_capita_income >25000)
 
 gg <- county_choropleth(diff_poor,num_colors = 1, title = "Where Clinton Overperformed Obama\n (Counties < $25,000 Per Capita Income)")+
   scale_fill_gradient2(high = "blue", 
@@ -368,13 +388,9 @@ print(g)
 
 dev.copy(png,"ClintonOverperformIncome.png",width = 10, height = 8, unit = "in", res = 200)
 dev.off()
-
 # difference white counties #####
 
-data(df_county_demographics)
-demog <- df_county_demographics
-diff_poor <- left_join(Difference,demog,by = "region")
-diff_poor <- diff_poor %>% filter(percent_white >75)
+diff_poor <- Difference %>% filter(percent_white >75)
 
 gg <- county_choropleth(diff_poor,num_colors = 1, title = "Where Clinton Overperformed Obama\n (Counties > 75% White)")+
   scale_fill_gradient2(high = "blue", 
@@ -395,13 +411,9 @@ print(g)
 
 dev.copy(png,"ClintonOverperformWhite.png",width = 10, height = 8, unit = "in", res = 200)
 dev.off()
-
 # difference poor & white counties #####
 
-data(df_county_demographics)
-demog <- df_county_demographics
-diff_poor <- left_join(Difference,demog,by = "region")
-diff_poor <- diff_poor %>% filter(percent_white >75, per_capita_income < 25000)
+diff_poor <- Difference %>% filter(percent_white >75, per_capita_income < 25000)
 
 gg <- county_choropleth(diff_poor,num_colors = 1, title = "Where Clinton Overperformed Obama\n (Counties >75% White, <$25K Per Capita Income)")+
   scale_fill_gradient2(high = "blue", 
@@ -422,19 +434,15 @@ print(g)
 
 dev.copy(png,"ClintonOverperformPoorWhite.png",width = 10, height = 8, unit = "in", res = 200)
 dev.off()
-
 # difference large counties #####
 
-data(df_county_demographics)
-demog <- df_county_demographics
-diff_poor <- left_join(Difference,demog,by = "region")
-diff_poor <- diff_poor %>% filter(total_population > 500000)
+diff_large <- Difference %>% filter(total_population > 500000)
 
-gg <- county_choropleth(diff_poor,num_colors = 1, title = "Where Clinton Overperformed Obama\n (Counties > 500,000 People)")+
+gg <- county_choropleth(diff_large,num_colors = 1, title = "Where Clinton Overperformed Obama\n (Counties > 500,000 People)")+
   scale_fill_gradient2(high = "blue", 
                        low = "red", 
                        na.value = "#EAECEE", 
-                       breaks = pretty(Difference$value, n = 10),name = "Clinton - Obama %") + 
+                       breaks = pretty(diff_large$value, n = 10),name = "Clinton - Obama %") + 
   theme(plot.title = element_text(face = "bold",hjust = .5, size = 20),
         legend.position = "bottom")
 
@@ -449,13 +457,8 @@ print(g)
 
 dev.copy(png,"ClintonOverperformLargeCounties.png",width = 10, height = 8, unit = "in", res = 200)
 dev.off()
-
 # difference (hispanic counties > 90%, two party)#####
-
-data(df_county_demographics)
-demog <- df_county_demographics
-diff_hispanic <- left_join(Difference,demog,by = "region")
-diff_hispanic <- diff_hispanic %>% filter(percent_hispanic > 90)
+diff_hispanic <- Difference %>% filter(percent_hispanic > 90)
 
 # map
 gg <- county_choropleth(diff_hispanic,num_colors = 1, title = "Where Clinton Outperformed Obama \n(Counties >90% Hispanic)",state_zoom = "texas")+
@@ -495,31 +498,11 @@ outputTable$Shift <- round(as.numeric(outputTable$Shift) , 2)
 outputTable <- outputTable[order(outputTable$`% Hispanic`,decreasing = TRUE),]
 outputTable <- rbind(outputTable, c("","","","Average",round(mean(outputTable$Shift),2)))
 kable(outputTable,row.names = FALSE)
-
 # difference (hispanic counties > 50%, two party)#####
 
 #get numbers
 
-Clinton <-  results16 %>% filter(candidate == "Hillary Clinton") %>% select("Clinton" =percent_won, region,county.name) 
-Trump <-  results16 %>% filter(candidate == "Donald Trump") %>% select("Trump" =percent_won, region) 
-Obama <- results12 %>% filter(candidate == "Barack Obama") %>% select("Obama" = percent_won, region)
-Romney <- results12 %>% filter(candidate == "Mitt Romney") %>% select("Romney" = percent_won, region)
-
-Difference12 <- left_join(Clinton,Trump, by = "region")
-Difference16 <- left_join(Obama,Romney, by = "region")
-
-Difference <- left_join(Difference12,Difference16, by = "region")
-
-Difference$Clinton2Party <- (Difference$Clinton/(Difference$Clinton + Difference$Trump)) * 100
-Difference$Obama2Party <-  (Difference$Obama/(Difference$Obama + Difference$Romney)) * 100
-Difference$value <- Difference$Clinton2Party - Difference$Obama2Party
-
-Difference <- Difference %>% filter(!is.na(region))
-
-data(df_county_demographics)
-demog <- df_county_demographics
-diff_hispanic <- left_join(Difference,demog,by = "region")
-diff_hispanic <- diff_hispanic %>% filter(percent_hispanic > 50)
+diff_hispanic <- Difference %>% filter(percent_hispanic > 50)
 
 # map
 gg <- county_choropleth(diff_hispanic,num_colors = 1, title = "Where Clinton Outperformed Obama \n(Counties >50% Hispanic)")+
@@ -541,7 +524,6 @@ print(g)
 
 dev.copy(png,"ClintonOverperfomHispanicTWOPARTY50.png",width = 10, height = 8, unit = "in", res = 200)
 dev.off()
-
 # Difference Map IN IOWA #####
 
 gg<- county_choropleth(Difference,num_colors = 1, title = "Where Clinton Outperformed Obama\nIn Iowa",state_zoom = "iowa") +
@@ -563,7 +545,6 @@ print(g)
 
 dev.copy(png,"DifferenceMapIowa.png",width = 10, height = 8, unit = "in", res = 200)
 dev.off()
-
 # Difference Map IN OREGON #####
 
 gg<- county_choropleth(Difference,num_colors = 1, title = "Where Clinton Outperformed Obama\nIn Oregon",state_zoom = "oregon") +
@@ -640,14 +621,3 @@ print(g)
 
 dev.copy(png,"SCALEBYSIZE.png",width = 10, height = 8, unit = "in", res = 200)
 dev.off()
-
-###############
-# Regressions #
-###############
-
-sample_data <- data_formatted# %>% filter(state.abb %in% c("WI"))
-attach(sample_data)
-
-summary(lm(value ~ percent_white + Pct.Bachelors.2014 + Pct.Unemployed.2015 + MHI.2014))
-
-detach(sample_data)
