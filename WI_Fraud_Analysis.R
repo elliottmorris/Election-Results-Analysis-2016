@@ -4,7 +4,14 @@
 
 # *NOTE: You should run the "County Maps.R" file in the root directory to gather all the data and dependencies.
 
-
+# libraries
+library(dplyr)
+library(tidyr)
+library(ggplot2)
+library(choroplethr)
+library(choroplethrMaps)
+library(grid)
+library(gridExtra)
 
 ###############
 # Regressions #
@@ -13,14 +20,11 @@
 sample_data <- Difference %>% filter(abbr_state %in% c("wi"))
 sample_data$paperballot <- 0
 paper_ballot_counties <- c("ashland", "bayfield","brown" ,"columbia" ,"dane" ,"douglas","door" ,"fond du lac","green" ,"kenosha",  
-                           "la crosse","lincoln","milwaukee","ozaukee" ,"portage","rock" ,"sauk","st croix " ,"washington"  ,"waukasha" ,"winnebago" ,"wood")
+                           "la crosse","lincoln","milwaukee","ozaukee" ,"portage","rock" ,"sauk","st. croix" ,"washington"  ,"waukesha" ,"winnebago" ,"wood")
 sample_data[sample_data$county.name %in% paper_ballot_counties,]$paperballot <- 1
-attach(sample_data)
 
-model <- lm(value ~ percent_white + BachelorsPlus + paperballot)
+model <- lm(sample_data$value ~ sample_data$percent_white + sample_data$BachelorsPlus + sample_data$paperballot)
 summary(model)
-
-detach(sample_data)
 
 #############
 # Table
@@ -125,3 +129,11 @@ grid.draw(g)
 
 dev.copy(png,"ClintonWinCorr.png",width = 14, height = 8, unit = "in", res = 200)
 dev.off()
+
+
+### Graph #####
+
+ggplot(data = sample_data, aes(x=BachelorsPlus, y = Clinton,col = paperballot)) + geom_point() + theme_minimal() +
+  ggtitle("Clinton's Vote Share in Wisconsin\n(Predicted by Education Level\nColored by Ballot Type)") +
+  theme(plot.title = element_text(face ="bold",size =20, hjust = .5)) + ylab("Clinton %") + xlab("Percent with Bachelors Degree or Higher") +
+  geom_smooth(method = "lm", col = "red", se = FALSE) + geom_hline(yintercept = 50, linetype = 2)
