@@ -2,4 +2,4 @@
 
 Run in R
 
-More on my [twitter](http://twitter.com/gelliottmorris)
+More on my [twitter](https://twitter.com/gelliottmorris/status/801305539326201856)
