@@ -181,7 +181,6 @@ print(g)
 
 dev.copy(png,"ClintonMargin2016MIDWEST.png",width = 10, height = 8, unit = "in", res = 200)
 dev.off()
-
 # 2016 map (Clinton Margin - biggest wins/losses)#####
 
 data_formattedBIG <- data_formatted2 %>% filter(abs(value) > 60)
@@ -204,7 +203,6 @@ print(g)
 
 dev.copy(png,"ClintonMargin2016BIGSHIFT.png",width = 10, height = 8, unit = "in", res = 200)
 dev.off()
-
 # 2016 map (Clinton Margin - cities (>250k))#####
 
 data_formattedcities <- data_formatted2 %>% filter(total_population > 250000)
@@ -314,7 +312,6 @@ print(g)
 
 dev.copy(png,"ClintonOverperfomBIGGEST.png",width = 10, height = 8, unit = "in", res = 200)
 dev.off()
-
 # Difference Map (midewst) #####
 
 gg<- county_choropleth(Difference,num_colors = 1, title = "Where Clinton Outperformed Obama",state_zoom = c("ohio","iowa","illinois","indiana","michigan","wisconsin","pennsylvania","missouri","new york","minnesota"))+
@@ -566,7 +563,6 @@ print(g)
 
 dev.copy(png,"DifferenceMapOregon.png",width = 10, height = 8, unit = "in", res = 200)
 dev.off()
-
 # Difference Map IN CALIFORNIA #####
 
 gg<- county_choropleth(Difference,num_colors = 1, title = "Where Clinton Outperformed Obama\nIn California",state_zoom = "california") +
@@ -588,28 +584,16 @@ print(g)
 
 dev.copy(png,"DifferenceMapCalifornia.png",width = 10, height = 8, unit = "in", res = 200)
 dev.off()
+# Results Map IN Wisconsin #####
 
-
-
-#########################
-## Scale County by Pop ##
-#########################
-
-# 2016 map (Clinton Margin) ###
-
-data2 <- data %>% select(region,candidate,"Trump" = percent_won,
-                         county.fips.character,state.fips.character) %>% filter(candidate == "Donald Trump")
-
-data_formatted2 <- left_join(data_formatted,data2,by = "region")
-data_formatted2$value <- data_formatted2$value - data_formatted2$Trump
-
-gg <- county_choropleth(data_formatted2, num_colors = 1, title = "Clinton Margin of Victory") +
+gg<- county_choropleth(data_formatted2,num_colors = 1, title = "Clinton's Win/Loss Margin\nIn Wisconsin",state_zoom = "wisconsin") +
   scale_fill_gradient2(high = "blue", 
                        low = "red", 
                        na.value = "#EAECEE", 
-                       breaks = pretty(data_formatted2$value, n = 10),name = "Clinton %") + 
+                       breaks = pretty(data_formatted2$value, n = 10),name = "Clinton - Obama %") + 
   theme(plot.title = element_text(face = "bold",hjust = .5, size = 20),
         legend.position = "bottom")
+
 
 
 grid.newpage()
@@ -619,5 +603,7 @@ g <- arrangeGrob(gg,
 grid.draw(g)
 print(g)
 
-dev.copy(png,"SCALEBYSIZE.png",width = 10, height = 8, unit = "in", res = 200)
+dev.copy(png,"ResultsMapwisconsin.png",width = 10, height = 8, unit = "in", res = 200)
 dev.off()
+
+

@@ -57,7 +57,7 @@ kable(outputTable, row.names = FALSE)
 #############
 #paper 
 sample_data1 <- sample_data %>% filter(paperballot == 1)
-gg1<- county_choropleth(sample_data1,num_colors = 1, title = "Clinton's Vote Share vs Obama's - \nPaper Bllot Counties", state_zoom = "wisconsin")+
+gg1<- county_choropleth(sample_data1,num_colors = 1, title = "Clinton's Vote Share vs Obama's - \nPaper Ballot Counties", state_zoom = "wisconsin")+
   scale_fill_gradient2(high = "blue", 
                        low = "red", 
                        na.value = "#EAECEE", 
@@ -133,7 +133,22 @@ dev.off()
 
 ### Graph #####
 
-ggplot(data = sample_data, aes(x=BachelorsPlus, y = Clinton,col = paperballot)) + geom_point() + theme_minimal() +
+gg1 <- ggplot(data = sample_data, aes(x=BachelorsPlus, y = value,col = paperballot)) + geom_point(size=2) + theme_minimal() +
+  ggtitle("Clinton - Obama Shift in Wisconsin\n(Predicted by Education Level\nColored by Ballot Type)") +
+  theme(plot.title = element_text(face ="bold",size =20, hjust = .5)) + ylab("Clinton %") + xlab("Percent with Bachelors Degree or Higher") +
+  geom_smooth(method = "lm", col = "red", se = FALSE) + geom_hline(yintercept = 0, linetype = 2) + theme(legend.position = "none")
+
+
+gg2 <- ggplot(data = sample_data, aes(x=BachelorsPlus, y = Clinton,col = paperballot)) + geom_point(size=2) + theme_minimal() +
   ggtitle("Clinton's Vote Share in Wisconsin\n(Predicted by Education Level\nColored by Ballot Type)") +
   theme(plot.title = element_text(face ="bold",size =20, hjust = .5)) + ylab("Clinton %") + xlab("Percent with Bachelors Degree or Higher") +
   geom_smooth(method = "lm", col = "red", se = FALSE) + geom_hline(yintercept = 50, linetype = 2)
+
+
+footnote <- "By @gelliottmorris | thecrosstab.com | elliott@thecrosstab.com"
+grid.newpage()
+g <- arrangeGrob(gg1, gg2, ncol = 2,bottom = textGrob(footnote, x = 0, rot = 0, hjust = 0, vjust= 0, gp = gpar(fontface = "italic", fontsize = 12)))
+grid.draw(g)
+
+dev.copy(png,"ClintonWinStats.png",width = 16, height = 8, unit = "in", res = 200)
+dev.off()
